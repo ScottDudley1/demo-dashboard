@@ -1,0 +1,1996 @@
+Date,Channel,Campaign Name,Ad Set Name,Ad Name,CPC,Spend,Impressions,Clicks,Conversions,Reach
+2024-07-21,Google,Retargeting,Set D,Ad 4,0.88,116.44,4747,586,58,3188
+2024-07-21,Facebook,Brand Awareness,Set B,Ad 4,0.88,244.84,5852,244,82,6304
+2024-07-21,LinkedIn,Brand Awareness,Set D,Ad 2,0.75,285.65,14515,431,13,1487
+2024-07-21,TikTok,Retargeting,Set A,Ad 2,1.36,89.29,8888,268,87,11166
+2024-07-21,Instagram,Summer Promo,Set C,Ad 3,0.98,90.43,2470,105,44,4551
+2024-07-21,X,Brand Awareness,Set A,Ad 1,0.77,149.96,6593,575,55,5383
+2024-07-21,Google Organic,Brand Awareness,Set D,Ad 3,1.25,35.89,1250,179,45,6703
+2024-07-22,Google,Holiday Sale,Set C,Ad 2,1.72,48.23,6729,151,49,1575
+2024-07-22,Facebook,Holiday Sale,Set C,Ad 2,1.19,262.55,8859,226,96,7960
+2024-07-22,LinkedIn,Retargeting,Set C,Ad 5,1.95,37.81,2797,454,93,8191
+2024-07-22,TikTok,Back to School,Set B,Ad 3,1.06,127.55,1841,290,11,1402
+2024-07-22,Instagram,Retargeting,Set B,Ad 2,0.65,57.83,13955,432,27,5155
+2024-07-22,X,Holiday Sale,Set C,Ad 5,0.7,67.09,2222,425,78,6093
+2024-07-22,Google Organic,Summer Promo,Set A,Ad 3,1.25,66.12,13747,537,29,2852
+2024-07-23,Google,Back to School,Set C,Ad 1,1.6,33.4,4740,395,80,2605
+2024-07-23,Facebook,Brand Awareness,Set D,Ad 2,1.76,101.63,2142,600,76,10838
+2024-07-23,LinkedIn,Retargeting,Set D,Ad 3,0.97,148.61,8414,251,79,6558
+2024-07-23,TikTok,Back to School,Set B,Ad 5,1.8,141.15,8801,306,43,4673
+2024-07-23,Instagram,Retargeting,Set C,Ad 1,0.86,53.26,2632,536,58,7802
+2024-07-23,X,Retargeting,Set D,Ad 3,1.24,249.3,2849,465,55,11040
+2024-07-23,Google Organic,Back to School,Set D,Ad 5,1.88,101.19,5899,517,34,10450
+2024-07-24,Google,Summer Promo,Set A,Ad 5,0.73,296.37,1313,316,90,3989
+2024-07-24,Facebook,Retargeting,Set B,Ad 2,1.85,80.98,13087,560,40,2884
+2024-07-24,LinkedIn,Summer Promo,Set B,Ad 3,1.35,144.66,10811,59,12,4716
+2024-07-24,TikTok,Brand Awareness,Set A,Ad 4,1.51,171.11,10102,594,81,9261
+2024-07-24,Instagram,Summer Promo,Set B,Ad 2,1.69,69.4,10936,169,70,2863
+2024-07-24,X,Back to School,Set B,Ad 3,1.69,24.01,2521,219,94,3733
+2024-07-24,Google Organic,Holiday Sale,Set B,Ad 1,1.9,286.01,11147,347,35,9585
+2024-07-25,Google,Back to School,Set A,Ad 5,1.79,49.59,7480,124,62,10117
+2024-07-25,Facebook,Summer Promo,Set A,Ad 3,0.65,179.96,12897,303,59,3518
+2024-07-25,LinkedIn,Holiday Sale,Set D,Ad 1,0.51,273.66,1685,298,8,672
+2024-07-25,TikTok,Retargeting,Set D,Ad 1,1.05,173.74,14576,116,20,4847
+2024-07-25,Instagram,Back to School,Set D,Ad 2,1.88,111.42,7111,286,58,6208
+2024-07-25,X,Brand Awareness,Set D,Ad 4,0.81,137.74,9451,210,23,9327
+2024-07-25,Google Organic,Summer Promo,Set A,Ad 1,1.38,61.94,7302,358,19,6162
+2024-07-26,Google,Summer Promo,Set C,Ad 4,1.55,265.03,8378,206,29,6430
+2024-07-26,Facebook,Brand Awareness,Set D,Ad 5,1.01,203.12,10462,128,94,9595
+2024-07-26,LinkedIn,Holiday Sale,Set A,Ad 5,1.68,286.63,1715,190,22,1440
+2024-07-26,TikTok,Holiday Sale,Set D,Ad 4,0.71,295.76,2020,138,17,11945
+2024-07-26,Instagram,Holiday Sale,Set A,Ad 2,1.14,160.47,11985,589,74,646
+2024-07-26,X,Holiday Sale,Set C,Ad 2,1.18,242.5,8717,260,51,6267
+2024-07-26,Google Organic,Brand Awareness,Set A,Ad 1,1.05,51.31,4382,350,48,9360
+2024-07-27,Google,Back to School,Set C,Ad 3,0.98,42.32,8162,413,28,5876
+2024-07-27,Facebook,Brand Awareness,Set D,Ad 5,0.86,46.44,11196,61,51,2180
+2024-07-27,LinkedIn,Summer Promo,Set D,Ad 1,1.71,106.15,11934,139,17,3481
+2024-07-27,TikTok,Summer Promo,Set D,Ad 3,1.91,64.3,6871,501,43,6716
+2024-07-27,Instagram,Summer Promo,Set B,Ad 4,1.54,277.76,4778,97,38,545
+2024-07-27,X,Retargeting,Set A,Ad 5,0.57,204.61,14095,358,76,8098
+2024-07-27,Google Organic,Back to School,Set D,Ad 2,1.15,34.81,1309,168,86,8996
+2024-07-28,Google,Back to School,Set C,Ad 3,1.88,120.07,13659,239,60,9504
+2024-07-28,Facebook,Summer Promo,Set B,Ad 3,1.31,183.55,10752,297,18,7905
+2024-07-28,LinkedIn,Holiday Sale,Set A,Ad 3,0.91,226.08,13343,221,37,2979
+2024-07-28,TikTok,Brand Awareness,Set C,Ad 3,1.41,256.97,4597,283,55,7432
+2024-07-28,Instagram,Summer Promo,Set A,Ad 3,1.24,208.72,6498,76,55,5442
+2024-07-28,X,Holiday Sale,Set C,Ad 2,1.73,202.89,7305,270,94,4224
+2024-07-28,Google Organic,Brand Awareness,Set C,Ad 3,0.51,211.22,14917,165,80,11972
+2024-07-29,Google,Back to School,Set C,Ad 1,0.8,30.65,9137,469,41,9726
+2024-07-29,Facebook,Summer Promo,Set D,Ad 1,0.76,104.6,10360,306,50,10641
+2024-07-29,LinkedIn,Retargeting,Set B,Ad 4,1.43,140.72,2512,546,28,663
+2024-07-29,TikTok,Summer Promo,Set D,Ad 2,1.75,204.33,7931,504,77,851
+2024-07-29,Instagram,Holiday Sale,Set A,Ad 1,0.95,216.19,12875,274,64,7544
+2024-07-29,X,Brand Awareness,Set D,Ad 3,1.32,80.72,10433,64,54,11360
+2024-07-29,Google Organic,Summer Promo,Set D,Ad 1,1.94,94.39,2165,108,79,8519
+2024-07-30,Google,Back to School,Set C,Ad 2,1.03,102.07,8748,357,26,8241
+2024-07-30,Facebook,Retargeting,Set D,Ad 3,1.07,195.99,5654,188,54,7205
+2024-07-30,LinkedIn,Brand Awareness,Set A,Ad 1,1.67,60.81,14077,147,70,4460
+2024-07-30,TikTok,Summer Promo,Set C,Ad 2,0.73,39.08,1824,256,16,10854
+2024-07-30,Instagram,Retargeting,Set A,Ad 3,1.11,214.12,1278,317,21,6479
+2024-07-30,X,Holiday Sale,Set C,Ad 4,1.09,298.82,2334,225,53,11389
+2024-07-30,Google Organic,Retargeting,Set A,Ad 3,1.72,281.81,10603,173,23,8295
+2024-07-31,Google,Brand Awareness,Set A,Ad 1,1.1,227.26,10092,398,21,7975
+2024-07-31,Facebook,Back to School,Set C,Ad 5,0.57,290.06,7577,247,90,6073
+2024-07-31,LinkedIn,Back to School,Set C,Ad 3,1.06,98.14,2605,342,12,6393
+2024-07-31,TikTok,Summer Promo,Set B,Ad 5,0.89,220.0,11523,380,59,7212
+2024-07-31,Instagram,Summer Promo,Set A,Ad 3,0.87,123.56,5017,427,91,11801
+2024-07-31,X,Retargeting,Set A,Ad 1,0.64,77.1,12886,162,81,8536
+2024-07-31,Google Organic,Holiday Sale,Set B,Ad 2,1.81,123.65,13990,524,50,5465
+2024-08-01,Google,Summer Promo,Set A,Ad 1,1.3,40.23,14862,474,18,2898
+2024-08-01,Facebook,Back to School,Set B,Ad 2,1.34,119.72,1200,187,68,2907
+2024-08-01,LinkedIn,Brand Awareness,Set C,Ad 4,1.9,73.67,3794,588,27,6523
+2024-08-01,TikTok,Back to School,Set A,Ad 4,1.62,77.31,3032,305,91,9304
+2024-08-01,Instagram,Holiday Sale,Set B,Ad 4,0.83,25.96,4465,420,48,8513
+2024-08-01,X,Brand Awareness,Set D,Ad 4,0.5,287.12,14191,390,38,3811
+2024-08-01,Google Organic,Brand Awareness,Set B,Ad 5,1.5,166.65,14903,564,68,813
+2024-08-02,Google,Brand Awareness,Set D,Ad 4,0.61,103.78,7313,70,56,7858
+2024-08-02,Facebook,Holiday Sale,Set C,Ad 4,1.64,96.4,3710,162,24,2753
+2024-08-02,LinkedIn,Holiday Sale,Set B,Ad 5,0.94,29.37,7149,557,100,10176
+2024-08-02,TikTok,Summer Promo,Set A,Ad 4,1.75,134.6,9423,96,32,6794
+2024-08-02,Instagram,Retargeting,Set B,Ad 3,0.82,133.05,9494,335,98,11972
+2024-08-02,X,Holiday Sale,Set D,Ad 4,1.75,212.83,2865,555,67,3209
+2024-08-02,Google Organic,Summer Promo,Set D,Ad 5,0.54,150.18,8027,182,62,5653
+2024-08-03,Google,Retargeting,Set B,Ad 4,0.74,196.57,1409,509,37,11735
+2024-08-03,Facebook,Retargeting,Set A,Ad 4,1.3,126.3,3236,109,50,1588
+2024-08-03,LinkedIn,Back to School,Set D,Ad 5,1.18,43.01,12290,323,78,10706
+2024-08-03,TikTok,Retargeting,Set C,Ad 4,1.22,182.18,7486,165,13,9025
+2024-08-03,Instagram,Back to School,Set C,Ad 1,0.53,125.29,7300,566,54,8632
+2024-08-03,X,Summer Promo,Set D,Ad 3,0.54,60.19,1475,282,82,5142
+2024-08-03,Google Organic,Back to School,Set D,Ad 4,0.52,272.68,2053,138,50,2276
+2024-08-04,Google,Summer Promo,Set B,Ad 5,0.68,63.58,14409,125,89,10025
+2024-08-04,Facebook,Retargeting,Set D,Ad 5,0.97,199.22,11866,418,94,6812
+2024-08-04,LinkedIn,Summer Promo,Set D,Ad 4,0.67,69.49,2300,590,98,5958
+2024-08-04,TikTok,Summer Promo,Set C,Ad 5,0.76,203.46,4599,493,79,2459
+2024-08-04,Instagram,Holiday Sale,Set B,Ad 1,0.97,54.8,6510,90,11,4338
+2024-08-04,X,Summer Promo,Set A,Ad 1,1.16,231.89,11678,348,40,3296
+2024-08-04,Google Organic,Brand Awareness,Set B,Ad 3,0.57,225.99,5914,214,25,8559
+2024-08-05,Google,Holiday Sale,Set A,Ad 1,0.74,262.38,12824,239,89,7820
+2024-08-05,Facebook,Retargeting,Set B,Ad 3,1.6,38.51,14849,439,81,10526
+2024-08-05,LinkedIn,Back to School,Set D,Ad 2,1.3,196.46,2881,530,91,11209
+2024-08-05,TikTok,Retargeting,Set B,Ad 3,0.9,87.02,9131,320,50,9371
+2024-08-05,Instagram,Retargeting,Set D,Ad 5,1.34,185.66,4361,75,82,9515
+2024-08-05,X,Holiday Sale,Set C,Ad 5,0.52,259.41,7579,64,71,11545
+2024-08-05,Google Organic,Brand Awareness,Set D,Ad 4,1.66,87.99,2428,426,26,5939
+2024-08-06,Google,Brand Awareness,Set A,Ad 2,0.93,126.61,2663,207,56,5695
+2024-08-06,Facebook,Back to School,Set B,Ad 2,0.64,154.28,11105,431,41,9864
+2024-08-06,LinkedIn,Holiday Sale,Set C,Ad 1,0.68,176.47,4444,337,21,1959
+2024-08-06,TikTok,Retargeting,Set D,Ad 1,1.93,212.78,13101,416,34,4894
+2024-08-06,Instagram,Back to School,Set C,Ad 4,0.67,198.53,9706,364,23,5156
+2024-08-06,X,Brand Awareness,Set C,Ad 5,1.09,252.51,13741,231,40,10090
+2024-08-06,Google Organic,Holiday Sale,Set B,Ad 2,0.65,194.17,10876,377,71,7704
+2024-08-07,Google,Holiday Sale,Set C,Ad 4,1.19,239.73,13247,243,38,11749
+2024-08-07,Facebook,Brand Awareness,Set D,Ad 3,1.51,163.0,14608,180,56,7270
+2024-08-07,LinkedIn,Holiday Sale,Set A,Ad 2,0.98,199.7,12182,529,55,10653
+2024-08-07,TikTok,Retargeting,Set C,Ad 4,0.99,58.72,8802,207,61,8757
+2024-08-07,Instagram,Summer Promo,Set A,Ad 2,1.65,77.96,10594,534,54,2464
+2024-08-07,X,Brand Awareness,Set C,Ad 2,1.54,232.27,3374,51,87,11369
+2024-08-07,Google Organic,Brand Awareness,Set B,Ad 5,1.9,224.54,2973,384,46,2799
+2024-08-08,Google,Retargeting,Set D,Ad 5,1.38,223.52,11920,196,10,4122
+2024-08-08,Facebook,Retargeting,Set A,Ad 4,1.77,196.44,5658,55,53,11546
+2024-08-08,LinkedIn,Retargeting,Set B,Ad 2,1.87,134.21,13538,367,82,8275
+2024-08-08,TikTok,Retargeting,Set B,Ad 1,1.57,258.97,1030,157,46,4827
+2024-08-08,Instagram,Summer Promo,Set D,Ad 2,1.2,256.98,12780,600,55,5970
+2024-08-08,X,Back to School,Set B,Ad 3,1.43,77.09,7701,194,12,3534
+2024-08-08,Google Organic,Holiday Sale,Set D,Ad 5,1.83,83.56,6114,229,95,7004
+2024-08-09,Google,Holiday Sale,Set A,Ad 1,1.91,96.77,8339,112,52,6697
+2024-08-09,Facebook,Back to School,Set C,Ad 4,1.27,61.15,10065,512,23,4529
+2024-08-09,LinkedIn,Retargeting,Set D,Ad 3,0.52,177.38,4067,269,21,8248
+2024-08-09,TikTok,Brand Awareness,Set A,Ad 3,1.95,54.74,1824,133,39,1996
+2024-08-09,Instagram,Brand Awareness,Set D,Ad 1,0.64,85.79,9230,211,95,6889
+2024-08-09,X,Retargeting,Set D,Ad 2,0.95,188.37,14602,460,18,9735
+2024-08-09,Google Organic,Holiday Sale,Set B,Ad 4,1.77,25.89,2130,469,82,5296
+2024-08-10,Google,Holiday Sale,Set C,Ad 2,1.84,60.83,4214,148,85,9457
+2024-08-10,Facebook,Back to School,Set D,Ad 2,0.59,119.06,8201,500,41,3890
+2024-08-10,LinkedIn,Summer Promo,Set C,Ad 4,1.07,34.14,7385,353,81,8299
+2024-08-10,TikTok,Retargeting,Set C,Ad 5,1.25,167.61,1877,488,27,3781
+2024-08-10,Instagram,Back to School,Set C,Ad 2,0.67,214.69,2640,315,27,6117
+2024-08-10,X,Holiday Sale,Set D,Ad 3,1.22,255.14,7280,494,29,11312
+2024-08-10,Google Organic,Brand Awareness,Set A,Ad 3,1.62,134.54,4066,419,47,11827
+2024-08-11,Google,Retargeting,Set B,Ad 1,0.63,42.52,7401,288,69,7643
+2024-08-11,Facebook,Holiday Sale,Set A,Ad 3,1.58,96.58,6445,389,26,3277
+2024-08-11,LinkedIn,Brand Awareness,Set C,Ad 2,1.77,120.29,2498,512,67,5134
+2024-08-11,TikTok,Back to School,Set D,Ad 3,0.71,140.48,2583,581,64,4882
+2024-08-11,Instagram,Brand Awareness,Set C,Ad 5,1.74,212.59,14310,187,76,6609
+2024-08-11,X,Holiday Sale,Set B,Ad 1,0.98,225.67,5860,190,33,7548
+2024-08-11,Google Organic,Back to School,Set B,Ad 1,0.72,188.65,2675,356,91,7966
+2024-08-12,Google,Back to School,Set D,Ad 3,1.12,64.49,13173,113,27,10723
+2024-08-12,Facebook,Holiday Sale,Set D,Ad 4,1.64,82.53,5248,382,67,9383
+2024-08-12,LinkedIn,Summer Promo,Set B,Ad 5,0.52,27.57,6187,385,51,2769
+2024-08-12,TikTok,Holiday Sale,Set A,Ad 4,1.37,87.68,5962,192,74,11620
+2024-08-12,Instagram,Retargeting,Set C,Ad 3,1.0,269.24,8310,382,98,4088
+2024-08-12,X,Retargeting,Set B,Ad 3,1.22,232.29,13921,382,88,8981
+2024-08-12,Google Organic,Brand Awareness,Set A,Ad 2,1.21,102.84,5310,386,45,11903
+2024-08-13,Google,Brand Awareness,Set B,Ad 1,1.33,175.65,13019,326,14,6389
+2024-08-13,Facebook,Brand Awareness,Set C,Ad 3,0.66,92.9,9960,587,17,811
+2024-08-13,LinkedIn,Holiday Sale,Set B,Ad 2,1.69,210.18,3008,99,40,5489
+2024-08-13,TikTok,Back to School,Set D,Ad 5,1.25,132.47,8948,415,12,4946
+2024-08-13,Instagram,Holiday Sale,Set A,Ad 2,1.16,125.31,14809,230,66,6803
+2024-08-13,X,Holiday Sale,Set D,Ad 2,1.4,232.07,7547,473,53,5167
+2024-08-13,Google Organic,Holiday Sale,Set C,Ad 3,1.26,223.84,14438,484,44,7983
+2024-08-14,Google,Retargeting,Set C,Ad 5,0.81,45.1,4626,114,73,6801
+2024-08-14,Facebook,Retargeting,Set D,Ad 1,1.22,231.5,8502,249,75,3696
+2024-08-14,LinkedIn,Retargeting,Set C,Ad 5,1.95,20.37,10838,455,67,4930
+2024-08-14,TikTok,Back to School,Set B,Ad 5,1.45,253.63,5310,520,70,2097
+2024-08-14,Instagram,Retargeting,Set D,Ad 2,0.89,266.21,9404,66,81,4409
+2024-08-14,X,Holiday Sale,Set A,Ad 1,1.8,183.78,7584,411,76,5455
+2024-08-14,Google Organic,Back to School,Set C,Ad 1,0.92,162.4,9026,223,51,8242
+2024-08-15,Google,Summer Promo,Set B,Ad 5,1.46,291.48,4215,469,75,4987
+2024-08-15,Facebook,Brand Awareness,Set B,Ad 1,0.85,147.91,2666,536,6,3473
+2024-08-15,LinkedIn,Holiday Sale,Set C,Ad 5,1.8,36.69,12374,153,95,6613
+2024-08-15,TikTok,Brand Awareness,Set C,Ad 3,0.97,139.65,14990,403,97,8945
+2024-08-15,Instagram,Back to School,Set C,Ad 3,1.11,118.24,10682,413,25,11674
+2024-08-15,X,Brand Awareness,Set B,Ad 5,1.67,133.64,6580,196,7,5145
+2024-08-15,Google Organic,Brand Awareness,Set A,Ad 3,1.72,30.07,12650,67,23,3926
+2024-08-16,Google,Summer Promo,Set B,Ad 1,0.58,234.57,3014,373,71,11992
+2024-08-16,Facebook,Summer Promo,Set C,Ad 4,0.62,223.46,7667,368,74,10290
+2024-08-16,LinkedIn,Holiday Sale,Set D,Ad 3,0.99,202.65,9478,384,30,9348
+2024-08-16,TikTok,Retargeting,Set B,Ad 4,1.85,51.21,5428,247,28,2679
+2024-08-16,Instagram,Brand Awareness,Set B,Ad 4,1.21,264.04,2748,67,93,9008
+2024-08-16,X,Retargeting,Set B,Ad 5,1.13,295.16,2673,138,43,5884
+2024-08-16,Google Organic,Holiday Sale,Set A,Ad 3,1.46,100.5,2386,248,91,9390
+2024-08-17,Google,Holiday Sale,Set D,Ad 4,1.48,227.76,2488,396,20,10118
+2024-08-17,Facebook,Retargeting,Set A,Ad 1,0.82,292.46,12376,370,81,8835
+2024-08-17,LinkedIn,Back to School,Set D,Ad 5,1.48,58.66,8038,568,30,5259
+2024-08-17,TikTok,Retargeting,Set B,Ad 5,0.7,251.91,12133,529,35,4154
+2024-08-17,Instagram,Summer Promo,Set C,Ad 5,1.94,225.28,9396,461,15,837
+2024-08-17,X,Retargeting,Set D,Ad 3,0.87,211.41,11355,206,9,5455
+2024-08-17,Google Organic,Retargeting,Set B,Ad 4,1.77,240.57,12688,274,13,5752
+2024-08-18,Google,Back to School,Set A,Ad 1,1.55,78.97,13023,465,13,6463
+2024-08-18,Facebook,Summer Promo,Set D,Ad 3,1.2,240.82,10593,103,8,3073
+2024-08-18,LinkedIn,Back to School,Set D,Ad 1,1.21,154.67,5881,65,82,3680
+2024-08-18,TikTok,Retargeting,Set B,Ad 4,0.79,194.0,1877,577,91,8721
+2024-08-18,Instagram,Summer Promo,Set D,Ad 3,1.84,175.51,6948,551,62,7891
+2024-08-18,X,Retargeting,Set A,Ad 3,1.96,218.07,11477,288,46,2148
+2024-08-18,Google Organic,Retargeting,Set C,Ad 1,1.57,188.17,2364,77,81,5626
+2024-08-19,Google,Brand Awareness,Set D,Ad 1,1.57,246.15,9887,328,53,10111
+2024-08-19,Facebook,Holiday Sale,Set A,Ad 3,0.7,266.05,9606,532,99,8385
+2024-08-19,LinkedIn,Brand Awareness,Set D,Ad 4,1.46,291.98,12897,584,39,5990
+2024-08-19,TikTok,Brand Awareness,Set C,Ad 3,1.57,134.71,3334,245,6,6551
+2024-08-19,Instagram,Brand Awareness,Set C,Ad 3,1.27,63.73,9354,68,32,7766
+2024-08-19,X,Brand Awareness,Set A,Ad 1,0.91,193.1,12191,243,84,4410
+2024-08-19,Google Organic,Holiday Sale,Set B,Ad 4,0.81,82.55,6543,251,80,11288
+2024-08-20,Google,Brand Awareness,Set D,Ad 1,0.68,111.51,13055,189,5,1660
+2024-08-20,Facebook,Holiday Sale,Set B,Ad 2,1.46,88.04,9271,162,33,11324
+2024-08-20,LinkedIn,Back to School,Set C,Ad 2,1.09,200.47,3099,575,52,7495
+2024-08-20,TikTok,Back to School,Set A,Ad 5,1.71,125.1,2239,398,23,8786
+2024-08-20,Instagram,Retargeting,Set B,Ad 4,1.77,278.5,6801,584,83,5209
+2024-08-20,X,Back to School,Set B,Ad 3,1.33,234.73,13508,56,72,4922
+2024-08-20,Google Organic,Back to School,Set A,Ad 1,1.33,165.63,8111,229,18,9044
+2024-08-21,Google,Summer Promo,Set B,Ad 2,1.63,175.48,5338,526,90,2309
+2024-08-21,Facebook,Holiday Sale,Set C,Ad 3,1.23,70.48,8134,134,100,6069
+2024-08-21,LinkedIn,Back to School,Set C,Ad 2,1.53,287.47,12486,209,6,1195
+2024-08-21,TikTok,Back to School,Set A,Ad 5,1.47,223.02,5227,57,69,5913
+2024-08-21,Instagram,Retargeting,Set D,Ad 5,0.9,294.67,13909,388,77,10008
+2024-08-21,X,Back to School,Set A,Ad 1,1.91,269.17,10036,437,5,10583
+2024-08-21,Google Organic,Back to School,Set D,Ad 1,1.26,284.53,5969,592,16,3856
+2024-08-22,Google,Brand Awareness,Set C,Ad 1,1.63,246.52,7960,353,11,9257
+2024-08-22,Facebook,Brand Awareness,Set A,Ad 4,1.95,250.65,10281,375,34,10914
+2024-08-22,LinkedIn,Retargeting,Set A,Ad 3,1.06,119.0,14960,480,88,3846
+2024-08-22,TikTok,Brand Awareness,Set C,Ad 1,0.72,279.88,1556,357,39,8562
+2024-08-22,Instagram,Brand Awareness,Set C,Ad 2,0.57,25.14,5226,467,19,10686
+2024-08-22,X,Summer Promo,Set D,Ad 1,1.64,224.3,3682,580,87,10918
+2024-08-22,Google Organic,Brand Awareness,Set A,Ad 5,0.88,270.25,5341,578,11,1804
+2024-08-23,Google,Brand Awareness,Set B,Ad 5,0.98,288.07,5473,244,22,10120
+2024-08-23,Facebook,Retargeting,Set C,Ad 4,1.0,76.84,13785,449,67,5716
+2024-08-23,LinkedIn,Retargeting,Set D,Ad 1,1.94,135.22,13478,462,92,7924
+2024-08-23,TikTok,Brand Awareness,Set A,Ad 5,1.98,91.79,6792,593,85,5274
+2024-08-23,Instagram,Back to School,Set B,Ad 2,1.45,205.13,3591,403,25,6917
+2024-08-23,X,Holiday Sale,Set A,Ad 2,1.03,22.4,13370,151,37,8829
+2024-08-23,Google Organic,Back to School,Set D,Ad 5,1.9,83.56,9922,300,37,9080
+2024-08-24,Google,Holiday Sale,Set C,Ad 4,1.68,270.45,11535,335,89,7953
+2024-08-24,Facebook,Summer Promo,Set D,Ad 4,1.01,198.06,13992,135,39,10526
+2024-08-24,LinkedIn,Holiday Sale,Set D,Ad 4,1.48,202.06,12196,235,8,9602
+2024-08-24,TikTok,Retargeting,Set A,Ad 1,1.91,104.76,1556,515,24,11023
+2024-08-24,Instagram,Holiday Sale,Set A,Ad 4,0.97,234.43,9844,436,71,4505
+2024-08-24,X,Summer Promo,Set C,Ad 3,1.78,207.42,3081,390,37,3490
+2024-08-24,Google Organic,Brand Awareness,Set C,Ad 4,1.84,119.05,1470,169,28,11696
+2024-08-25,Google,Brand Awareness,Set A,Ad 5,1.25,299.53,2401,136,33,6376
+2024-08-25,Facebook,Retargeting,Set B,Ad 4,0.98,74.24,1707,471,86,2596
+2024-08-25,LinkedIn,Holiday Sale,Set D,Ad 5,1.68,140.47,9376,365,52,679
+2024-08-25,TikTok,Holiday Sale,Set D,Ad 2,0.94,43.31,7598,489,52,5496
+2024-08-25,Instagram,Holiday Sale,Set C,Ad 3,0.98,126.07,2874,358,62,11936
+2024-08-25,X,Brand Awareness,Set B,Ad 4,1.52,146.19,13408,141,36,1502
+2024-08-25,Google Organic,Summer Promo,Set B,Ad 1,0.85,104.76,7242,152,64,3352
+2024-08-26,Google,Brand Awareness,Set C,Ad 4,0.53,134.58,5644,456,98,8182
+2024-08-26,Facebook,Summer Promo,Set B,Ad 5,1.11,188.88,3737,244,76,10017
+2024-08-26,LinkedIn,Back to School,Set D,Ad 1,0.74,225.04,3009,424,10,9583
+2024-08-26,TikTok,Retargeting,Set B,Ad 3,0.93,96.18,2656,395,73,5405
+2024-08-26,Instagram,Back to School,Set B,Ad 5,1.41,264.83,3847,96,66,6513
+2024-08-26,X,Back to School,Set A,Ad 3,0.67,80.06,11873,377,88,2825
+2024-08-26,Google Organic,Holiday Sale,Set D,Ad 3,0.97,166.69,4759,208,35,4013
+2024-08-27,Google,Summer Promo,Set C,Ad 1,0.81,190.64,6649,81,35,8950
+2024-08-27,Facebook,Brand Awareness,Set A,Ad 4,1.11,83.8,10829,145,73,3414
+2024-08-27,LinkedIn,Summer Promo,Set A,Ad 1,1.48,299.49,10583,65,64,5168
+2024-08-27,TikTok,Brand Awareness,Set A,Ad 5,1.21,299.43,12877,345,74,953
+2024-08-27,Instagram,Holiday Sale,Set B,Ad 5,0.93,190.13,11326,75,81,10553
+2024-08-27,X,Holiday Sale,Set A,Ad 3,1.18,253.4,11511,492,41,9223
+2024-08-27,Google Organic,Brand Awareness,Set C,Ad 3,1.04,116.9,7514,171,20,8881
+2024-08-28,Google,Back to School,Set D,Ad 4,1.58,275.78,10194,300,69,10693
+2024-08-28,Facebook,Holiday Sale,Set B,Ad 3,0.82,219.64,3805,480,74,5651
+2024-08-28,LinkedIn,Summer Promo,Set B,Ad 1,1.66,129.12,9474,450,77,3034
+2024-08-28,TikTok,Summer Promo,Set A,Ad 2,1.57,31.89,6800,387,98,11041
+2024-08-28,Instagram,Brand Awareness,Set D,Ad 4,1.25,168.66,4176,259,27,9835
+2024-08-28,X,Summer Promo,Set D,Ad 1,1.21,58.47,6823,257,41,4572
+2024-08-28,Google Organic,Back to School,Set D,Ad 1,1.3,240.49,10911,577,45,5592
+2024-08-29,Google,Brand Awareness,Set A,Ad 5,0.52,45.23,13072,369,57,3857
+2024-08-29,Facebook,Brand Awareness,Set B,Ad 3,1.79,241.43,6476,521,52,3043
+2024-08-29,LinkedIn,Back to School,Set D,Ad 4,1.01,42.15,10897,241,34,4856
+2024-08-29,TikTok,Back to School,Set D,Ad 5,1.14,180.84,5742,207,89,11926
+2024-08-29,Instagram,Brand Awareness,Set C,Ad 4,1.74,186.12,9920,141,7,1811
+2024-08-29,X,Brand Awareness,Set C,Ad 5,1.55,284.98,12059,182,12,3176
+2024-08-29,Google Organic,Summer Promo,Set C,Ad 4,0.98,299.05,9242,279,49,1286
+2024-08-30,Google,Back to School,Set B,Ad 5,1.05,250.58,5769,127,69,5181
+2024-08-30,Facebook,Back to School,Set C,Ad 4,1.67,53.85,11830,335,81,10289
+2024-08-30,LinkedIn,Back to School,Set C,Ad 2,0.57,281.99,11151,533,41,9632
+2024-08-30,TikTok,Back to School,Set B,Ad 2,1.68,127.16,12895,72,65,3090
+2024-08-30,Instagram,Summer Promo,Set B,Ad 1,1.72,184.33,13307,362,47,3025
+2024-08-30,X,Brand Awareness,Set A,Ad 2,1.82,251.23,7830,102,22,2962
+2024-08-30,Google Organic,Summer Promo,Set A,Ad 3,0.68,170.41,4789,573,75,2582
+2024-08-31,Google,Holiday Sale,Set B,Ad 1,1.45,85.03,13762,499,76,9508
+2024-08-31,Facebook,Holiday Sale,Set D,Ad 5,1.91,187.23,12113,551,48,10637
+2024-08-31,LinkedIn,Summer Promo,Set B,Ad 3,0.53,55.51,6420,284,64,3532
+2024-08-31,TikTok,Brand Awareness,Set C,Ad 3,1.66,181.08,7314,286,22,3213
+2024-08-31,Instagram,Retargeting,Set B,Ad 5,0.75,166.64,13648,61,43,11995
+2024-08-31,X,Summer Promo,Set A,Ad 1,0.78,297.74,10691,577,57,951
+2024-08-31,Google Organic,Back to School,Set B,Ad 4,0.88,260.41,8742,253,92,3872
+2024-09-01,Google,Holiday Sale,Set C,Ad 5,1.99,76.67,6470,75,12,976
+2024-09-01,Facebook,Holiday Sale,Set B,Ad 2,0.97,258.91,6007,277,55,8644
+2024-09-01,LinkedIn,Brand Awareness,Set D,Ad 4,1.04,149.74,12778,373,33,1760
+2024-09-01,TikTok,Retargeting,Set B,Ad 4,0.54,88.49,7218,119,71,11163
+2024-09-01,Instagram,Brand Awareness,Set C,Ad 3,1.04,87.65,8341,313,58,7977
+2024-09-01,X,Holiday Sale,Set A,Ad 5,0.8,155.82,2586,434,12,8638
+2024-09-01,Google Organic,Summer Promo,Set C,Ad 4,1.43,198.55,8835,437,32,10732
+2024-09-02,Google,Brand Awareness,Set C,Ad 1,0.82,40.45,1777,293,80,11262
+2024-09-02,Facebook,Holiday Sale,Set D,Ad 4,1.92,76.96,13244,385,22,11450
+2024-09-02,LinkedIn,Brand Awareness,Set A,Ad 4,1.63,185.75,6901,57,16,512
+2024-09-02,TikTok,Summer Promo,Set C,Ad 2,1.35,203.44,5063,457,22,2690
+2024-09-02,Instagram,Summer Promo,Set D,Ad 2,1.76,164.54,9393,301,85,1428
+2024-09-02,X,Brand Awareness,Set B,Ad 1,1.98,153.06,1188,95,42,10387
+2024-09-02,Google Organic,Back to School,Set B,Ad 2,1.63,244.55,14427,304,12,5400
+2024-09-03,Google,Back to School,Set D,Ad 3,1.36,84.79,8307,365,75,7682
+2024-09-03,Facebook,Retargeting,Set D,Ad 5,0.72,264.85,1372,507,51,3728
+2024-09-03,LinkedIn,Brand Awareness,Set D,Ad 1,1.88,215.8,11192,448,76,1465
+2024-09-03,TikTok,Back to School,Set B,Ad 5,1.6,101.89,8022,569,28,10448
+2024-09-03,Instagram,Brand Awareness,Set D,Ad 5,1.23,290.48,6844,387,80,1024
+2024-09-03,X,Retargeting,Set B,Ad 2,0.69,229.3,1089,323,38,3694
+2024-09-03,Google Organic,Holiday Sale,Set A,Ad 3,1.14,291.6,2615,563,51,11146
+2024-09-04,Google,Summer Promo,Set C,Ad 4,1.4,232.39,1076,556,70,9583
+2024-09-04,Facebook,Brand Awareness,Set C,Ad 5,0.56,197.8,10031,491,72,2153
+2024-09-04,LinkedIn,Holiday Sale,Set B,Ad 3,0.94,75.87,13520,364,32,9947
+2024-09-04,TikTok,Brand Awareness,Set B,Ad 4,1.88,68.93,11789,278,63,3338
+2024-09-04,Instagram,Brand Awareness,Set B,Ad 4,1.79,194.61,13116,194,86,7532
+2024-09-04,X,Summer Promo,Set B,Ad 1,1.53,137.93,1952,82,86,9010
+2024-09-04,Google Organic,Holiday Sale,Set C,Ad 2,1.3,85.65,6543,194,61,2809
+2024-09-05,Google,Brand Awareness,Set C,Ad 3,1.04,288.64,7633,286,41,11760
+2024-09-05,Facebook,Retargeting,Set D,Ad 1,1.1,134.1,14963,442,76,4717
+2024-09-05,LinkedIn,Holiday Sale,Set D,Ad 5,1.29,146.56,6831,306,67,4217
+2024-09-05,TikTok,Holiday Sale,Set B,Ad 5,1.54,160.75,3598,145,34,10367
+2024-09-05,Instagram,Retargeting,Set D,Ad 2,0.84,266.97,11526,477,93,6540
+2024-09-05,X,Holiday Sale,Set C,Ad 2,1.66,121.23,1635,560,25,11760
+2024-09-05,Google Organic,Back to School,Set B,Ad 3,1.01,42.63,10602,363,41,11720
+2024-09-06,Google,Retargeting,Set C,Ad 4,0.85,218.82,2581,229,36,7518
+2024-09-06,Facebook,Back to School,Set A,Ad 2,1.18,285.75,6678,590,93,9978
+2024-09-06,LinkedIn,Holiday Sale,Set D,Ad 1,1.35,108.89,11826,162,47,8798
+2024-09-06,TikTok,Back to School,Set A,Ad 5,1.71,210.23,10212,319,14,1146
+2024-09-06,Instagram,Brand Awareness,Set B,Ad 2,0.92,36.55,6488,270,20,4167
+2024-09-06,X,Brand Awareness,Set A,Ad 5,1.22,58.26,8766,50,23,732
+2024-09-06,Google Organic,Brand Awareness,Set A,Ad 2,1.6,107.99,4227,574,55,790
+2024-09-07,Google,Retargeting,Set D,Ad 2,1.47,91.58,5882,575,69,9995
+2024-09-07,Facebook,Summer Promo,Set D,Ad 3,1.33,222.39,5808,247,14,2149
+2024-09-07,LinkedIn,Brand Awareness,Set C,Ad 4,1.79,221.47,12489,270,45,6342
+2024-09-07,TikTok,Summer Promo,Set B,Ad 1,1.69,267.5,6703,133,14,9811
+2024-09-07,Instagram,Brand Awareness,Set C,Ad 5,1.27,41.35,7990,206,31,2082
+2024-09-07,X,Retargeting,Set D,Ad 4,1.18,271.5,12064,140,88,10455
+2024-09-07,Google Organic,Back to School,Set D,Ad 4,1.34,93.12,12067,106,7,5011
+2024-09-08,Google,Summer Promo,Set B,Ad 5,0.78,209.27,9381,127,50,3147
+2024-09-08,Facebook,Holiday Sale,Set C,Ad 3,1.45,274.28,14418,137,33,4993
+2024-09-08,LinkedIn,Back to School,Set D,Ad 2,1.22,194.49,13713,98,12,7144
+2024-09-08,TikTok,Retargeting,Set B,Ad 5,0.53,109.48,1905,490,90,10250
+2024-09-08,Instagram,Holiday Sale,Set C,Ad 3,1.74,251.25,9484,122,9,5894
+2024-09-08,X,Summer Promo,Set A,Ad 2,0.93,31.37,10501,443,43,9308
+2024-09-08,Google Organic,Retargeting,Set D,Ad 5,0.64,273.35,14565,216,35,3804
+2024-09-09,Google,Holiday Sale,Set B,Ad 3,0.59,70.35,11884,267,57,8168
+2024-09-09,Facebook,Brand Awareness,Set C,Ad 4,0.97,33.86,10895,481,93,4502
+2024-09-09,LinkedIn,Retargeting,Set D,Ad 3,0.82,272.22,14342,66,99,3858
+2024-09-09,TikTok,Brand Awareness,Set A,Ad 4,0.86,65.98,12071,297,51,6094
+2024-09-09,Instagram,Holiday Sale,Set C,Ad 1,0.57,86.55,10592,537,42,888
+2024-09-09,X,Retargeting,Set A,Ad 3,0.71,275.28,9902,301,16,11957
+2024-09-09,Google Organic,Back to School,Set A,Ad 2,0.99,78.74,9266,159,62,11997
+2024-09-10,Google,Retargeting,Set A,Ad 1,1.39,283.34,8033,315,93,888
+2024-09-10,Facebook,Holiday Sale,Set A,Ad 3,1.1,193.85,7943,239,23,1750
+2024-09-10,LinkedIn,Summer Promo,Set B,Ad 3,0.97,163.47,13647,498,19,6257
+2024-09-10,TikTok,Holiday Sale,Set C,Ad 3,1.88,168.62,3524,292,61,8614
+2024-09-10,Instagram,Retargeting,Set C,Ad 5,1.79,67.78,3335,274,13,6097
+2024-09-10,X,Brand Awareness,Set D,Ad 3,1.95,148.11,12397,516,28,4631
+2024-09-10,Google Organic,Retargeting,Set C,Ad 4,1.2,195.59,13748,67,51,6542
+2024-09-11,Google,Retargeting,Set D,Ad 3,1.99,236.05,6946,131,53,656
+2024-09-11,Facebook,Back to School,Set B,Ad 5,0.99,51.74,6909,355,9,631
+2024-09-11,LinkedIn,Summer Promo,Set A,Ad 1,1.92,47.7,6184,388,8,3548
+2024-09-11,TikTok,Brand Awareness,Set D,Ad 1,0.72,235.02,1748,474,31,3676
+2024-09-11,Instagram,Back to School,Set D,Ad 5,1.16,217.69,10522,369,88,3216
+2024-09-11,X,Back to School,Set B,Ad 5,0.68,294.24,6955,198,7,5182
+2024-09-11,Google Organic,Summer Promo,Set C,Ad 5,1.73,264.95,12362,148,38,6750
+2024-09-12,Google,Brand Awareness,Set D,Ad 4,1.24,254.78,8755,314,17,3351
+2024-09-12,Facebook,Holiday Sale,Set A,Ad 3,1.7,225.16,9306,62,64,6611
+2024-09-12,LinkedIn,Retargeting,Set A,Ad 1,0.83,200.18,14494,307,65,3115
+2024-09-12,TikTok,Back to School,Set A,Ad 5,0.58,277.71,1276,220,82,3845
+2024-09-12,Instagram,Back to School,Set B,Ad 1,1.96,285.25,10824,376,89,8945
+2024-09-12,X,Brand Awareness,Set A,Ad 3,1.89,165.71,10472,501,30,10653
+2024-09-12,Google Organic,Retargeting,Set C,Ad 1,1.57,192.19,4589,175,6,10286
+2024-09-13,Google,Brand Awareness,Set B,Ad 4,0.91,87.13,9525,556,73,5365
+2024-09-13,Facebook,Holiday Sale,Set D,Ad 1,1.65,239.57,11768,538,71,9823
+2024-09-13,LinkedIn,Holiday Sale,Set C,Ad 2,1.76,29.08,1655,72,97,6407
+2024-09-13,TikTok,Summer Promo,Set B,Ad 1,1.95,200.94,13521,101,70,11620
+2024-09-13,Instagram,Retargeting,Set D,Ad 3,1.26,151.12,5700,306,24,7234
+2024-09-13,X,Brand Awareness,Set C,Ad 3,1.11,210.8,13484,130,80,11856
+2024-09-13,Google Organic,Summer Promo,Set D,Ad 4,0.65,298.54,3101,174,69,8216
+2024-09-14,Google,Brand Awareness,Set D,Ad 1,1.8,113.63,13837,68,72,2009
+2024-09-14,Facebook,Retargeting,Set B,Ad 3,0.69,156.49,11073,427,85,3855
+2024-09-14,LinkedIn,Brand Awareness,Set A,Ad 5,0.79,20.62,3879,362,80,8469
+2024-09-14,TikTok,Retargeting,Set A,Ad 4,1.28,191.82,13825,562,64,3677
+2024-09-14,Instagram,Brand Awareness,Set A,Ad 4,1.35,262.93,1958,74,30,7109
+2024-09-14,X,Retargeting,Set B,Ad 3,1.92,257.16,13651,348,24,7004
+2024-09-14,Google Organic,Summer Promo,Set B,Ad 4,1.72,199.81,2123,366,28,3320
+2024-09-15,Google,Back to School,Set A,Ad 3,1.05,32.79,1783,220,65,999
+2024-09-15,Facebook,Summer Promo,Set D,Ad 1,1.98,149.97,2209,358,10,9958
+2024-09-15,LinkedIn,Holiday Sale,Set C,Ad 3,1.14,233.49,7205,349,74,9382
+2024-09-15,TikTok,Brand Awareness,Set A,Ad 4,1.66,256.87,2281,325,61,11599
+2024-09-15,Instagram,Back to School,Set B,Ad 5,0.93,95.72,8068,300,7,5669
+2024-09-15,X,Brand Awareness,Set C,Ad 4,1.77,254.18,2852,249,44,2464
+2024-09-15,Google Organic,Holiday Sale,Set A,Ad 5,0.81,294.63,10292,375,99,5014
+2024-09-16,Google,Summer Promo,Set C,Ad 3,1.55,101.15,12988,141,22,11763
+2024-09-16,Facebook,Brand Awareness,Set C,Ad 5,1.51,136.63,4558,91,41,11537
+2024-09-16,LinkedIn,Holiday Sale,Set C,Ad 5,0.66,181.16,1914,129,35,8725
+2024-09-16,TikTok,Summer Promo,Set D,Ad 4,1.07,103.04,12088,258,82,5312
+2024-09-16,Instagram,Back to School,Set B,Ad 5,1.67,128.84,3282,441,30,3456
+2024-09-16,X,Summer Promo,Set A,Ad 1,1.93,203.1,5762,231,68,11403
+2024-09-16,Google Organic,Retargeting,Set C,Ad 3,1.62,154.27,7430,450,28,10437
+2024-09-17,Google,Summer Promo,Set D,Ad 2,1.87,172.67,14879,172,15,2173
+2024-09-17,Facebook,Back to School,Set B,Ad 2,1.0,238.51,7291,341,6,9005
+2024-09-17,LinkedIn,Holiday Sale,Set A,Ad 4,1.01,224.3,1891,160,12,10744
+2024-09-17,TikTok,Retargeting,Set C,Ad 5,1.08,282.46,7379,432,31,11428
+2024-09-17,Instagram,Retargeting,Set D,Ad 3,1.6,66.36,10275,335,7,3344
+2024-09-17,X,Brand Awareness,Set A,Ad 3,1.27,285.83,1306,381,38,1290
+2024-09-17,Google Organic,Holiday Sale,Set D,Ad 2,0.67,54.37,14231,122,11,5825
+2024-09-18,Google,Retargeting,Set C,Ad 5,1.98,129.19,7891,399,86,5998
+2024-09-18,Facebook,Back to School,Set A,Ad 4,1.12,281.92,9872,111,72,4224
+2024-09-18,LinkedIn,Back to School,Set A,Ad 1,1.48,32.21,2403,304,64,8028
+2024-09-18,TikTok,Holiday Sale,Set D,Ad 4,1.72,157.54,4117,98,11,752
+2024-09-18,Instagram,Holiday Sale,Set B,Ad 1,1.84,103.29,14701,122,95,9514
+2024-09-18,X,Back to School,Set A,Ad 3,1.03,280.21,5868,411,60,7476
+2024-09-18,Google Organic,Back to School,Set D,Ad 4,1.39,178.17,8637,368,59,10241
+2024-09-19,Google,Retargeting,Set A,Ad 3,1.97,51.06,11892,85,50,5986
+2024-09-19,Facebook,Back to School,Set C,Ad 4,0.76,211.86,9373,224,58,519
+2024-09-19,LinkedIn,Retargeting,Set C,Ad 5,0.57,272.44,12445,363,15,2924
+2024-09-19,TikTok,Brand Awareness,Set C,Ad 3,1.11,111.78,14140,52,21,6384
+2024-09-19,Instagram,Summer Promo,Set B,Ad 4,0.76,64.77,6409,464,17,5629
+2024-09-19,X,Back to School,Set D,Ad 1,1.36,162.82,7392,372,89,7224
+2024-09-19,Google Organic,Brand Awareness,Set B,Ad 1,0.72,102.08,10725,391,58,9317
+2024-09-20,Google,Brand Awareness,Set A,Ad 5,0.88,189.48,9430,114,77,11054
+2024-09-20,Facebook,Holiday Sale,Set D,Ad 3,1.21,183.01,4205,351,14,5949
+2024-09-20,LinkedIn,Back to School,Set C,Ad 2,0.9,125.7,7231,313,29,2847
+2024-09-20,TikTok,Back to School,Set C,Ad 5,1.37,161.21,4258,381,58,2240
+2024-09-20,Instagram,Retargeting,Set C,Ad 3,1.94,293.62,7160,283,45,898
+2024-09-20,X,Back to School,Set C,Ad 1,0.86,73.38,6663,545,20,8483
+2024-09-20,Google Organic,Back to School,Set C,Ad 4,1.75,149.7,7918,91,5,11025
+2024-09-21,Google,Holiday Sale,Set D,Ad 4,1.33,36.86,9131,222,90,10689
+2024-09-21,Facebook,Retargeting,Set C,Ad 4,1.03,231.33,2084,430,53,4366
+2024-09-21,LinkedIn,Brand Awareness,Set C,Ad 2,1.39,34.33,8980,453,42,5532
+2024-09-21,TikTok,Back to School,Set A,Ad 1,1.76,38.97,13193,327,13,6840
+2024-09-21,Instagram,Back to School,Set D,Ad 1,1.5,83.6,6689,551,87,2608
+2024-09-21,X,Summer Promo,Set B,Ad 4,1.16,162.18,2619,546,77,9666
+2024-09-21,Google Organic,Brand Awareness,Set C,Ad 3,1.07,79.36,2285,377,43,9510
+2024-09-22,Google,Retargeting,Set D,Ad 4,0.91,248.88,11124,598,58,11977
+2024-09-22,Facebook,Brand Awareness,Set A,Ad 4,1.65,55.77,5810,129,26,3966
+2024-09-22,LinkedIn,Summer Promo,Set C,Ad 3,1.25,84.16,9620,87,92,6851
+2024-09-22,TikTok,Back to School,Set A,Ad 4,1.66,40.91,10651,232,58,4096
+2024-09-22,Instagram,Brand Awareness,Set D,Ad 1,1.85,244.22,11379,392,42,8094
+2024-09-22,X,Retargeting,Set D,Ad 3,1.63,269.91,6821,352,72,6126
+2024-09-22,Google Organic,Back to School,Set A,Ad 2,1.89,154.08,2009,76,86,10725
+2024-09-23,Google,Brand Awareness,Set D,Ad 5,0.51,88.45,11826,367,51,8438
+2024-09-23,Facebook,Retargeting,Set A,Ad 4,0.74,64.07,12353,413,14,4385
+2024-09-23,LinkedIn,Holiday Sale,Set D,Ad 3,1.96,263.1,2163,99,81,1575
+2024-09-23,TikTok,Brand Awareness,Set C,Ad 4,1.99,182.05,12289,195,71,11812
+2024-09-23,Instagram,Holiday Sale,Set A,Ad 5,1.02,107.1,8648,381,34,10537
+2024-09-23,X,Retargeting,Set C,Ad 3,2.0,237.23,3998,469,53,8645
+2024-09-23,Google Organic,Brand Awareness,Set A,Ad 5,1.91,193.26,5061,155,25,5470
+2024-09-24,Google,Summer Promo,Set B,Ad 4,1.72,36.73,10038,264,79,3680
+2024-09-24,Facebook,Summer Promo,Set D,Ad 2,1.92,37.48,4471,176,34,1513
+2024-09-24,LinkedIn,Holiday Sale,Set B,Ad 1,0.98,185.31,5782,423,29,9836
+2024-09-24,TikTok,Holiday Sale,Set A,Ad 5,1.66,72.78,8475,279,91,5436
+2024-09-24,Instagram,Holiday Sale,Set A,Ad 4,1.59,274.44,13258,244,66,10853
+2024-09-24,X,Brand Awareness,Set C,Ad 2,1.02,191.96,12757,371,51,4286
+2024-09-24,Google Organic,Retargeting,Set C,Ad 1,1.66,97.63,6469,190,95,10547
+2024-09-25,Google,Back to School,Set D,Ad 1,0.87,70.6,12224,250,46,8067
+2024-09-25,Facebook,Holiday Sale,Set B,Ad 5,0.78,277.34,7547,571,71,4895
+2024-09-25,LinkedIn,Brand Awareness,Set C,Ad 1,1.77,73.03,2358,412,67,3289
+2024-09-25,TikTok,Back to School,Set A,Ad 4,1.76,204.38,7344,453,21,2660
+2024-09-25,Instagram,Holiday Sale,Set D,Ad 1,1.13,248.0,11222,437,37,5293
+2024-09-25,X,Holiday Sale,Set C,Ad 5,1.23,55.65,14255,194,6,1148
+2024-09-25,Google Organic,Brand Awareness,Set B,Ad 1,0.98,115.58,8441,397,75,4223
+2024-09-26,Google,Holiday Sale,Set B,Ad 4,0.65,228.65,4200,98,49,1483
+2024-09-26,Facebook,Holiday Sale,Set A,Ad 1,0.52,174.96,10222,506,20,5012
+2024-09-26,LinkedIn,Holiday Sale,Set B,Ad 1,1.97,170.62,12707,275,11,5301
+2024-09-26,TikTok,Retargeting,Set D,Ad 2,1.06,238.78,3361,82,77,2407
+2024-09-26,Instagram,Back to School,Set C,Ad 4,1.36,280.01,4828,169,55,7813
+2024-09-26,X,Holiday Sale,Set C,Ad 1,1.54,59.17,7010,399,54,3605
+2024-09-26,Google Organic,Back to School,Set C,Ad 2,1.62,165.59,2205,256,26,657
+2024-09-27,Google,Retargeting,Set A,Ad 3,1.44,142.08,11896,101,45,1580
+2024-09-27,Facebook,Brand Awareness,Set A,Ad 1,1.53,64.91,2158,61,70,6394
+2024-09-27,LinkedIn,Back to School,Set C,Ad 2,0.79,31.48,2817,547,91,6569
+2024-09-27,TikTok,Summer Promo,Set A,Ad 5,1.68,75.58,14213,151,79,2331
+2024-09-27,Instagram,Back to School,Set B,Ad 4,1.12,244.91,9021,457,86,7482
+2024-09-27,X,Summer Promo,Set B,Ad 5,1.78,172.81,5052,486,43,7367
+2024-09-27,Google Organic,Back to School,Set A,Ad 3,1.13,130.46,5793,252,10,2725
+2024-09-28,Google,Holiday Sale,Set B,Ad 5,1.89,27.94,4214,459,94,2061
+2024-09-28,Facebook,Holiday Sale,Set C,Ad 3,1.55,197.07,2721,88,95,11109
+2024-09-28,LinkedIn,Retargeting,Set C,Ad 5,0.53,108.04,12549,94,60,7246
+2024-09-28,TikTok,Brand Awareness,Set C,Ad 3,1.67,263.27,13218,132,94,6151
+2024-09-28,Instagram,Holiday Sale,Set B,Ad 5,0.57,196.62,10288,152,15,8133
+2024-09-28,X,Retargeting,Set A,Ad 5,1.12,286.9,13347,331,95,8904
+2024-09-28,Google Organic,Retargeting,Set C,Ad 4,1.76,158.09,9558,430,45,2744
+2024-09-29,Google,Retargeting,Set D,Ad 4,1.54,229.19,2895,571,14,9064
+2024-09-29,Facebook,Retargeting,Set A,Ad 5,0.62,192.76,1205,470,75,7087
+2024-09-29,LinkedIn,Retargeting,Set A,Ad 5,0.67,218.08,6168,218,88,11754
+2024-09-29,TikTok,Retargeting,Set B,Ad 4,1.35,51.07,7531,204,9,600
+2024-09-29,Instagram,Holiday Sale,Set A,Ad 4,1.97,135.08,12973,119,59,9195
+2024-09-29,X,Holiday Sale,Set A,Ad 4,1.28,113.89,6150,292,35,5549
+2024-09-29,Google Organic,Brand Awareness,Set D,Ad 4,1.94,57.99,1632,399,43,6128
+2024-09-30,Google,Retargeting,Set D,Ad 2,1.46,264.3,14748,311,47,9707
+2024-09-30,Facebook,Retargeting,Set B,Ad 2,0.79,109.84,14762,180,78,5633
+2024-09-30,LinkedIn,Back to School,Set A,Ad 5,1.16,128.13,5960,419,43,9394
+2024-09-30,TikTok,Summer Promo,Set B,Ad 4,1.87,128.03,12360,593,18,4004
+2024-09-30,Instagram,Summer Promo,Set C,Ad 1,1.5,272.62,12169,317,6,2081
+2024-09-30,X,Retargeting,Set A,Ad 5,0.68,36.3,11065,95,100,9581
+2024-09-30,Google Organic,Retargeting,Set C,Ad 1,1.24,215.14,10217,118,36,9571
+2024-10-01,Google,Summer Promo,Set D,Ad 2,1.65,233.1,7721,492,73,4408
+2024-10-01,Facebook,Brand Awareness,Set A,Ad 3,1.01,148.37,9703,153,90,6416
+2024-10-01,LinkedIn,Retargeting,Set C,Ad 2,1.3,168.81,6031,394,67,8773
+2024-10-01,TikTok,Summer Promo,Set D,Ad 2,1.38,73.39,14212,425,54,7472
+2024-10-01,Instagram,Brand Awareness,Set D,Ad 1,0.9,296.88,10989,108,36,5252
+2024-10-01,X,Summer Promo,Set C,Ad 1,1.71,227.98,14312,562,52,8479
+2024-10-01,Google Organic,Holiday Sale,Set D,Ad 2,1.94,135.26,5492,298,31,8285
+2024-10-02,Google,Back to School,Set C,Ad 4,1.38,67.08,12939,375,60,6695
+2024-10-02,Facebook,Brand Awareness,Set A,Ad 5,1.66,131.13,8580,575,90,2990
+2024-10-02,LinkedIn,Back to School,Set C,Ad 1,1.65,86.22,13044,515,65,3150
+2024-10-02,TikTok,Brand Awareness,Set A,Ad 1,1.18,105.89,13727,327,27,8302
+2024-10-02,Instagram,Summer Promo,Set C,Ad 4,1.8,62.94,13762,471,83,11342
+2024-10-02,X,Back to School,Set A,Ad 3,1.19,51.03,12841,280,59,582
+2024-10-02,Google Organic,Retargeting,Set A,Ad 1,0.58,249.93,10100,353,48,4477
+2024-10-03,Google,Brand Awareness,Set B,Ad 1,0.68,223.08,6718,99,52,1467
+2024-10-03,Facebook,Brand Awareness,Set B,Ad 1,0.66,20.53,2419,501,62,4021
+2024-10-03,LinkedIn,Summer Promo,Set D,Ad 5,0.71,263.53,14730,397,73,2131
+2024-10-03,TikTok,Back to School,Set A,Ad 3,1.29,166.24,10576,374,43,9124
+2024-10-03,Instagram,Holiday Sale,Set C,Ad 5,0.81,96.11,5964,385,62,5144
+2024-10-03,X,Holiday Sale,Set B,Ad 4,1.46,114.4,14159,535,31,5071
+2024-10-03,Google Organic,Holiday Sale,Set B,Ad 5,0.59,180.32,7618,115,37,11754
+2024-10-04,Google,Summer Promo,Set B,Ad 5,1.71,119.21,12054,103,51,8502
+2024-10-04,Facebook,Brand Awareness,Set A,Ad 2,0.59,183.88,9922,100,16,10315
+2024-10-04,LinkedIn,Back to School,Set A,Ad 4,1.16,54.86,8862,313,18,6657
+2024-10-04,TikTok,Summer Promo,Set C,Ad 3,0.54,156.04,1828,126,73,3384
+2024-10-04,Instagram,Summer Promo,Set C,Ad 3,1.83,230.02,14852,526,32,3696
+2024-10-04,X,Holiday Sale,Set D,Ad 3,1.69,102.47,5178,415,87,9250
+2024-10-04,Google Organic,Summer Promo,Set D,Ad 3,0.89,125.28,7336,201,9,4903
+2024-10-05,Google,Back to School,Set A,Ad 5,0.52,261.51,6236,74,55,4465
+2024-10-05,Facebook,Back to School,Set C,Ad 3,0.84,139.65,11017,245,37,1907
+2024-10-05,LinkedIn,Summer Promo,Set A,Ad 5,1.77,104.49,4274,482,69,1552
+2024-10-05,TikTok,Back to School,Set B,Ad 5,1.65,155.42,1595,50,51,9609
+2024-10-05,Instagram,Back to School,Set C,Ad 4,1.15,193.48,11022,327,88,2255
+2024-10-05,X,Retargeting,Set D,Ad 4,0.91,115.97,7406,224,45,8254
+2024-10-05,Google Organic,Summer Promo,Set D,Ad 2,0.6,258.28,6508,372,52,5476
+2024-10-06,Google,Holiday Sale,Set C,Ad 4,1.45,205.86,11592,195,92,5180
+2024-10-06,Facebook,Holiday Sale,Set B,Ad 5,0.66,141.56,10898,453,86,9453
+2024-10-06,LinkedIn,Back to School,Set A,Ad 5,1.93,145.12,13509,461,44,2661
+2024-10-06,TikTok,Summer Promo,Set C,Ad 3,0.51,69.2,2382,483,98,8216
+2024-10-06,Instagram,Summer Promo,Set C,Ad 4,0.81,94.49,13122,422,89,556
+2024-10-06,X,Back to School,Set B,Ad 4,1.66,259.71,11308,211,96,5520
+2024-10-06,Google Organic,Summer Promo,Set D,Ad 3,0.62,67.37,1248,168,70,4348
+2024-10-07,Google,Brand Awareness,Set C,Ad 5,0.58,228.88,7839,390,51,11187
+2024-10-07,Facebook,Holiday Sale,Set B,Ad 1,0.78,232.04,2686,168,77,11357
+2024-10-07,LinkedIn,Brand Awareness,Set D,Ad 5,1.45,72.88,10131,425,30,9608
+2024-10-07,TikTok,Brand Awareness,Set D,Ad 3,1.06,191.65,3353,529,13,3625
+2024-10-07,Instagram,Holiday Sale,Set A,Ad 3,0.67,29.33,14827,484,7,7961
+2024-10-07,X,Holiday Sale,Set C,Ad 2,1.29,136.85,2686,201,29,10053
+2024-10-07,Google Organic,Retargeting,Set C,Ad 5,1.29,114.6,10309,311,11,9607
+2024-10-08,Google,Brand Awareness,Set A,Ad 3,1.16,277.66,3372,114,95,3799
+2024-10-08,Facebook,Brand Awareness,Set B,Ad 5,0.63,67.77,9350,114,35,6226
+2024-10-08,LinkedIn,Brand Awareness,Set B,Ad 5,0.89,243.26,7908,301,97,8483
+2024-10-08,TikTok,Brand Awareness,Set A,Ad 1,1.63,67.17,7787,477,6,9273
+2024-10-08,Instagram,Holiday Sale,Set D,Ad 5,0.62,215.88,13070,543,69,5783
+2024-10-08,X,Summer Promo,Set C,Ad 3,0.64,118.59,6390,442,19,2181
+2024-10-08,Google Organic,Holiday Sale,Set B,Ad 5,1.1,144.67,3206,282,72,4929
+2024-10-09,Google,Back to School,Set B,Ad 4,0.54,293.95,3665,200,48,7652
+2024-10-09,Facebook,Summer Promo,Set C,Ad 5,1.91,264.06,11149,102,85,4085
+2024-10-09,LinkedIn,Brand Awareness,Set A,Ad 2,1.48,54.27,12155,581,35,4074
+2024-10-09,TikTok,Back to School,Set C,Ad 3,1.35,236.66,13456,279,51,8353
+2024-10-09,Instagram,Back to School,Set D,Ad 3,1.0,29.74,1384,523,37,3835
+2024-10-09,X,Summer Promo,Set B,Ad 1,0.83,118.12,8903,485,51,9036
+2024-10-09,Google Organic,Retargeting,Set D,Ad 3,0.54,223.92,13068,429,11,2225
+2024-10-10,Google,Holiday Sale,Set D,Ad 2,1.97,200.86,3377,252,6,7414
+2024-10-10,Facebook,Brand Awareness,Set B,Ad 2,1.19,83.36,10961,273,96,2226
+2024-10-10,LinkedIn,Brand Awareness,Set D,Ad 1,1.19,159.2,7435,76,34,3266
+2024-10-10,TikTok,Holiday Sale,Set D,Ad 3,1.41,108.42,10971,240,86,4204
+2024-10-10,Instagram,Back to School,Set C,Ad 2,0.84,124.45,7070,465,60,5512
+2024-10-10,X,Summer Promo,Set A,Ad 3,1.54,276.32,6315,213,89,6349
+2024-10-10,Google Organic,Holiday Sale,Set B,Ad 4,1.35,157.61,8941,309,68,5076
+2024-10-11,Google,Brand Awareness,Set C,Ad 4,1.9,164.2,3968,539,86,10985
+2024-10-11,Facebook,Back to School,Set B,Ad 2,1.54,198.8,13632,203,83,1247
+2024-10-11,LinkedIn,Brand Awareness,Set D,Ad 5,1.83,180.71,9597,196,18,1344
+2024-10-11,TikTok,Retargeting,Set B,Ad 2,1.49,119.56,9851,430,91,11461
+2024-10-11,Instagram,Summer Promo,Set C,Ad 2,1.66,184.9,2327,185,33,641
+2024-10-11,X,Retargeting,Set C,Ad 1,0.61,48.57,4723,205,55,1789
+2024-10-11,Google Organic,Back to School,Set B,Ad 4,0.6,265.35,10562,435,83,7366
+2024-10-12,Google,Back to School,Set C,Ad 5,0.78,144.13,3816,390,95,5228
+2024-10-12,Facebook,Retargeting,Set D,Ad 2,0.87,264.57,11678,186,85,5684
+2024-10-12,LinkedIn,Back to School,Set B,Ad 5,1.72,80.88,11856,279,21,9282
+2024-10-12,TikTok,Back to School,Set A,Ad 5,1.05,169.93,1694,134,13,3386
+2024-10-12,Instagram,Holiday Sale,Set B,Ad 2,1.48,135.16,9910,562,36,4607
+2024-10-12,X,Retargeting,Set A,Ad 2,0.73,235.46,9319,367,12,8781
+2024-10-12,Google Organic,Back to School,Set B,Ad 5,1.39,254.44,9845,366,32,615
+2024-10-13,Google,Holiday Sale,Set D,Ad 5,1.01,22.03,5227,137,18,9167
+2024-10-13,Facebook,Retargeting,Set C,Ad 1,1.9,297.67,10751,102,69,9298
+2024-10-13,LinkedIn,Holiday Sale,Set C,Ad 3,1.11,282.99,11352,573,73,2809
+2024-10-13,TikTok,Back to School,Set B,Ad 4,1.13,80.91,3329,167,82,2861
+2024-10-13,Instagram,Summer Promo,Set D,Ad 5,0.62,87.81,8128,444,16,1712
+2024-10-13,X,Back to School,Set B,Ad 1,1.66,149.03,2151,243,78,895
+2024-10-13,Google Organic,Retargeting,Set C,Ad 2,0.84,119.94,8847,520,27,1070
+2024-10-14,Google,Holiday Sale,Set A,Ad 1,1.5,115.93,4146,508,23,1090
+2024-10-14,Facebook,Back to School,Set B,Ad 1,1.02,74.55,7598,413,79,2817
+2024-10-14,LinkedIn,Holiday Sale,Set D,Ad 5,0.96,149.96,12523,257,28,4812
+2024-10-14,TikTok,Retargeting,Set A,Ad 1,1.45,56.21,2335,335,26,6107
+2024-10-14,Instagram,Brand Awareness,Set A,Ad 1,1.01,90.81,1391,499,45,10101
+2024-10-14,X,Holiday Sale,Set C,Ad 1,0.94,264.45,7190,78,72,5602
+2024-10-14,Google Organic,Back to School,Set D,Ad 4,0.75,104.27,3009,512,14,8783
+2024-10-15,Google,Retargeting,Set D,Ad 1,1.43,135.25,5580,460,62,7557
+2024-10-15,Facebook,Brand Awareness,Set D,Ad 1,0.59,100.53,11886,380,37,8410
+2024-10-15,LinkedIn,Holiday Sale,Set D,Ad 2,1.71,147.06,5188,295,25,9653
+2024-10-15,TikTok,Holiday Sale,Set D,Ad 3,1.8,47.09,3545,426,6,4649
+2024-10-15,Instagram,Holiday Sale,Set C,Ad 1,1.15,275.92,8707,381,6,7935
+2024-10-15,X,Holiday Sale,Set D,Ad 1,0.58,291.17,1044,287,57,7408
+2024-10-15,Google Organic,Back to School,Set C,Ad 5,0.6,273.45,8320,583,52,1724
+2024-10-16,Google,Holiday Sale,Set B,Ad 2,0.98,192.96,3330,484,67,1183
+2024-10-16,Facebook,Brand Awareness,Set A,Ad 3,0.79,89.28,8888,429,61,10030
+2024-10-16,LinkedIn,Brand Awareness,Set D,Ad 5,1.93,114.18,4748,144,63,7783
+2024-10-16,TikTok,Retargeting,Set C,Ad 3,1.98,147.08,1733,516,63,4686
+2024-10-16,Instagram,Back to School,Set A,Ad 1,0.51,127.95,9317,412,29,7541
+2024-10-16,X,Back to School,Set C,Ad 1,1.73,190.24,10148,581,50,1147
+2024-10-16,Google Organic,Summer Promo,Set D,Ad 5,1.42,86.47,3299,158,27,10909
+2024-10-17,Google,Back to School,Set C,Ad 5,1.83,256.71,3204,183,9,5772
+2024-10-17,Facebook,Brand Awareness,Set C,Ad 5,0.8,122.33,6176,537,68,5146
+2024-10-17,LinkedIn,Summer Promo,Set C,Ad 2,1.47,287.68,8843,486,44,11370
+2024-10-17,TikTok,Holiday Sale,Set A,Ad 5,0.73,215.39,6537,230,65,11770
+2024-10-17,Instagram,Brand Awareness,Set C,Ad 2,0.62,99.2,8676,277,8,9755
+2024-10-17,X,Brand Awareness,Set B,Ad 4,1.28,99.85,13616,169,14,6576
+2024-10-17,Google Organic,Summer Promo,Set B,Ad 3,1.14,189.04,13254,323,6,2359
+2024-10-18,Google,Summer Promo,Set B,Ad 4,0.52,184.85,3546,560,61,11263
+2024-10-18,Facebook,Summer Promo,Set A,Ad 3,0.71,90.76,4357,294,23,2165
+2024-10-18,LinkedIn,Retargeting,Set A,Ad 1,1.69,137.21,3212,333,82,3651
+2024-10-18,TikTok,Brand Awareness,Set C,Ad 4,1.29,249.49,6415,80,76,9163
+2024-10-18,Instagram,Back to School,Set D,Ad 4,0.86,259.7,4421,137,19,4492
+2024-10-18,X,Brand Awareness,Set A,Ad 4,1.96,85.69,13158,326,54,3359
+2024-10-18,Google Organic,Brand Awareness,Set C,Ad 1,1.83,76.25,4177,414,37,4573
+2024-10-19,Google,Brand Awareness,Set B,Ad 3,1.22,148.02,3581,329,17,3024
+2024-10-19,Facebook,Holiday Sale,Set D,Ad 1,1.57,32.52,11285,581,18,8767
+2024-10-19,LinkedIn,Back to School,Set C,Ad 1,0.5,60.98,9037,557,75,7526
+2024-10-19,TikTok,Summer Promo,Set C,Ad 2,1.68,162.38,5999,556,37,659
+2024-10-19,Instagram,Retargeting,Set B,Ad 2,1.02,156.98,8706,73,42,4320
+2024-10-19,X,Holiday Sale,Set A,Ad 2,1.3,256.5,14475,198,64,8275
+2024-10-19,Google Organic,Holiday Sale,Set A,Ad 1,0.85,231.02,14880,466,92,7906
+2024-10-20,Google,Retargeting,Set D,Ad 1,1.49,84.83,12507,156,74,5770
+2024-10-20,Facebook,Summer Promo,Set A,Ad 1,1.1,130.93,5548,309,57,6435
+2024-10-20,LinkedIn,Holiday Sale,Set A,Ad 2,0.81,145.65,5023,553,43,3840
+2024-10-20,TikTok,Summer Promo,Set C,Ad 4,1.84,278.27,8931,494,81,7698
+2024-10-20,Instagram,Retargeting,Set D,Ad 4,1.63,200.28,10145,333,75,6487
+2024-10-20,X,Retargeting,Set C,Ad 1,1.34,197.81,1548,190,59,7793
+2024-10-20,Google Organic,Brand Awareness,Set B,Ad 2,1.36,162.67,5505,583,13,4669
+2024-10-21,Google,Retargeting,Set D,Ad 5,1.69,55.97,13551,599,97,4291
+2024-10-21,Facebook,Back to School,Set B,Ad 1,1.06,258.31,5089,539,52,9260
+2024-10-21,LinkedIn,Back to School,Set B,Ad 1,1.81,174.48,5517,385,71,8653
+2024-10-21,TikTok,Holiday Sale,Set B,Ad 2,1.66,102.52,11891,314,18,3564
+2024-10-21,Instagram,Brand Awareness,Set B,Ad 5,1.8,67.16,2223,245,40,6367
+2024-10-21,X,Holiday Sale,Set D,Ad 5,0.75,110.68,11403,199,47,7662
+2024-10-21,Google Organic,Back to School,Set A,Ad 2,1.22,219.67,9937,417,23,676
+2024-10-22,Google,Back to School,Set B,Ad 1,0.69,214.95,11419,517,71,5162
+2024-10-22,Facebook,Retargeting,Set C,Ad 4,1.82,20.35,3022,554,33,3381
+2024-10-22,LinkedIn,Holiday Sale,Set C,Ad 4,1.6,146.29,9521,239,82,11331
+2024-10-22,TikTok,Back to School,Set C,Ad 1,0.95,221.66,7603,350,67,1563
+2024-10-22,Instagram,Holiday Sale,Set B,Ad 4,0.76,127.34,6799,599,43,10814
+2024-10-22,X,Brand Awareness,Set D,Ad 4,1.01,199.89,10594,415,72,9375
+2024-10-22,Google Organic,Holiday Sale,Set A,Ad 1,0.92,179.17,8448,350,56,1104
+2024-10-23,Google,Holiday Sale,Set A,Ad 3,1.21,31.1,8487,220,68,8213
+2024-10-23,Facebook,Back to School,Set C,Ad 2,0.62,298.2,12653,117,35,1638
+2024-10-23,LinkedIn,Brand Awareness,Set B,Ad 2,0.89,117.45,3943,434,17,7039
+2024-10-23,TikTok,Back to School,Set B,Ad 4,1.0,230.13,9381,283,15,6577
+2024-10-23,Instagram,Back to School,Set B,Ad 4,0.58,273.86,7431,254,89,4486
+2024-10-23,X,Retargeting,Set C,Ad 5,1.59,184.38,10502,62,67,2247
+2024-10-23,Google Organic,Retargeting,Set C,Ad 5,1.82,136.07,11706,227,50,3590
+2024-10-24,Google,Holiday Sale,Set B,Ad 2,1.09,275.35,10414,564,79,3389
+2024-10-24,Facebook,Retargeting,Set A,Ad 5,1.86,158.8,13777,505,64,9600
+2024-10-24,LinkedIn,Retargeting,Set B,Ad 5,0.69,193.93,14197,348,49,2539
+2024-10-24,TikTok,Brand Awareness,Set C,Ad 5,1.15,238.26,2694,207,74,5980
+2024-10-24,Instagram,Holiday Sale,Set C,Ad 3,1.21,71.77,10497,528,59,1023
+2024-10-24,X,Holiday Sale,Set C,Ad 3,1.14,66.87,13230,497,35,1604
+2024-10-24,Google Organic,Back to School,Set B,Ad 5,0.9,257.47,11700,374,54,3245
+2024-10-25,Google,Back to School,Set B,Ad 5,1.51,133.97,9834,91,87,2175
+2024-10-25,Facebook,Holiday Sale,Set B,Ad 2,1.65,226.26,1725,341,44,1572
+2024-10-25,LinkedIn,Retargeting,Set B,Ad 3,0.89,136.48,11131,313,32,8302
+2024-10-25,TikTok,Brand Awareness,Set C,Ad 5,1.24,81.48,4302,426,23,3925
+2024-10-25,Instagram,Brand Awareness,Set C,Ad 2,0.53,115.91,4627,340,42,7615
+2024-10-25,X,Brand Awareness,Set A,Ad 2,1.38,86.31,11554,132,31,1842
+2024-10-25,Google Organic,Summer Promo,Set C,Ad 2,1.13,254.85,14656,546,88,8984
+2024-10-26,Google,Back to School,Set B,Ad 1,1.64,217.63,4157,184,14,6567
+2024-10-26,Facebook,Retargeting,Set C,Ad 5,0.69,161.35,11756,525,93,9847
+2024-10-26,LinkedIn,Retargeting,Set A,Ad 3,0.98,215.85,9557,261,54,602
+2024-10-26,TikTok,Back to School,Set B,Ad 3,0.8,146.28,13176,438,77,1429
+2024-10-26,Instagram,Summer Promo,Set D,Ad 2,1.17,32.73,8064,560,87,5457
+2024-10-26,X,Retargeting,Set B,Ad 4,1.54,292.2,12493,145,13,10225
+2024-10-26,Google Organic,Summer Promo,Set C,Ad 5,1.64,220.11,5551,438,5,5165
+2024-10-27,Google,Summer Promo,Set A,Ad 3,1.78,163.3,3835,402,13,10915
+2024-10-27,Facebook,Holiday Sale,Set D,Ad 2,1.19,25.08,6746,396,74,5630
+2024-10-27,LinkedIn,Brand Awareness,Set A,Ad 1,1.06,100.45,8984,457,64,11633
+2024-10-27,TikTok,Summer Promo,Set A,Ad 2,0.93,188.53,8806,495,47,4217
+2024-10-27,Instagram,Summer Promo,Set B,Ad 1,1.48,215.98,13232,327,57,2940
+2024-10-27,X,Holiday Sale,Set D,Ad 2,0.93,113.91,6980,303,68,1088
+2024-10-27,Google Organic,Back to School,Set B,Ad 1,0.6,158.4,14103,297,94,2829
+2024-10-28,Google,Back to School,Set A,Ad 5,1.53,164.71,4559,498,68,5379
+2024-10-28,Facebook,Brand Awareness,Set B,Ad 4,0.79,34.63,14172,516,99,10661
+2024-10-28,LinkedIn,Retargeting,Set B,Ad 3,1.89,299.23,8608,205,79,3567
+2024-10-28,TikTok,Holiday Sale,Set C,Ad 3,1.99,59.93,5355,367,27,2692
+2024-10-28,Instagram,Back to School,Set B,Ad 2,1.11,187.09,6425,402,56,5574
+2024-10-28,X,Back to School,Set A,Ad 5,1.77,210.99,8920,416,94,623
+2024-10-28,Google Organic,Holiday Sale,Set A,Ad 1,1.5,280.94,5128,439,22,7874
+2024-10-29,Google,Brand Awareness,Set B,Ad 4,1.15,166.32,11083,540,47,9051
+2024-10-29,Facebook,Summer Promo,Set B,Ad 4,1.42,83.09,9773,411,41,6342
+2024-10-29,LinkedIn,Summer Promo,Set A,Ad 5,1.37,286.58,4594,381,90,8541
+2024-10-29,TikTok,Retargeting,Set D,Ad 4,0.83,118.9,14357,206,69,2540
+2024-10-29,Instagram,Summer Promo,Set B,Ad 2,1.42,217.83,10451,454,18,9201
+2024-10-29,X,Retargeting,Set C,Ad 1,0.88,191.68,8301,535,76,10490
+2024-10-29,Google Organic,Summer Promo,Set D,Ad 1,0.69,166.52,12006,75,77,3164
+2024-10-30,Google,Back to School,Set D,Ad 2,1.11,235.47,13705,528,27,5176
+2024-10-30,Facebook,Holiday Sale,Set B,Ad 2,1.91,82.01,10903,358,71,1465
+2024-10-30,LinkedIn,Holiday Sale,Set A,Ad 1,0.56,259.2,8387,518,91,7991
+2024-10-30,TikTok,Summer Promo,Set C,Ad 3,0.87,99.29,8302,583,7,9099
+2024-10-30,Instagram,Retargeting,Set B,Ad 5,1.17,65.9,8658,483,55,1378
+2024-10-30,X,Brand Awareness,Set B,Ad 4,1.92,232.89,9286,282,81,7115
+2024-10-30,Google Organic,Summer Promo,Set C,Ad 4,0.72,231.67,12345,270,8,713
+2024-10-31,Google,Holiday Sale,Set D,Ad 1,1.62,79.74,13929,117,13,7076
+2024-10-31,Facebook,Holiday Sale,Set B,Ad 3,1.5,86.54,7859,280,75,2803
+2024-10-31,LinkedIn,Holiday Sale,Set A,Ad 5,0.96,59.88,4897,88,46,11348
+2024-10-31,TikTok,Brand Awareness,Set C,Ad 2,0.9,175.36,14719,425,34,1592
+2024-10-31,Instagram,Holiday Sale,Set A,Ad 1,0.57,27.11,7294,576,80,3102
+2024-10-31,X,Retargeting,Set A,Ad 2,1.9,215.66,10364,290,50,4903
+2024-10-31,Google Organic,Back to School,Set B,Ad 4,1.06,215.9,2115,286,89,2690
+2024-11-01,Google,Retargeting,Set B,Ad 1,1.31,244.15,1219,380,26,6327
+2024-11-01,Facebook,Brand Awareness,Set B,Ad 4,1.77,245.24,7912,203,16,9120
+2024-11-01,LinkedIn,Brand Awareness,Set B,Ad 2,1.39,277.46,8536,107,41,11410
+2024-11-01,TikTok,Back to School,Set C,Ad 1,0.6,244.92,12320,119,62,6046
+2024-11-01,Instagram,Summer Promo,Set A,Ad 5,0.91,279.38,6160,579,28,9646
+2024-11-01,X,Summer Promo,Set A,Ad 4,0.59,234.85,12324,305,24,3755
+2024-11-01,Google Organic,Holiday Sale,Set B,Ad 5,0.6,79.46,14205,188,46,6053
+2024-11-02,Google,Brand Awareness,Set B,Ad 1,1.2,34.98,14761,390,5,7847
+2024-11-02,Facebook,Summer Promo,Set A,Ad 1,1.56,25.28,14634,227,12,6307
+2024-11-02,LinkedIn,Summer Promo,Set D,Ad 1,1.32,158.21,8229,509,81,7597
+2024-11-02,TikTok,Brand Awareness,Set B,Ad 3,1.72,114.69,11078,69,6,11802
+2024-11-02,Instagram,Retargeting,Set C,Ad 2,0.83,207.6,10666,512,34,7047
+2024-11-02,X,Holiday Sale,Set B,Ad 1,1.24,107.28,10033,437,61,2124
+2024-11-02,Google Organic,Holiday Sale,Set B,Ad 5,1.78,58.8,12083,262,61,2008
+2024-11-03,Google,Retargeting,Set C,Ad 5,1.37,154.05,5370,460,30,6693
+2024-11-03,Facebook,Retargeting,Set C,Ad 3,0.82,243.05,3145,471,12,6628
+2024-11-03,LinkedIn,Brand Awareness,Set B,Ad 3,1.16,126.86,4311,272,45,6518
+2024-11-03,TikTok,Back to School,Set C,Ad 3,1.25,135.17,4322,159,45,4389
+2024-11-03,Instagram,Brand Awareness,Set D,Ad 4,0.96,214.28,11110,222,46,9325
+2024-11-03,X,Back to School,Set A,Ad 2,1.53,208.13,7859,72,64,11027
+2024-11-03,Google Organic,Retargeting,Set B,Ad 4,0.96,225.89,12877,125,76,3742
+2024-11-04,Google,Retargeting,Set D,Ad 5,1.61,150.6,1500,78,96,10718
+2024-11-04,Facebook,Brand Awareness,Set A,Ad 2,0.59,76.28,4224,398,80,1154
+2024-11-04,LinkedIn,Summer Promo,Set B,Ad 3,1.13,290.79,1725,428,62,4751
+2024-11-04,TikTok,Holiday Sale,Set C,Ad 5,1.39,253.03,9020,398,58,9223
+2024-11-04,Instagram,Holiday Sale,Set C,Ad 3,1.94,29.03,12670,577,11,3709
+2024-11-04,X,Retargeting,Set D,Ad 2,1.33,64.87,10755,476,98,5218
+2024-11-04,Google Organic,Back to School,Set A,Ad 4,0.77,285.72,10215,127,33,8842
+2024-11-05,Google,Brand Awareness,Set D,Ad 2,1.87,186.78,1495,519,23,7990
+2024-11-05,Facebook,Holiday Sale,Set B,Ad 4,1.23,87.77,6423,425,49,9586
+2024-11-05,LinkedIn,Summer Promo,Set B,Ad 1,0.59,216.55,12120,127,7,8949
+2024-11-05,TikTok,Holiday Sale,Set D,Ad 1,1.04,282.63,4829,113,97,946
+2024-11-05,Instagram,Brand Awareness,Set D,Ad 4,0.61,187.9,5431,390,60,10411
+2024-11-05,X,Holiday Sale,Set D,Ad 3,1.97,254.9,7076,228,5,11868
+2024-11-05,Google Organic,Holiday Sale,Set D,Ad 4,0.59,122.19,6062,224,22,3361
+2024-11-06,Google,Holiday Sale,Set D,Ad 1,1.59,163.1,7340,90,21,8830
+2024-11-06,Facebook,Retargeting,Set A,Ad 4,1.9,62.26,11475,267,79,3560
+2024-11-06,LinkedIn,Brand Awareness,Set D,Ad 3,1.75,221.21,6161,592,58,7321
+2024-11-06,TikTok,Retargeting,Set D,Ad 2,1.62,285.46,2038,413,89,4987
+2024-11-06,Instagram,Brand Awareness,Set C,Ad 4,0.8,32.8,12013,516,70,4868
+2024-11-06,X,Back to School,Set B,Ad 1,0.67,227.0,7516,196,70,7576
+2024-11-06,Google Organic,Brand Awareness,Set A,Ad 2,0.58,186.15,11999,127,82,7418
+2024-11-07,Google,Summer Promo,Set A,Ad 1,1.05,47.48,1414,308,6,9233
+2024-11-07,Facebook,Summer Promo,Set B,Ad 2,1.1,227.87,2480,428,25,689
+2024-11-07,LinkedIn,Back to School,Set A,Ad 1,0.66,57.53,12715,388,50,10162
+2024-11-07,TikTok,Summer Promo,Set C,Ad 3,0.61,94.77,4576,329,14,10265
+2024-11-07,Instagram,Back to School,Set B,Ad 1,0.65,155.51,5907,577,11,4027
+2024-11-07,X,Retargeting,Set D,Ad 5,0.82,267.45,1655,511,57,10737
+2024-11-07,Google Organic,Holiday Sale,Set A,Ad 1,1.08,91.26,7867,583,27,9470
+2024-11-08,Google,Brand Awareness,Set D,Ad 3,1.87,36.69,7615,214,96,3216
+2024-11-08,Facebook,Summer Promo,Set C,Ad 2,0.85,34.28,2052,399,77,7759
+2024-11-08,LinkedIn,Retargeting,Set D,Ad 2,1.09,174.69,5688,239,55,11837
+2024-11-08,TikTok,Holiday Sale,Set A,Ad 4,1.48,242.35,6285,113,38,3959
+2024-11-08,Instagram,Holiday Sale,Set B,Ad 1,1.71,189.18,7491,585,10,2376
+2024-11-08,X,Brand Awareness,Set C,Ad 3,1.57,160.66,9659,253,22,9232
+2024-11-08,Google Organic,Back to School,Set A,Ad 2,1.93,140.13,4241,576,74,10980
+2024-11-09,Google,Retargeting,Set B,Ad 1,1.24,169.22,11020,314,72,8865
+2024-11-09,Facebook,Retargeting,Set C,Ad 4,0.77,100.01,12566,599,25,11097
+2024-11-09,LinkedIn,Brand Awareness,Set A,Ad 1,1.01,183.84,1304,599,24,11498
+2024-11-09,TikTok,Holiday Sale,Set D,Ad 3,1.34,50.37,13035,287,77,6588
+2024-11-09,Instagram,Brand Awareness,Set D,Ad 1,1.56,265.94,2989,481,54,10563
+2024-11-09,X,Summer Promo,Set D,Ad 1,1.71,287.67,13242,51,96,4894
+2024-11-09,Google Organic,Summer Promo,Set A,Ad 1,0.81,66.4,3709,324,54,9913
+2024-11-10,Google,Brand Awareness,Set A,Ad 3,1.98,228.61,8606,532,91,9036
+2024-11-10,Facebook,Back to School,Set A,Ad 5,1.92,219.12,4075,176,32,6884
+2024-11-10,LinkedIn,Brand Awareness,Set D,Ad 4,0.88,70.54,6561,594,80,1048
+2024-11-10,TikTok,Back to School,Set D,Ad 4,1.55,262.43,9410,279,49,7584
+2024-11-10,Instagram,Back to School,Set D,Ad 2,1.39,290.72,6498,350,44,7958
+2024-11-10,X,Holiday Sale,Set B,Ad 5,1.42,127.5,10914,440,31,10311
+2024-11-10,Google Organic,Back to School,Set D,Ad 3,1.88,108.5,9999,593,7,8448
+2024-11-11,Google,Holiday Sale,Set C,Ad 2,1.97,153.78,5938,313,100,1616
+2024-11-11,Facebook,Brand Awareness,Set C,Ad 5,0.87,279.98,9274,103,70,6710
+2024-11-11,LinkedIn,Retargeting,Set D,Ad 1,1.22,27.91,2379,275,25,7058
+2024-11-11,TikTok,Retargeting,Set A,Ad 4,0.9,51.84,5703,447,18,8334
+2024-11-11,Instagram,Summer Promo,Set B,Ad 2,0.51,254.24,2816,271,46,6481
+2024-11-11,X,Summer Promo,Set D,Ad 5,1.63,27.02,10010,409,55,4923
+2024-11-11,Google Organic,Summer Promo,Set C,Ad 1,0.77,224.69,3875,405,9,7371
+2024-11-12,Google,Brand Awareness,Set B,Ad 3,0.51,138.71,14215,469,56,2624
+2024-11-12,Facebook,Summer Promo,Set A,Ad 2,1.65,234.16,12554,558,31,11070
+2024-11-12,LinkedIn,Brand Awareness,Set C,Ad 4,1.41,86.42,3941,194,91,4641
+2024-11-12,TikTok,Summer Promo,Set D,Ad 4,1.72,141.68,12031,459,28,10515
+2024-11-12,Instagram,Holiday Sale,Set A,Ad 3,1.16,25.05,11901,255,18,9648
+2024-11-12,X,Summer Promo,Set A,Ad 2,0.81,239.65,2776,107,47,8175
+2024-11-12,Google Organic,Retargeting,Set B,Ad 2,1.24,73.5,1124,502,41,7572
+2024-11-13,Google,Holiday Sale,Set C,Ad 3,0.53,188.58,13817,468,21,1445
+2024-11-13,Facebook,Retargeting,Set B,Ad 4,0.79,93.69,7985,330,5,7175
+2024-11-13,LinkedIn,Summer Promo,Set C,Ad 1,1.54,167.04,14378,291,57,7608
+2024-11-13,TikTok,Retargeting,Set D,Ad 4,1.33,240.62,10897,470,22,1742
+2024-11-13,Instagram,Brand Awareness,Set B,Ad 1,1.32,159.84,3897,218,82,10230
+2024-11-13,X,Holiday Sale,Set C,Ad 3,1.49,207.2,3093,436,33,7399
+2024-11-13,Google Organic,Brand Awareness,Set B,Ad 5,1.69,221.78,12825,329,5,3838
+2024-11-14,Google,Summer Promo,Set D,Ad 2,0.81,105.85,6097,54,61,864
+2024-11-14,Facebook,Back to School,Set A,Ad 1,1.4,186.9,7383,243,26,1294
+2024-11-14,LinkedIn,Summer Promo,Set C,Ad 1,0.94,76.05,10572,426,93,1693
+2024-11-14,TikTok,Retargeting,Set A,Ad 4,0.61,271.49,6439,503,74,799
+2024-11-14,Instagram,Summer Promo,Set D,Ad 3,1.78,54.24,7977,279,21,11232
+2024-11-14,X,Back to School,Set A,Ad 1,1.64,73.32,12247,250,50,11594
+2024-11-14,Google Organic,Retargeting,Set A,Ad 4,1.59,81.53,11992,122,25,5146
+2024-11-15,Google,Holiday Sale,Set B,Ad 1,0.59,112.65,11928,368,85,11308
+2024-11-15,Facebook,Summer Promo,Set B,Ad 1,1.02,37.84,7353,349,96,7140
+2024-11-15,LinkedIn,Back to School,Set A,Ad 4,1.46,295.73,3830,450,68,6767
+2024-11-15,TikTok,Retargeting,Set C,Ad 4,1.92,50.94,14328,455,58,7326
+2024-11-15,Instagram,Brand Awareness,Set B,Ad 4,1.07,299.36,3757,215,48,1448
+2024-11-15,X,Retargeting,Set C,Ad 4,1.55,148.64,7319,432,48,9297
+2024-11-15,Google Organic,Back to School,Set A,Ad 3,1.36,139.26,12160,286,25,9180
+2024-11-16,Google,Back to School,Set D,Ad 1,0.82,289.81,7186,84,16,10030
+2024-11-16,Facebook,Brand Awareness,Set B,Ad 5,1.42,219.32,10827,173,56,2039
+2024-11-16,LinkedIn,Summer Promo,Set A,Ad 5,1.85,208.31,2578,434,71,3546
+2024-11-16,TikTok,Holiday Sale,Set C,Ad 2,0.86,24.78,1546,105,35,5952
+2024-11-16,Instagram,Retargeting,Set A,Ad 3,1.32,224.92,13803,215,49,1178
+2024-11-16,X,Back to School,Set A,Ad 4,0.6,58.25,10134,285,82,7499
+2024-11-16,Google Organic,Retargeting,Set B,Ad 1,1.33,143.7,4578,57,46,4260
+2024-11-17,Google,Back to School,Set A,Ad 4,1.68,92.31,13947,81,81,2613
+2024-11-17,Facebook,Brand Awareness,Set C,Ad 2,1.5,74.67,1378,73,17,9351
+2024-11-17,LinkedIn,Back to School,Set D,Ad 3,0.93,192.32,6320,219,47,11853
+2024-11-17,TikTok,Back to School,Set B,Ad 5,1.36,269.49,14513,598,93,11744
+2024-11-17,Instagram,Holiday Sale,Set B,Ad 3,1.98,189.06,14978,472,74,11549
+2024-11-17,X,Retargeting,Set B,Ad 5,1.88,32.95,1066,468,91,7334
+2024-11-17,Google Organic,Summer Promo,Set C,Ad 1,0.66,234.46,8757,107,65,4245
+2024-11-18,Google,Brand Awareness,Set A,Ad 4,1.17,243.32,2813,460,35,6660
+2024-11-18,Facebook,Brand Awareness,Set C,Ad 1,1.54,130.74,9665,137,86,1197
+2024-11-18,LinkedIn,Summer Promo,Set C,Ad 3,1.17,84.03,1287,592,39,501
+2024-11-18,TikTok,Holiday Sale,Set D,Ad 3,0.63,90.66,7075,555,59,10757
+2024-11-18,Instagram,Retargeting,Set A,Ad 1,1.55,221.93,1233,386,5,11608
+2024-11-18,X,Retargeting,Set A,Ad 3,1.5,145.5,14969,476,10,9034
+2024-11-18,Google Organic,Brand Awareness,Set C,Ad 5,1.04,43.64,9749,586,59,8866
+2024-11-19,Google,Brand Awareness,Set C,Ad 5,1.05,42.06,14402,210,7,1437
+2024-11-19,Facebook,Retargeting,Set A,Ad 3,1.65,201.52,11174,409,28,5930
+2024-11-19,LinkedIn,Holiday Sale,Set C,Ad 3,1.89,97.46,6345,491,23,930
+2024-11-19,TikTok,Brand Awareness,Set D,Ad 5,0.83,52.29,2298,503,64,11037
+2024-11-19,Instagram,Brand Awareness,Set C,Ad 2,1.16,35.27,7637,233,21,11401
+2024-11-19,X,Brand Awareness,Set D,Ad 4,1.14,136.17,14991,220,40,6484
+2024-11-19,Google Organic,Summer Promo,Set B,Ad 1,0.57,238.53,13549,70,95,10890
+2024-11-20,Google,Brand Awareness,Set B,Ad 2,0.83,145.93,4724,409,35,1043
+2024-11-20,Facebook,Summer Promo,Set D,Ad 4,1.34,95.49,3906,313,90,3841
+2024-11-20,LinkedIn,Back to School,Set A,Ad 4,0.78,204.56,3993,253,97,9169
+2024-11-20,TikTok,Retargeting,Set C,Ad 1,1.45,220.93,11676,231,41,7476
+2024-11-20,Instagram,Retargeting,Set A,Ad 2,1.36,184.61,9169,383,92,7586
+2024-11-20,X,Summer Promo,Set B,Ad 5,0.88,244.63,3494,229,52,7234
+2024-11-20,Google Organic,Brand Awareness,Set A,Ad 5,0.98,36.08,9763,99,9,9748
+2024-11-21,Google,Holiday Sale,Set C,Ad 5,1.66,84.59,8907,549,49,8463
+2024-11-21,Facebook,Retargeting,Set B,Ad 1,1.83,29.8,6001,63,86,3944
+2024-11-21,LinkedIn,Back to School,Set C,Ad 2,0.62,224.73,11025,172,23,8761
+2024-11-21,TikTok,Retargeting,Set A,Ad 1,1.69,291.37,14062,443,9,11913
+2024-11-21,Instagram,Back to School,Set B,Ad 3,1.94,24.6,1764,89,62,10144
+2024-11-21,X,Retargeting,Set C,Ad 3,0.66,133.43,5219,184,47,9899
+2024-11-21,Google Organic,Summer Promo,Set D,Ad 3,1.14,239.89,8920,231,9,3822
+2024-11-22,Google,Holiday Sale,Set A,Ad 2,0.71,66.04,9923,428,94,3264
+2024-11-22,Facebook,Brand Awareness,Set C,Ad 5,1.01,236.6,6925,163,14,10739
+2024-11-22,LinkedIn,Summer Promo,Set A,Ad 2,0.67,286.15,6741,415,68,7923
+2024-11-22,TikTok,Holiday Sale,Set D,Ad 5,0.6,274.82,8419,511,44,7998
+2024-11-22,Instagram,Holiday Sale,Set B,Ad 4,0.99,86.71,6445,105,22,4577
+2024-11-22,X,Back to School,Set A,Ad 1,1.64,85.79,7160,451,59,4672
+2024-11-22,Google Organic,Brand Awareness,Set C,Ad 2,0.81,229.67,9801,246,62,8347
+2024-11-23,Google,Holiday Sale,Set D,Ad 4,0.59,245.99,3535,484,58,6051
+2024-11-23,Facebook,Retargeting,Set B,Ad 4,0.58,214.2,2332,482,26,5700
+2024-11-23,LinkedIn,Holiday Sale,Set A,Ad 2,0.8,188.3,10789,56,16,11125
+2024-11-23,TikTok,Retargeting,Set D,Ad 3,0.99,242.57,8329,347,77,3627
+2024-11-23,Instagram,Brand Awareness,Set D,Ad 2,0.67,187.2,10127,379,89,793
+2024-11-23,X,Brand Awareness,Set C,Ad 4,1.32,282.59,6678,428,47,9140
+2024-11-23,Google Organic,Back to School,Set D,Ad 5,0.62,179.73,1931,149,30,6251
+2024-11-24,Google,Brand Awareness,Set B,Ad 1,1.28,186.6,13248,442,48,2422
+2024-11-24,Facebook,Brand Awareness,Set C,Ad 4,1.76,252.9,3301,64,89,9596
+2024-11-24,LinkedIn,Retargeting,Set B,Ad 5,1.94,118.5,3619,124,88,8597
+2024-11-24,TikTok,Summer Promo,Set D,Ad 5,1.49,88.15,12715,226,47,10926
+2024-11-24,Instagram,Summer Promo,Set B,Ad 2,1.06,44.01,13380,552,53,2538
+2024-11-24,X,Summer Promo,Set B,Ad 4,0.53,119.41,1314,493,36,2070
+2024-11-24,Google Organic,Retargeting,Set A,Ad 5,0.86,199.26,11054,570,6,897
+2024-11-25,Google,Back to School,Set C,Ad 4,1.84,26.04,5496,353,97,1360
+2024-11-25,Facebook,Brand Awareness,Set C,Ad 1,0.8,53.13,10263,159,41,3062
+2024-11-25,LinkedIn,Retargeting,Set D,Ad 3,0.6,35.24,13535,578,77,2528
+2024-11-25,TikTok,Summer Promo,Set A,Ad 1,0.88,253.79,12213,176,67,945
+2024-11-25,Instagram,Back to School,Set C,Ad 3,1.1,287.91,7084,358,29,3109
+2024-11-25,X,Retargeting,Set C,Ad 1,0.86,246.93,1481,122,56,9816
+2024-11-25,Google Organic,Summer Promo,Set A,Ad 4,1.31,205.82,1765,454,100,7826
+2024-11-26,Google,Summer Promo,Set A,Ad 3,1.26,116.02,14573,563,84,11088
+2024-11-26,Facebook,Back to School,Set D,Ad 3,1.65,194.46,3638,337,89,4260
+2024-11-26,LinkedIn,Retargeting,Set C,Ad 4,1.61,258.19,5394,361,49,7804
+2024-11-26,TikTok,Summer Promo,Set C,Ad 5,0.63,33.61,8999,195,20,8867
+2024-11-26,Instagram,Brand Awareness,Set A,Ad 5,0.5,64.54,4485,270,40,1494
+2024-11-26,X,Summer Promo,Set A,Ad 5,1.48,154.89,1632,150,25,8283
+2024-11-26,Google Organic,Holiday Sale,Set B,Ad 3,1.34,20.64,7149,69,82,9844
+2024-11-27,Google,Brand Awareness,Set A,Ad 1,1.26,177.97,13678,86,44,5852
+2024-11-27,Facebook,Back to School,Set D,Ad 5,1.66,144.57,14831,379,9,2021
+2024-11-27,LinkedIn,Retargeting,Set B,Ad 1,1.68,62.5,7427,571,61,10145
+2024-11-27,TikTok,Retargeting,Set B,Ad 5,1.21,235.17,4491,258,83,11271
+2024-11-27,Instagram,Retargeting,Set D,Ad 5,0.95,238.53,4760,338,13,10181
+2024-11-27,X,Back to School,Set B,Ad 1,0.63,263.99,7662,489,60,2357
+2024-11-27,Google Organic,Brand Awareness,Set D,Ad 2,1.1,86.11,3609,453,98,8664
+2024-11-28,Google,Retargeting,Set C,Ad 5,1.53,117.59,14307,274,62,8745
+2024-11-28,Facebook,Summer Promo,Set D,Ad 3,0.78,128.05,6460,60,75,6007
+2024-11-28,LinkedIn,Retargeting,Set B,Ad 3,0.58,272.62,6094,236,41,11340
+2024-11-28,TikTok,Retargeting,Set C,Ad 1,1.86,24.5,12514,265,30,10815
+2024-11-28,Instagram,Retargeting,Set D,Ad 4,1.57,150.66,1117,451,48,3399
+2024-11-28,X,Summer Promo,Set D,Ad 3,0.65,142.03,12152,591,27,6773
+2024-11-28,Google Organic,Brand Awareness,Set B,Ad 3,0.94,206.69,11452,590,99,2187
+2024-11-29,Google,Back to School,Set B,Ad 4,1.28,112.32,11870,478,24,10053
+2024-11-29,Facebook,Summer Promo,Set B,Ad 3,0.54,206.44,3001,579,82,8435
+2024-11-29,LinkedIn,Holiday Sale,Set D,Ad 5,1.25,256.68,12481,479,12,4242
+2024-11-29,TikTok,Retargeting,Set C,Ad 5,0.72,289.03,12278,495,49,10881
+2024-11-29,Instagram,Summer Promo,Set C,Ad 3,1.55,41.25,14757,264,27,6139
+2024-11-29,X,Summer Promo,Set C,Ad 3,1.02,289.9,5330,567,89,7955
+2024-11-29,Google Organic,Retargeting,Set B,Ad 3,0.87,175.78,13667,132,11,9182
+2024-11-30,Google,Retargeting,Set A,Ad 3,1.22,165.08,2740,554,47,4750
+2024-11-30,Facebook,Holiday Sale,Set B,Ad 5,1.03,167.46,11413,398,13,4887
+2024-11-30,LinkedIn,Back to School,Set A,Ad 1,1.36,254.81,9413,474,98,3293
+2024-11-30,TikTok,Back to School,Set B,Ad 1,1.17,187.3,13198,552,35,11614
+2024-11-30,Instagram,Retargeting,Set B,Ad 3,1.46,128.55,13883,406,50,1504
+2024-11-30,X,Back to School,Set D,Ad 1,0.72,86.47,13293,354,19,1428
+2024-11-30,Google Organic,Holiday Sale,Set B,Ad 5,1.61,175.48,7820,348,23,3488
+2024-12-01,Google,Summer Promo,Set B,Ad 2,1.09,37.75,3982,506,8,6603
+2024-12-01,Facebook,Holiday Sale,Set B,Ad 2,0.71,292.25,6669,600,83,8897
+2024-12-01,LinkedIn,Summer Promo,Set D,Ad 1,0.63,272.52,14129,442,5,9491
+2024-12-01,TikTok,Back to School,Set D,Ad 2,1.31,73.24,11201,329,66,7686
+2024-12-01,Instagram,Retargeting,Set B,Ad 2,0.7,204.47,14957,90,6,6707
+2024-12-01,X,Holiday Sale,Set D,Ad 4,1.67,165.95,3602,474,76,8173
+2024-12-01,Google Organic,Retargeting,Set C,Ad 2,1.4,34.49,1502,138,82,2362
+2024-12-02,Google,Back to School,Set A,Ad 1,1.28,135.37,7875,192,20,3532
+2024-12-02,Facebook,Summer Promo,Set C,Ad 3,0.51,254.25,10040,97,19,9089
+2024-12-02,LinkedIn,Brand Awareness,Set B,Ad 3,1.96,61.56,10770,267,56,5857
+2024-12-02,TikTok,Retargeting,Set D,Ad 2,1.98,210.96,1822,570,31,2912
+2024-12-02,Instagram,Retargeting,Set B,Ad 2,0.55,90.21,5574,261,54,4834
+2024-12-02,X,Retargeting,Set C,Ad 4,0.69,261.47,6877,238,68,2604
+2024-12-02,Google Organic,Back to School,Set C,Ad 4,0.87,282.46,11562,70,65,2508
+2024-12-03,Google,Summer Promo,Set B,Ad 5,1.39,148.52,6269,328,48,2239
+2024-12-03,Facebook,Holiday Sale,Set D,Ad 4,0.75,161.38,1621,475,17,6625
+2024-12-03,LinkedIn,Retargeting,Set D,Ad 2,1.95,31.99,10248,383,46,3842
+2024-12-03,TikTok,Brand Awareness,Set B,Ad 3,0.89,238.64,10881,186,64,10904
+2024-12-03,Instagram,Retargeting,Set D,Ad 5,1.35,238.38,13942,429,94,5825
+2024-12-03,X,Back to School,Set A,Ad 1,1.03,238.55,14644,393,91,4509
+2024-12-03,Google Organic,Summer Promo,Set D,Ad 2,1.38,260.93,1737,354,81,4065
+2024-12-04,Google,Holiday Sale,Set B,Ad 2,0.87,210.2,9512,403,65,4196
+2024-12-04,Facebook,Retargeting,Set B,Ad 4,0.89,30.13,3808,350,89,8900
+2024-12-04,LinkedIn,Back to School,Set A,Ad 5,1.07,168.52,2953,111,96,9343
+2024-12-04,TikTok,Brand Awareness,Set C,Ad 4,1.57,287.28,1518,304,11,5604
+2024-12-04,Instagram,Retargeting,Set C,Ad 4,1.64,51.86,3545,548,50,2792
+2024-12-04,X,Brand Awareness,Set B,Ad 5,0.82,250.56,7395,182,73,5087
+2024-12-04,Google Organic,Back to School,Set C,Ad 3,1.07,130.66,12132,443,27,5961
+2024-12-05,Google,Brand Awareness,Set D,Ad 2,1.5,123.74,10069,346,61,1755
+2024-12-05,Facebook,Holiday Sale,Set D,Ad 1,1.44,295.67,9514,94,58,6825
+2024-12-05,LinkedIn,Brand Awareness,Set C,Ad 3,0.62,239.06,7029,430,63,617
+2024-12-05,TikTok,Summer Promo,Set C,Ad 2,1.74,141.53,6877,481,6,5860
+2024-12-05,Instagram,Back to School,Set A,Ad 5,1.6,151.59,6034,117,66,9691
+2024-12-05,X,Holiday Sale,Set A,Ad 2,1.77,64.34,6209,341,42,7328
+2024-12-05,Google Organic,Retargeting,Set C,Ad 5,0.61,66.56,10501,543,90,860
+2024-12-06,Google,Summer Promo,Set A,Ad 2,0.9,171.45,8151,373,94,5925
+2024-12-06,Facebook,Holiday Sale,Set A,Ad 5,0.97,221.81,5136,234,36,10904
+2024-12-06,LinkedIn,Retargeting,Set C,Ad 5,0.8,106.55,10077,582,25,6892
+2024-12-06,TikTok,Summer Promo,Set A,Ad 4,0.61,129.59,9794,79,56,11890
+2024-12-06,Instagram,Summer Promo,Set D,Ad 2,1.92,185.87,12063,338,79,4690
+2024-12-06,X,Brand Awareness,Set D,Ad 2,1.29,159.4,10824,66,49,9386
+2024-12-06,Google Organic,Brand Awareness,Set C,Ad 3,1.59,266.92,6618,401,79,7412
+2024-12-07,Google,Brand Awareness,Set D,Ad 4,1.3,171.89,12749,227,65,3976
+2024-12-07,Facebook,Back to School,Set D,Ad 5,1.72,139.39,7049,175,24,11789
+2024-12-07,LinkedIn,Brand Awareness,Set B,Ad 1,1.37,107.58,14711,488,85,6799
+2024-12-07,TikTok,Brand Awareness,Set C,Ad 3,1.66,178.26,13371,507,25,10456
+2024-12-07,Instagram,Brand Awareness,Set B,Ad 1,1.06,295.86,10663,94,35,9971
+2024-12-07,X,Summer Promo,Set C,Ad 3,1.08,43.06,2122,94,19,2864
+2024-12-07,Google Organic,Holiday Sale,Set C,Ad 5,1.44,167.51,10835,532,62,2995
+2024-12-08,Google,Summer Promo,Set C,Ad 4,1.18,153.22,5357,61,32,6340
+2024-12-08,Facebook,Brand Awareness,Set D,Ad 5,1.45,281.57,5268,54,91,7804
+2024-12-08,LinkedIn,Retargeting,Set A,Ad 4,1.26,182.27,12924,421,59,7728
+2024-12-08,TikTok,Back to School,Set C,Ad 3,1.28,110.32,11404,189,36,4160
+2024-12-08,Instagram,Brand Awareness,Set A,Ad 5,0.88,188.85,7881,432,49,8822
+2024-12-08,X,Back to School,Set D,Ad 1,1.0,288.57,2197,554,26,5332
+2024-12-08,Google Organic,Brand Awareness,Set B,Ad 3,1.69,63.32,5301,311,33,10519
+2024-12-09,Google,Back to School,Set B,Ad 4,1.13,148.61,4472,349,49,2310
+2024-12-09,Facebook,Holiday Sale,Set B,Ad 2,1.84,44.61,5406,351,83,9156
+2024-12-09,LinkedIn,Holiday Sale,Set D,Ad 2,1.29,296.86,7478,310,42,8154
+2024-12-09,TikTok,Holiday Sale,Set B,Ad 1,1.5,213.57,9052,358,30,7522
+2024-12-09,Instagram,Summer Promo,Set C,Ad 3,1.57,259.06,3720,261,20,9615
+2024-12-09,X,Retargeting,Set D,Ad 3,1.78,204.41,13398,121,96,4800
+2024-12-09,Google Organic,Holiday Sale,Set D,Ad 3,0.58,21.51,1263,425,50,6884
+2024-12-10,Google,Retargeting,Set D,Ad 1,0.89,67.81,6353,226,28,6909
+2024-12-10,Facebook,Back to School,Set A,Ad 4,1.69,295.29,8485,147,34,1761
+2024-12-10,LinkedIn,Holiday Sale,Set C,Ad 5,1.24,79.32,2157,449,61,7733
+2024-12-10,TikTok,Back to School,Set C,Ad 3,1.77,46.93,4447,149,37,3497
+2024-12-10,Instagram,Brand Awareness,Set A,Ad 3,0.5,76.11,14297,455,32,9345
+2024-12-10,X,Holiday Sale,Set C,Ad 3,1.51,284.01,3947,477,28,1564
+2024-12-10,Google Organic,Holiday Sale,Set D,Ad 3,0.68,276.84,5304,245,38,10575
+2024-12-11,Google,Holiday Sale,Set A,Ad 3,1.22,36.75,14446,508,18,3135
+2024-12-11,Facebook,Holiday Sale,Set B,Ad 2,0.87,231.6,3235,562,99,6587
+2024-12-11,LinkedIn,Retargeting,Set D,Ad 4,1.27,34.95,8114,345,79,633
+2024-12-11,TikTok,Holiday Sale,Set A,Ad 1,0.68,156.92,14703,118,84,8373
+2024-12-11,Instagram,Brand Awareness,Set C,Ad 2,0.65,81.67,4718,552,86,1711
+2024-12-11,X,Brand Awareness,Set D,Ad 5,0.85,50.4,2370,122,84,4530
+2024-12-11,Google Organic,Summer Promo,Set D,Ad 2,1.64,207.4,2221,171,29,6379
+2024-12-12,Google,Holiday Sale,Set D,Ad 4,1.05,221.77,5804,56,100,2144
+2024-12-12,Facebook,Back to School,Set D,Ad 5,1.92,271.21,12696,388,21,10004
+2024-12-12,LinkedIn,Brand Awareness,Set D,Ad 3,1.18,248.8,4286,184,97,11881
+2024-12-12,TikTok,Retargeting,Set B,Ad 2,1.3,144.95,9957,536,60,8906
+2024-12-12,Instagram,Back to School,Set C,Ad 1,1.38,125.36,5744,326,24,11412
+2024-12-12,X,Retargeting,Set C,Ad 5,1.31,164.48,12665,99,54,7578
+2024-12-12,Google Organic,Brand Awareness,Set A,Ad 2,1.22,164.32,13545,510,47,4903
+2024-12-13,Google,Retargeting,Set B,Ad 5,1.49,38.46,5282,218,72,2168
+2024-12-13,Facebook,Summer Promo,Set D,Ad 5,1.57,136.93,1740,260,92,8638
+2024-12-13,LinkedIn,Brand Awareness,Set B,Ad 5,0.93,124.81,7266,409,10,9707
+2024-12-13,TikTok,Brand Awareness,Set B,Ad 2,0.53,26.01,4075,416,47,7595
+2024-12-13,Instagram,Retargeting,Set D,Ad 2,1.9,258.75,6702,94,44,1950
+2024-12-13,X,Retargeting,Set A,Ad 1,1.24,157.72,14331,205,29,2884
+2024-12-13,Google Organic,Brand Awareness,Set A,Ad 1,1.37,224.5,1874,595,53,7583
+2024-12-14,Google,Holiday Sale,Set C,Ad 3,0.5,61.68,7646,63,17,7977
+2024-12-14,Facebook,Back to School,Set A,Ad 1,0.82,243.13,5810,173,43,6291
+2024-12-14,LinkedIn,Retargeting,Set C,Ad 5,1.84,232.75,14409,546,30,11740
+2024-12-14,TikTok,Holiday Sale,Set A,Ad 2,0.81,102.69,4431,207,72,6155
+2024-12-14,Instagram,Brand Awareness,Set C,Ad 2,1.71,108.28,9492,555,83,8162
+2024-12-14,X,Brand Awareness,Set D,Ad 1,1.55,79.83,4572,530,81,10281
+2024-12-14,Google Organic,Brand Awareness,Set D,Ad 3,1.07,126.13,5282,440,87,1556
+2024-12-15,Google,Summer Promo,Set A,Ad 2,0.96,112.04,10635,598,99,7562
+2024-12-15,Facebook,Holiday Sale,Set C,Ad 1,0.84,98.23,2411,169,36,9047
+2024-12-15,LinkedIn,Holiday Sale,Set D,Ad 5,1.45,241.34,13556,342,70,7186
+2024-12-15,TikTok,Holiday Sale,Set A,Ad 1,1.13,280.29,12961,104,40,1971
+2024-12-15,Instagram,Summer Promo,Set A,Ad 3,0.99,287.4,12862,105,76,739
+2024-12-15,X,Back to School,Set A,Ad 4,1.11,61.1,8027,121,63,9773
+2024-12-15,Google Organic,Retargeting,Set D,Ad 4,0.89,102.31,2588,404,75,1279
+2024-12-16,Google,Holiday Sale,Set B,Ad 2,0.73,113.7,4780,312,49,747
+2024-12-16,Facebook,Back to School,Set D,Ad 1,0.72,70.97,8407,375,39,9853
+2024-12-16,LinkedIn,Summer Promo,Set A,Ad 3,1.51,113.41,6697,95,89,3095
+2024-12-16,TikTok,Brand Awareness,Set D,Ad 5,1.79,230.25,4552,251,62,10818
+2024-12-16,Instagram,Retargeting,Set B,Ad 5,1.47,123.18,7189,289,20,1500
+2024-12-16,X,Retargeting,Set B,Ad 4,0.96,253.95,12258,213,33,10823
+2024-12-16,Google Organic,Holiday Sale,Set D,Ad 1,2.0,42.47,13826,389,61,2383
+2024-12-17,Google,Holiday Sale,Set B,Ad 4,1.65,104.21,1103,575,59,2274
+2024-12-17,Facebook,Summer Promo,Set D,Ad 1,0.65,288.8,11138,309,40,11143
+2024-12-17,LinkedIn,Back to School,Set C,Ad 2,1.23,288.57,10868,383,57,2600
+2024-12-17,TikTok,Back to School,Set D,Ad 3,1.22,230.61,6655,404,92,3579
+2024-12-17,Instagram,Summer Promo,Set D,Ad 1,0.92,130.96,9281,402,82,1181
+2024-12-17,X,Back to School,Set D,Ad 1,1.78,254.08,7706,163,98,1805
+2024-12-17,Google Organic,Holiday Sale,Set C,Ad 5,1.54,24.39,5647,249,22,7007
+2024-12-18,Google,Summer Promo,Set A,Ad 1,0.95,248.05,12417,217,25,6870
+2024-12-18,Facebook,Summer Promo,Set B,Ad 2,1.35,221.74,13731,522,20,5148
+2024-12-18,LinkedIn,Brand Awareness,Set C,Ad 2,1.72,205.32,2751,108,74,3807
+2024-12-18,TikTok,Back to School,Set C,Ad 2,0.51,241.73,7767,409,32,5445
+2024-12-18,Instagram,Retargeting,Set C,Ad 1,0.53,252.39,5610,370,59,11556
+2024-12-18,X,Retargeting,Set A,Ad 5,1.69,52.5,1865,222,17,1228
+2024-12-18,Google Organic,Brand Awareness,Set A,Ad 5,1.23,262.41,5630,144,36,1655
+2024-12-19,Google,Holiday Sale,Set C,Ad 2,1.14,291.99,5083,54,67,11963
+2024-12-19,Facebook,Back to School,Set C,Ad 2,1.92,168.73,13572,296,98,9867
+2024-12-19,LinkedIn,Summer Promo,Set C,Ad 4,0.88,231.26,2898,433,19,11034
+2024-12-19,TikTok,Back to School,Set A,Ad 1,1.72,290.71,14251,194,5,2164
+2024-12-19,Instagram,Holiday Sale,Set D,Ad 2,0.66,161.13,13332,352,94,5274
+2024-12-19,X,Holiday Sale,Set B,Ad 1,1.83,61.24,7478,387,35,9047
+2024-12-19,Google Organic,Summer Promo,Set A,Ad 5,0.58,122.66,13056,361,77,7295
+2024-12-20,Google,Back to School,Set D,Ad 3,0.63,178.86,11547,563,87,10702
+2024-12-20,Facebook,Brand Awareness,Set B,Ad 5,0.83,112.54,4198,60,15,3988
+2024-12-20,LinkedIn,Back to School,Set B,Ad 3,1.49,46.9,10235,122,36,5315
+2024-12-20,TikTok,Back to School,Set D,Ad 3,1.88,237.99,1640,539,98,2374
+2024-12-20,Instagram,Back to School,Set D,Ad 4,1.67,128.15,13578,80,50,954
+2024-12-20,X,Summer Promo,Set A,Ad 2,1.93,110.81,7697,133,5,2599
+2024-12-20,Google Organic,Retargeting,Set B,Ad 3,1.95,30.73,12801,553,85,9905
+2024-12-21,Google,Brand Awareness,Set D,Ad 1,0.67,43.69,13023,133,42,10818
+2024-12-21,Facebook,Holiday Sale,Set D,Ad 4,0.82,34.73,14657,201,14,9012
+2024-12-21,LinkedIn,Back to School,Set B,Ad 1,1.63,92.19,5608,317,58,932
+2024-12-21,TikTok,Summer Promo,Set B,Ad 5,1.37,61.77,2908,186,76,6022
+2024-12-21,Instagram,Holiday Sale,Set D,Ad 4,1.48,98.56,4693,209,60,9986
+2024-12-21,X,Summer Promo,Set A,Ad 4,1.13,27.56,8545,191,5,10291
+2024-12-21,Google Organic,Back to School,Set A,Ad 4,0.51,103.69,8398,425,95,2181
+2024-12-22,Google,Brand Awareness,Set A,Ad 4,1.06,46.74,2898,295,47,1328
+2024-12-22,Facebook,Back to School,Set B,Ad 4,0.76,158.36,10779,400,42,7608
+2024-12-22,LinkedIn,Summer Promo,Set B,Ad 2,0.98,181.31,3040,513,79,4500
+2024-12-22,TikTok,Holiday Sale,Set D,Ad 3,1.62,290.89,12487,112,8,7984
+2024-12-22,Instagram,Summer Promo,Set A,Ad 1,1.84,287.64,11019,512,8,759
+2024-12-22,X,Retargeting,Set A,Ad 3,1.22,259.24,9330,519,38,7627
+2024-12-22,Google Organic,Back to School,Set A,Ad 5,0.7,242.35,8367,454,45,5529
+2024-12-23,Google,Retargeting,Set C,Ad 2,1.55,31.65,14564,82,34,7152
+2024-12-23,Facebook,Brand Awareness,Set C,Ad 4,0.7,80.78,5402,244,62,5833
+2024-12-23,LinkedIn,Retargeting,Set C,Ad 2,1.98,161.66,9596,159,66,7283
+2024-12-23,TikTok,Retargeting,Set C,Ad 4,0.97,290.59,11923,415,19,6141
+2024-12-23,Instagram,Back to School,Set C,Ad 1,0.69,201.07,3344,273,49,9021
+2024-12-23,X,Holiday Sale,Set D,Ad 4,0.95,168.69,13050,461,35,3536
+2024-12-23,Google Organic,Brand Awareness,Set A,Ad 2,1.8,247.47,10350,59,74,8867
+2024-12-24,Google,Summer Promo,Set B,Ad 2,0.75,287.21,12558,395,63,3781
+2024-12-24,Facebook,Brand Awareness,Set A,Ad 5,0.51,175.81,9666,392,41,7487
+2024-12-24,LinkedIn,Back to School,Set A,Ad 2,0.99,191.05,4682,591,63,6157
+2024-12-24,TikTok,Retargeting,Set A,Ad 4,1.9,273.31,1937,481,86,10491
+2024-12-24,Instagram,Holiday Sale,Set B,Ad 1,0.68,114.41,2486,574,10,2364
+2024-12-24,X,Summer Promo,Set B,Ad 2,0.68,34.14,14629,53,46,6640
+2024-12-24,Google Organic,Back to School,Set A,Ad 2,1.44,72.62,5697,262,5,10891
+2024-12-25,Google,Holiday Sale,Set A,Ad 3,1.0,297.94,13445,408,58,6727
+2024-12-25,Facebook,Brand Awareness,Set D,Ad 3,1.64,128.87,1054,575,53,10699
+2024-12-25,LinkedIn,Brand Awareness,Set B,Ad 2,1.7,296.96,3450,454,88,8786
+2024-12-25,TikTok,Summer Promo,Set D,Ad 5,0.63,153.28,13587,219,66,10351
+2024-12-25,Instagram,Retargeting,Set A,Ad 2,1.25,33.65,5805,252,93,739
+2024-12-25,X,Brand Awareness,Set D,Ad 3,1.07,286.23,1732,480,37,11155
+2024-12-25,Google Organic,Back to School,Set B,Ad 3,1.31,223.35,2579,62,45,10629
+2024-12-26,Google,Holiday Sale,Set C,Ad 2,1.32,148.76,11469,529,14,7997
+2024-12-26,Facebook,Summer Promo,Set C,Ad 2,0.69,281.92,6498,154,79,6253
+2024-12-26,LinkedIn,Retargeting,Set A,Ad 2,1.83,206.33,10748,549,42,1351
+2024-12-26,TikTok,Holiday Sale,Set C,Ad 2,1.62,287.56,12658,262,85,10596
+2024-12-26,Instagram,Summer Promo,Set C,Ad 2,1.39,285.53,2687,71,12,11156
+2024-12-26,X,Back to School,Set B,Ad 1,1.03,283.1,13043,442,27,3520
+2024-12-26,Google Organic,Holiday Sale,Set C,Ad 4,1.63,174.35,5356,140,97,6775
+2024-12-27,Google,Retargeting,Set B,Ad 5,1.16,254.42,2697,541,61,10122
+2024-12-27,Facebook,Back to School,Set C,Ad 4,1.85,204.91,9169,474,77,6894
+2024-12-27,LinkedIn,Summer Promo,Set A,Ad 4,1.67,245.93,2061,532,23,10098
+2024-12-27,TikTok,Holiday Sale,Set A,Ad 2,1.4,220.95,11106,286,74,7718
+2024-12-27,Instagram,Holiday Sale,Set B,Ad 3,1.52,194.37,6416,550,87,1575
+2024-12-27,X,Back to School,Set D,Ad 4,1.91,40.86,14054,223,98,3194
+2024-12-27,Google Organic,Brand Awareness,Set C,Ad 3,0.97,267.36,10858,157,76,6833
+2024-12-28,Google,Brand Awareness,Set A,Ad 5,1.81,143.86,12295,194,89,3917
+2024-12-28,Facebook,Summer Promo,Set B,Ad 4,0.63,154.14,12055,452,69,7656
+2024-12-28,LinkedIn,Holiday Sale,Set A,Ad 2,1.96,161.44,9865,550,84,11005
+2024-12-28,TikTok,Holiday Sale,Set C,Ad 2,1.04,130.94,14711,385,63,965
+2024-12-28,Instagram,Back to School,Set C,Ad 4,1.92,266.14,4264,430,91,6388
+2024-12-28,X,Brand Awareness,Set D,Ad 1,0.53,236.19,5526,559,60,4259
+2024-12-28,Google Organic,Retargeting,Set D,Ad 1,0.51,39.59,14226,119,69,645
+2024-12-29,Google,Back to School,Set A,Ad 1,1.57,299.02,13455,373,30,6089
+2024-12-29,Facebook,Retargeting,Set C,Ad 2,1.59,47.58,2906,133,42,2369
+2024-12-29,LinkedIn,Retargeting,Set D,Ad 1,1.51,65.98,8435,117,44,11086
+2024-12-29,TikTok,Brand Awareness,Set C,Ad 5,1.91,179.94,7039,245,66,9443
+2024-12-29,Instagram,Holiday Sale,Set B,Ad 5,0.62,211.22,11979,485,91,4362
+2024-12-29,X,Back to School,Set C,Ad 5,1.5,256.82,5136,179,17,10326
+2024-12-29,Google Organic,Holiday Sale,Set C,Ad 5,1.78,268.9,5630,491,81,8392
+2024-12-30,Google,Summer Promo,Set B,Ad 4,1.24,150.3,11511,372,73,10429
+2024-12-30,Facebook,Brand Awareness,Set D,Ad 3,0.58,121.93,2278,210,12,2294
+2024-12-30,LinkedIn,Summer Promo,Set B,Ad 4,1.32,208.47,6549,403,79,4693
+2024-12-30,TikTok,Brand Awareness,Set D,Ad 4,1.01,43.34,3096,313,55,8261
+2024-12-30,Instagram,Brand Awareness,Set B,Ad 1,0.88,105.07,7740,455,7,1837
+2024-12-30,X,Retargeting,Set C,Ad 5,0.92,48.94,9801,374,16,7854
+2024-12-30,Google Organic,Retargeting,Set D,Ad 4,1.89,96.33,10872,435,82,2141
+2024-12-31,Google,Holiday Sale,Set D,Ad 3,1.42,41.52,4326,188,52,4669
+2024-12-31,Facebook,Summer Promo,Set C,Ad 5,1.37,59.42,2028,499,64,3798
+2024-12-31,LinkedIn,Holiday Sale,Set B,Ad 3,0.72,77.24,1791,211,91,11270
+2024-12-31,TikTok,Holiday Sale,Set D,Ad 4,1.46,265.11,6654,229,30,7407
+2024-12-31,Instagram,Summer Promo,Set D,Ad 5,0.67,121.41,11103,92,24,9565
+2024-12-31,X,Summer Promo,Set A,Ad 3,1.61,284.36,12051,125,91,4016
+2024-12-31,Google Organic,Brand Awareness,Set D,Ad 2,1.0,185.61,6192,106,86,7938
+2025-01-01,Google,Holiday Sale,Set C,Ad 3,1.35,103.76,1099,189,16,9934
+2025-01-01,Facebook,Holiday Sale,Set D,Ad 1,1.29,195.92,10584,356,92,11522
+2025-01-01,LinkedIn,Back to School,Set B,Ad 3,1.24,214.75,2563,571,13,7869
+2025-01-01,TikTok,Brand Awareness,Set B,Ad 1,1.2,280.19,3152,258,10,679
+2025-01-01,Instagram,Summer Promo,Set A,Ad 5,1.85,283.58,13327,90,32,7203
+2025-01-01,X,Summer Promo,Set C,Ad 2,0.67,123.53,12169,180,41,10487
+2025-01-01,Google Organic,Summer Promo,Set A,Ad 5,0.57,200.07,11512,67,86,2618
+2025-01-02,Google,Holiday Sale,Set B,Ad 5,1.49,172.25,10606,170,54,2127
+2025-01-02,Facebook,Brand Awareness,Set A,Ad 5,1.14,177.25,7035,382,89,8393
+2025-01-02,LinkedIn,Brand Awareness,Set D,Ad 5,1.03,122.53,9486,162,60,2060
+2025-01-02,TikTok,Holiday Sale,Set C,Ad 2,1.34,33.94,4587,308,12,7849
+2025-01-02,Instagram,Summer Promo,Set C,Ad 2,0.66,49.89,12895,522,9,6223
+2025-01-02,X,Brand Awareness,Set B,Ad 5,1.46,260.5,11778,378,82,3661
+2025-01-02,Google Organic,Back to School,Set D,Ad 3,1.07,155.79,3187,211,70,9296
+2025-01-03,Google,Holiday Sale,Set D,Ad 1,1.93,280.89,3449,127,79,4948
+2025-01-03,Facebook,Brand Awareness,Set B,Ad 2,1.44,236.09,1818,479,33,806
+2025-01-03,LinkedIn,Holiday Sale,Set D,Ad 2,1.2,277.03,14803,462,67,10155
+2025-01-03,TikTok,Retargeting,Set B,Ad 3,1.19,102.64,13428,126,88,558
+2025-01-03,Instagram,Brand Awareness,Set C,Ad 4,1.21,140.62,14918,85,61,2618
+2025-01-03,X,Holiday Sale,Set C,Ad 2,1.02,179.27,11709,482,26,3252
+2025-01-03,Google Organic,Retargeting,Set A,Ad 4,1.55,137.29,4264,396,58,10376
+2025-01-04,Google,Brand Awareness,Set D,Ad 5,0.71,198.13,11420,476,82,10067
+2025-01-04,Facebook,Brand Awareness,Set B,Ad 4,1.0,220.89,9634,290,84,5133
+2025-01-04,LinkedIn,Retargeting,Set C,Ad 4,0.59,124.75,13463,552,16,569
+2025-01-04,TikTok,Retargeting,Set B,Ad 3,0.84,171.94,10166,399,47,6568
+2025-01-04,Instagram,Retargeting,Set D,Ad 1,1.71,50.75,14903,72,70,4903
+2025-01-04,X,Retargeting,Set B,Ad 4,1.91,50.2,7058,148,52,7545
+2025-01-04,Google Organic,Brand Awareness,Set D,Ad 4,1.72,97.27,9203,281,66,4152
+2025-01-05,Google,Brand Awareness,Set A,Ad 1,1.65,229.82,10242,325,64,8054
+2025-01-05,Facebook,Back to School,Set C,Ad 2,1.04,63.95,14442,515,97,9005
+2025-01-05,LinkedIn,Retargeting,Set B,Ad 3,0.59,95.84,5710,140,78,7671
+2025-01-05,TikTok,Back to School,Set D,Ad 2,1.27,29.49,1958,162,10,8396
+2025-01-05,Instagram,Brand Awareness,Set D,Ad 5,1.44,25.53,3066,138,40,9271
+2025-01-05,X,Summer Promo,Set D,Ad 3,1.29,77.82,2706,247,17,11300
+2025-01-05,Google Organic,Summer Promo,Set D,Ad 5,0.57,149.77,11666,323,40,11817
+2025-01-06,Google,Summer Promo,Set B,Ad 4,1.94,140.36,1113,575,27,5068
+2025-01-06,Facebook,Back to School,Set D,Ad 5,1.04,49.04,12972,351,27,11999
+2025-01-06,LinkedIn,Brand Awareness,Set B,Ad 3,1.03,265.69,6104,400,37,4391
+2025-01-06,TikTok,Back to School,Set B,Ad 1,1.53,182.3,12210,127,19,11205
+2025-01-06,Instagram,Summer Promo,Set A,Ad 4,0.8,95.39,8236,582,61,8461
+2025-01-06,X,Brand Awareness,Set C,Ad 1,0.82,62.25,2492,468,7,9062
+2025-01-06,Google Organic,Summer Promo,Set A,Ad 5,1.57,98.39,5531,175,33,5351
+2025-01-07,Google,Brand Awareness,Set A,Ad 1,1.12,131.85,5000,290,70,5472
+2025-01-07,Facebook,Back to School,Set C,Ad 3,1.1,73.08,12680,164,80,2561
+2025-01-07,LinkedIn,Summer Promo,Set C,Ad 4,1.37,85.32,10578,377,70,7608
+2025-01-07,TikTok,Back to School,Set B,Ad 1,1.36,124.94,6554,511,21,6055
+2025-01-07,Instagram,Back to School,Set D,Ad 3,1.43,35.55,6532,252,17,8249
+2025-01-07,X,Holiday Sale,Set A,Ad 4,1.55,131.25,3783,281,34,2321
+2025-01-07,Google Organic,Summer Promo,Set C,Ad 3,1.76,125.64,11598,129,29,6383
+2025-01-08,Google,Retargeting,Set B,Ad 5,0.95,29.83,4578,579,50,4429
+2025-01-08,Facebook,Holiday Sale,Set C,Ad 5,1.82,231.58,1621,195,44,2810
+2025-01-08,LinkedIn,Holiday Sale,Set D,Ad 3,1.2,28.9,6599,511,27,1394
+2025-01-08,TikTok,Holiday Sale,Set C,Ad 2,1.93,62.66,1822,204,82,1601
+2025-01-08,Instagram,Back to School,Set D,Ad 5,1.01,27.12,13593,140,48,7663
+2025-01-08,X,Holiday Sale,Set C,Ad 5,0.79,226.35,13493,266,22,4685
+2025-01-08,Google Organic,Back to School,Set C,Ad 1,1.52,235.65,10447,158,41,918
+2025-01-09,Google,Retargeting,Set A,Ad 3,1.05,270.71,2113,325,42,2824
+2025-01-09,Facebook,Holiday Sale,Set B,Ad 5,1.84,297.04,7793,415,60,2134
+2025-01-09,LinkedIn,Summer Promo,Set B,Ad 2,1.52,107.29,4470,510,5,8564
+2025-01-09,TikTok,Retargeting,Set D,Ad 3,0.75,293.68,7778,337,54,3148
+2025-01-09,Instagram,Retargeting,Set A,Ad 1,0.83,253.14,7203,599,7,6906
+2025-01-09,X,Back to School,Set C,Ad 3,1.28,106.71,7659,87,73,7162
+2025-01-09,Google Organic,Back to School,Set C,Ad 2,1.44,271.19,10632,60,49,2059
+2025-01-10,Google,Holiday Sale,Set D,Ad 5,1.63,275.07,11176,447,30,933
+2025-01-10,Facebook,Holiday Sale,Set D,Ad 1,1.62,223.79,1955,397,59,5828
+2025-01-10,LinkedIn,Back to School,Set A,Ad 4,1.64,95.07,12660,330,45,10742
+2025-01-10,TikTok,Brand Awareness,Set D,Ad 1,1.47,20.26,7240,301,19,3530
+2025-01-10,Instagram,Holiday Sale,Set B,Ad 3,1.11,290.9,7256,410,93,6025
+2025-01-10,X,Back to School,Set D,Ad 3,0.81,164.28,2505,130,43,6489
+2025-01-10,Google Organic,Retargeting,Set A,Ad 3,0.51,31.74,11007,425,59,4924
+2025-01-11,Google,Summer Promo,Set C,Ad 2,1.67,185.63,8383,239,50,9817
+2025-01-11,Facebook,Holiday Sale,Set C,Ad 2,1.83,43.1,14656,539,89,5178
+2025-01-11,LinkedIn,Holiday Sale,Set D,Ad 2,1.73,94.93,1414,275,93,2672
+2025-01-11,TikTok,Retargeting,Set A,Ad 4,1.81,217.29,8785,584,26,7505
+2025-01-11,Instagram,Back to School,Set B,Ad 1,1.51,175.85,6196,435,63,6168
+2025-01-11,X,Back to School,Set C,Ad 3,0.74,193.31,14380,141,58,1191
+2025-01-11,Google Organic,Holiday Sale,Set D,Ad 4,1.46,178.27,13561,201,50,10595
+2025-01-12,Google,Holiday Sale,Set C,Ad 4,0.56,44.29,5239,176,93,1612
+2025-01-12,Facebook,Summer Promo,Set A,Ad 5,0.75,243.92,6678,334,18,4199
+2025-01-12,LinkedIn,Holiday Sale,Set A,Ad 2,1.1,171.62,6512,562,53,1005
+2025-01-12,TikTok,Brand Awareness,Set A,Ad 1,1.17,65.43,5295,317,46,818
+2025-01-12,Instagram,Holiday Sale,Set B,Ad 5,1.43,148.09,13215,280,17,8656
+2025-01-12,X,Holiday Sale,Set A,Ad 2,0.85,229.51,2243,590,63,7722
+2025-01-12,Google Organic,Summer Promo,Set B,Ad 5,1.03,92.24,12820,166,21,9846
+2025-01-13,Google,Back to School,Set C,Ad 1,0.97,266.63,2442,218,16,5240
+2025-01-13,Facebook,Holiday Sale,Set C,Ad 3,1.21,77.52,1360,181,68,7101
+2025-01-13,LinkedIn,Retargeting,Set C,Ad 5,0.66,233.81,9504,465,11,11838
+2025-01-13,TikTok,Holiday Sale,Set A,Ad 1,1.16,56.58,3533,324,5,2810
+2025-01-13,Instagram,Holiday Sale,Set D,Ad 3,1.77,184.38,13634,251,93,11340
+2025-01-13,X,Brand Awareness,Set A,Ad 4,0.67,75.74,12512,76,76,1049
+2025-01-13,Google Organic,Holiday Sale,Set A,Ad 1,1.38,67.82,12153,366,48,9838
+2025-01-14,Google,Brand Awareness,Set C,Ad 3,1.33,113.14,3287,241,28,9866
+2025-01-14,Facebook,Retargeting,Set C,Ad 5,1.03,161.72,13194,302,67,8738
+2025-01-14,LinkedIn,Back to School,Set A,Ad 3,1.93,73.88,2649,96,61,2030
+2025-01-14,TikTok,Back to School,Set C,Ad 1,1.92,138.94,13619,370,79,9986
+2025-01-14,Instagram,Back to School,Set D,Ad 2,0.72,257.44,5452,246,17,10087
+2025-01-14,X,Back to School,Set C,Ad 3,1.77,120.66,12878,174,26,1610
+2025-01-14,Google Organic,Brand Awareness,Set C,Ad 3,0.57,198.79,9290,374,57,7198
+2025-01-15,Google,Holiday Sale,Set B,Ad 2,0.68,121.64,7763,89,71,11898
+2025-01-15,Facebook,Brand Awareness,Set A,Ad 2,1.97,265.98,4866,301,95,8142
+2025-01-15,LinkedIn,Summer Promo,Set C,Ad 1,0.7,277.57,7457,109,45,5445
+2025-01-15,TikTok,Holiday Sale,Set B,Ad 1,0.55,227.66,2301,463,61,10406
+2025-01-15,Instagram,Retargeting,Set A,Ad 1,0.54,83.52,6077,441,66,9202
+2025-01-15,X,Retargeting,Set A,Ad 2,1.13,126.17,7390,573,75,7339
+2025-01-15,Google Organic,Holiday Sale,Set D,Ad 4,0.88,82.64,4758,187,70,8607
+2025-01-16,Google,Summer Promo,Set B,Ad 3,0.76,28.43,4619,330,44,10121
+2025-01-16,Facebook,Summer Promo,Set A,Ad 4,1.53,27.42,3546,538,35,2096
+2025-01-16,LinkedIn,Holiday Sale,Set C,Ad 4,1.44,76.18,14615,56,79,6447
+2025-01-16,TikTok,Brand Awareness,Set C,Ad 3,1.41,54.71,8076,240,52,4055
+2025-01-16,Instagram,Back to School,Set A,Ad 4,1.05,206.73,1993,414,56,10217
+2025-01-16,X,Back to School,Set C,Ad 5,1.64,142.17,13526,492,55,7689
+2025-01-16,Google Organic,Summer Promo,Set D,Ad 1,1.84,181.68,1914,158,41,2958
+2025-01-17,Google,Brand Awareness,Set C,Ad 5,1.03,153.82,11720,336,93,10207
+2025-01-17,Facebook,Brand Awareness,Set A,Ad 4,0.78,60.25,12825,385,46,3086
+2025-01-17,LinkedIn,Back to School,Set A,Ad 4,1.09,286.89,5352,69,62,2760
+2025-01-17,TikTok,Back to School,Set A,Ad 4,1.76,281.74,4545,304,89,4221
+2025-01-17,Instagram,Brand Awareness,Set C,Ad 5,0.96,94.47,9607,149,93,7699
+2025-01-17,X,Summer Promo,Set D,Ad 5,1.2,57.41,6906,154,36,9354
+2025-01-17,Google Organic,Summer Promo,Set B,Ad 3,0.96,29.19,6102,193,50,2363
+2025-01-18,Google,Holiday Sale,Set A,Ad 1,0.85,186.02,11819,92,24,9030
+2025-01-18,Facebook,Brand Awareness,Set C,Ad 2,1.56,121.53,9014,478,88,7438
+2025-01-18,LinkedIn,Back to School,Set A,Ad 2,0.92,181.56,2021,361,70,1721
+2025-01-18,TikTok,Brand Awareness,Set D,Ad 4,1.42,114.3,4887,334,96,5850
+2025-01-18,Instagram,Back to School,Set A,Ad 3,1.32,148.71,10282,153,36,8744
+2025-01-18,X,Holiday Sale,Set B,Ad 5,1.88,58.21,3120,600,75,1443
+2025-01-18,Google Organic,Brand Awareness,Set D,Ad 2,0.69,60.82,14261,472,59,7801
+2025-01-19,Google,Brand Awareness,Set D,Ad 2,1.56,160.69,5869,170,9,11714
+2025-01-19,Facebook,Summer Promo,Set D,Ad 5,0.94,55.45,11024,415,71,8403
+2025-01-19,LinkedIn,Retargeting,Set A,Ad 5,1.31,232.22,13733,581,12,8469
+2025-01-19,TikTok,Brand Awareness,Set A,Ad 5,1.35,66.35,2875,428,76,916
+2025-01-19,Instagram,Holiday Sale,Set D,Ad 3,0.67,252.62,2113,506,84,5715
+2025-01-19,X,Summer Promo,Set D,Ad 2,1.48,258.32,8434,440,47,2694
+2025-01-19,Google Organic,Retargeting,Set D,Ad 4,1.76,130.74,5405,130,30,1652
+2025-01-20,Google,Summer Promo,Set D,Ad 4,0.78,170.81,13438,137,44,10833
+2025-01-20,Facebook,Brand Awareness,Set D,Ad 3,1.59,31.75,10822,151,49,1681
+2025-01-20,LinkedIn,Back to School,Set B,Ad 2,0.66,193.62,14368,227,5,8566
+2025-01-20,TikTok,Retargeting,Set D,Ad 4,1.88,289.68,3560,90,77,8731
+2025-01-20,Instagram,Retargeting,Set D,Ad 5,1.35,119.18,4818,517,5,9456
+2025-01-20,X,Brand Awareness,Set C,Ad 3,1.87,231.75,14821,431,98,11507
+2025-01-20,Google Organic,Back to School,Set B,Ad 3,0.64,96.62,4302,213,52,1105
+2025-01-21,Google,Brand Awareness,Set C,Ad 4,0.65,260.51,4455,85,53,3071
+2025-01-21,Facebook,Holiday Sale,Set A,Ad 4,1.93,267.23,7837,424,50,9315
+2025-01-21,LinkedIn,Retargeting,Set D,Ad 3,1.34,177.22,3409,422,28,9463
+2025-01-21,TikTok,Retargeting,Set D,Ad 5,0.72,56.56,14492,490,54,2360
+2025-01-21,Instagram,Summer Promo,Set C,Ad 5,0.98,160.84,12781,258,10,11725
+2025-01-21,X,Holiday Sale,Set B,Ad 1,1.53,278.31,11497,360,21,10635
+2025-01-21,Google Organic,Retargeting,Set C,Ad 1,1.13,269.45,6161,466,78,6984
+2025-01-22,Google,Summer Promo,Set D,Ad 3,1.21,104.65,14241,103,37,6621
+2025-01-22,Facebook,Retargeting,Set C,Ad 2,1.17,220.94,8175,579,26,6940
+2025-01-22,LinkedIn,Back to School,Set C,Ad 2,1.55,208.59,3828,527,29,10453
+2025-01-22,TikTok,Brand Awareness,Set A,Ad 1,0.83,166.07,10986,247,73,1228
+2025-01-22,Instagram,Holiday Sale,Set D,Ad 4,1.02,41.46,13297,107,58,8174
+2025-01-22,X,Back to School,Set B,Ad 3,1.33,72.65,13875,190,22,7068
+2025-01-22,Google Organic,Holiday Sale,Set C,Ad 2,1.88,105.89,11636,72,56,5352
+2025-01-23,Google,Summer Promo,Set A,Ad 5,0.71,137.52,11121,160,71,7893
+2025-01-23,Facebook,Back to School,Set D,Ad 3,0.61,87.01,11595,202,40,9368
+2025-01-23,LinkedIn,Holiday Sale,Set A,Ad 1,1.23,33.51,1139,440,78,3827
+2025-01-23,TikTok,Summer Promo,Set B,Ad 2,1.33,178.94,1670,538,25,8058
+2025-01-23,Instagram,Holiday Sale,Set C,Ad 1,1.85,54.2,6551,66,23,3378
+2025-01-23,X,Brand Awareness,Set C,Ad 5,0.76,38.53,14124,253,55,955
+2025-01-23,Google Organic,Holiday Sale,Set A,Ad 5,1.76,121.4,7301,237,36,6857
+2025-01-24,Google,Holiday Sale,Set A,Ad 4,0.55,254.68,14161,357,63,9213
+2025-01-24,Facebook,Retargeting,Set A,Ad 3,0.98,245.31,7416,480,34,10116
+2025-01-24,LinkedIn,Retargeting,Set D,Ad 5,1.76,145.03,6299,50,76,5501
+2025-01-24,TikTok,Retargeting,Set B,Ad 4,1.74,228.08,13441,322,90,10591
+2025-01-24,Instagram,Summer Promo,Set A,Ad 4,1.42,99.12,11307,204,83,1752
+2025-01-24,X,Retargeting,Set D,Ad 3,0.78,132.77,8488,414,20,717
+2025-01-24,Google Organic,Back to School,Set D,Ad 4,1.75,48.39,5428,157,98,2768
+2025-01-25,Google,Summer Promo,Set B,Ad 4,1.52,71.61,2740,551,42,3548
+2025-01-25,Facebook,Brand Awareness,Set C,Ad 5,1.57,188.5,8270,573,52,1523
+2025-01-25,LinkedIn,Retargeting,Set B,Ad 1,0.68,171.91,9043,301,65,7669
+2025-01-25,TikTok,Back to School,Set C,Ad 1,1.14,217.74,12236,415,92,5439
+2025-01-25,Instagram,Brand Awareness,Set D,Ad 1,1.42,121.91,10476,272,23,9463
+2025-01-25,X,Holiday Sale,Set A,Ad 2,1.15,32.04,12114,476,10,6201
+2025-01-25,Google Organic,Holiday Sale,Set A,Ad 1,0.99,57.78,9538,526,66,4583
+2025-01-26,Google,Back to School,Set D,Ad 5,0.61,195.51,4060,501,83,4846
+2025-01-26,Facebook,Back to School,Set B,Ad 4,1.68,244.91,9819,515,76,3522
+2025-01-26,LinkedIn,Brand Awareness,Set A,Ad 1,1.72,127.7,12515,122,85,6979
+2025-01-26,TikTok,Brand Awareness,Set A,Ad 1,1.1,57.65,4126,464,27,5330
+2025-01-26,Instagram,Back to School,Set C,Ad 2,1.36,222.7,11241,526,87,8428
+2025-01-26,X,Summer Promo,Set A,Ad 4,1.86,86.38,14578,125,64,6430
+2025-01-26,Google Organic,Retargeting,Set B,Ad 2,1.33,75.5,7219,394,90,11457
+2025-01-27,Google,Retargeting,Set B,Ad 2,1.86,94.12,10641,532,95,10024
+2025-01-27,Facebook,Retargeting,Set A,Ad 4,1.9,139.64,9117,420,49,7392
+2025-01-27,LinkedIn,Brand Awareness,Set B,Ad 4,1.45,218.87,8572,261,76,6473
+2025-01-27,TikTok,Back to School,Set A,Ad 5,0.72,145.12,3848,274,84,5215
+2025-01-27,Instagram,Summer Promo,Set C,Ad 1,1.97,54.07,4862,345,43,4455
+2025-01-27,X,Holiday Sale,Set C,Ad 2,1.1,93.69,11729,363,87,8534
+2025-01-27,Google Organic,Back to School,Set D,Ad 3,0.95,51.04,2882,500,55,2700
+2025-01-28,Google,Summer Promo,Set D,Ad 4,1.14,143.96,2310,59,10,3145
+2025-01-28,Facebook,Back to School,Set D,Ad 5,1.57,23.82,13520,565,83,8343
+2025-01-28,LinkedIn,Brand Awareness,Set D,Ad 4,1.23,124.06,11041,402,48,7349
+2025-01-28,TikTok,Holiday Sale,Set A,Ad 5,1.61,163.63,7251,87,52,8033
+2025-01-28,Instagram,Summer Promo,Set D,Ad 4,1.89,130.97,8247,587,12,9289
+2025-01-28,X,Brand Awareness,Set C,Ad 1,0.99,266.17,8048,290,57,4879
+2025-01-28,Google Organic,Holiday Sale,Set C,Ad 4,0.93,106.64,9731,64,99,743
+2025-01-29,Google,Holiday Sale,Set D,Ad 1,0.68,54.36,4112,569,62,11765
+2025-01-29,Facebook,Back to School,Set B,Ad 2,1.74,68.7,8665,492,60,7245
+2025-01-29,LinkedIn,Summer Promo,Set B,Ad 5,1.04,205.74,2163,199,32,6334
+2025-01-29,TikTok,Back to School,Set B,Ad 1,1.05,280.21,14221,75,22,11883
+2025-01-29,Instagram,Back to School,Set C,Ad 5,1.39,295.49,13933,327,60,8850
+2025-01-29,X,Back to School,Set D,Ad 3,1.19,58.88,2281,98,10,982
+2025-01-29,Google Organic,Summer Promo,Set A,Ad 2,0.58,28.76,10221,262,54,610
+2025-01-30,Google,Holiday Sale,Set C,Ad 3,1.83,240.54,5207,132,98,3468
+2025-01-30,Facebook,Holiday Sale,Set A,Ad 3,0.9,258.84,6464,389,28,4928
+2025-01-30,LinkedIn,Brand Awareness,Set D,Ad 5,1.9,117.78,13364,224,48,7348
+2025-01-30,TikTok,Retargeting,Set C,Ad 2,1.33,175.12,11903,563,67,732
+2025-01-30,Instagram,Brand Awareness,Set D,Ad 3,0.93,33.99,1739,471,93,660
+2025-01-30,X,Holiday Sale,Set B,Ad 2,1.73,137.91,7984,581,31,5285
+2025-01-30,Google Organic,Holiday Sale,Set D,Ad 3,1.18,70.26,4194,144,31,11065
+2025-01-31,Google,Summer Promo,Set D,Ad 1,0.81,241.99,8102,230,61,8076
+2025-01-31,Facebook,Back to School,Set C,Ad 5,1.17,70.84,5939,115,97,3194
+2025-01-31,LinkedIn,Brand Awareness,Set C,Ad 4,1.27,264.28,9359,146,86,11244
+2025-01-31,TikTok,Back to School,Set B,Ad 2,1.15,49.79,1908,74,54,3179
+2025-01-31,Instagram,Summer Promo,Set C,Ad 5,0.87,289.86,13893,226,49,5581
+2025-01-31,X,Back to School,Set B,Ad 2,1.5,25.43,2533,226,6,3724
+2025-01-31,Google Organic,Back to School,Set A,Ad 2,1.52,30.21,13693,197,79,2652
+2025-02-01,Google,Retargeting,Set C,Ad 2,0.87,186.07,12629,324,100,10404
+2025-02-01,Facebook,Summer Promo,Set C,Ad 5,1.45,53.82,1465,543,50,2202
+2025-02-01,LinkedIn,Back to School,Set D,Ad 1,1.04,211.77,9184,161,50,8582
+2025-02-01,TikTok,Holiday Sale,Set A,Ad 3,1.47,140.44,13874,235,14,10385
+2025-02-01,Instagram,Brand Awareness,Set A,Ad 3,0.56,243.76,13839,240,48,2971
+2025-02-01,X,Brand Awareness,Set D,Ad 4,1.57,287.61,7727,59,73,10374
+2025-02-01,Google Organic,Back to School,Set D,Ad 1,1.36,160.61,11339,298,90,6148
+2025-02-02,Google,Summer Promo,Set B,Ad 4,1.62,226.33,4895,450,44,2735
+2025-02-02,Facebook,Back to School,Set B,Ad 4,0.98,216.7,9656,593,92,3365
+2025-02-02,LinkedIn,Retargeting,Set B,Ad 4,0.6,86.86,5269,533,83,11875
+2025-02-02,TikTok,Summer Promo,Set B,Ad 2,1.06,236.86,9527,350,86,11180
+2025-02-02,Instagram,Brand Awareness,Set C,Ad 5,0.97,65.86,9626,435,6,11464
+2025-02-02,X,Retargeting,Set D,Ad 2,1.04,253.89,13737,577,42,2637
+2025-02-02,Google Organic,Summer Promo,Set D,Ad 5,0.58,42.37,12546,480,72,11587
+2025-02-03,Google,Summer Promo,Set B,Ad 4,1.32,150.61,5721,477,31,2319
+2025-02-03,Facebook,Back to School,Set C,Ad 1,1.36,213.74,4861,263,99,525
+2025-02-03,LinkedIn,Back to School,Set A,Ad 4,1.09,72.32,1060,337,24,3748
+2025-02-03,TikTok,Holiday Sale,Set A,Ad 2,1.79,242.28,14451,585,81,8464
+2025-02-03,Instagram,Summer Promo,Set B,Ad 3,0.86,104.35,2550,411,83,3136
+2025-02-03,X,Holiday Sale,Set D,Ad 2,1.99,257.11,6545,435,14,2928
+2025-02-03,Google Organic,Brand Awareness,Set C,Ad 1,1.91,169.5,3390,587,44,10109
+2025-02-04,Google,Brand Awareness,Set C,Ad 3,1.83,21.64,12803,283,62,1741
+2025-02-04,Facebook,Back to School,Set A,Ad 5,1.47,169.18,7979,127,59,10760
+2025-02-04,LinkedIn,Retargeting,Set C,Ad 1,1.96,72.37,3521,50,76,5008
+2025-02-04,TikTok,Retargeting,Set A,Ad 3,1.89,250.46,3233,283,21,8291
+2025-02-04,Instagram,Summer Promo,Set D,Ad 1,1.86,85.23,10317,397,68,6485
+2025-02-04,X,Retargeting,Set B,Ad 3,1.38,180.53,3155,51,77,5071
+2025-02-04,Google Organic,Summer Promo,Set C,Ad 5,0.85,276.99,4885,173,77,2088
+2025-02-05,Google,Holiday Sale,Set C,Ad 1,0.77,61.53,2435,416,44,710
+2025-02-05,Facebook,Retargeting,Set D,Ad 3,0.69,20.6,11865,334,79,2596
+2025-02-05,LinkedIn,Brand Awareness,Set B,Ad 2,1.76,126.01,1059,262,7,6920
+2025-02-05,TikTok,Summer Promo,Set C,Ad 2,1.7,245.23,6479,585,20,7997
+2025-02-05,Instagram,Back to School,Set A,Ad 1,1.36,187.33,10420,374,87,5919
+2025-02-05,X,Retargeting,Set A,Ad 2,1.52,230.23,14617,179,65,10477
+2025-02-05,Google Organic,Retargeting,Set D,Ad 2,0.63,62.43,6554,86,74,5312
+2025-02-06,Google,Back to School,Set B,Ad 4,1.1,278.22,1708,437,11,4737
+2025-02-06,Facebook,Summer Promo,Set B,Ad 1,0.99,292.47,8195,431,31,8286
+2025-02-06,LinkedIn,Back to School,Set C,Ad 1,0.98,51.95,3806,366,17,3008
+2025-02-06,TikTok,Brand Awareness,Set B,Ad 3,1.88,45.21,13904,108,23,1870
+2025-02-06,Instagram,Holiday Sale,Set C,Ad 5,1.84,148.41,13025,429,58,9717
+2025-02-06,X,Back to School,Set D,Ad 3,0.52,85.96,8534,188,62,5636
+2025-02-06,Google Organic,Brand Awareness,Set B,Ad 5,0.88,97.81,4750,453,19,9701
+2025-02-07,Google,Holiday Sale,Set A,Ad 3,1.76,252.92,2167,249,53,7669
+2025-02-07,Facebook,Summer Promo,Set D,Ad 3,0.62,69.99,1993,312,23,8231
+2025-02-07,LinkedIn,Summer Promo,Set D,Ad 5,1.53,140.08,10881,120,58,9881
+2025-02-07,TikTok,Summer Promo,Set D,Ad 3,1.02,106.21,4604,438,62,10829
+2025-02-07,Instagram,Back to School,Set A,Ad 3,0.68,224.45,3190,181,35,8169
+2025-02-07,X,Back to School,Set D,Ad 1,0.96,80.62,7271,260,88,6660
+2025-02-07,Google Organic,Summer Promo,Set A,Ad 1,0.85,66.42,4689,490,24,5531
+2025-02-08,Google,Brand Awareness,Set B,Ad 2,1.17,43.31,14944,592,65,4885
+2025-02-08,Facebook,Holiday Sale,Set A,Ad 1,1.16,185.75,5053,240,17,5733
+2025-02-08,LinkedIn,Brand Awareness,Set A,Ad 5,1.48,44.19,3326,280,79,7735
+2025-02-08,TikTok,Summer Promo,Set B,Ad 4,1.72,294.73,10094,60,47,4053
+2025-02-08,Instagram,Summer Promo,Set A,Ad 3,1.0,237.23,10890,221,14,3044
+2025-02-08,X,Retargeting,Set A,Ad 2,1.99,70.66,3647,197,16,3733
+2025-02-08,Google Organic,Holiday Sale,Set C,Ad 4,0.58,183.91,2391,493,54,4237
+2025-02-09,Google,Back to School,Set B,Ad 4,1.04,267.8,2422,268,74,1047
+2025-02-09,Facebook,Back to School,Set B,Ad 5,1.11,118.28,4750,434,100,5787
+2025-02-09,LinkedIn,Brand Awareness,Set B,Ad 3,0.81,231.64,4917,345,27,11895
+2025-02-09,TikTok,Back to School,Set B,Ad 5,1.66,173.55,8603,91,65,11607
+2025-02-09,Instagram,Holiday Sale,Set D,Ad 1,1.7,263.67,2000,561,89,2371
+2025-02-09,X,Retargeting,Set B,Ad 3,1.53,156.9,1941,499,39,8825
+2025-02-09,Google Organic,Brand Awareness,Set C,Ad 2,0.67,286.49,10174,147,50,10572
+2025-02-10,Google,Back to School,Set C,Ad 5,1.66,48.21,3720,469,75,2177
+2025-02-10,Facebook,Brand Awareness,Set B,Ad 2,1.9,219.35,14242,325,9,11209
+2025-02-10,LinkedIn,Brand Awareness,Set C,Ad 2,1.58,35.69,7724,106,55,1061
+2025-02-10,TikTok,Summer Promo,Set A,Ad 5,1.62,274.88,12005,241,56,7422
+2025-02-10,Instagram,Holiday Sale,Set B,Ad 3,1.6,226.4,6928,299,51,1135
+2025-02-10,X,Brand Awareness,Set B,Ad 1,0.83,242.53,9385,273,9,6224
+2025-02-10,Google Organic,Retargeting,Set A,Ad 1,1.21,56.44,11366,369,35,3200
+2025-02-11,Google,Back to School,Set C,Ad 1,0.72,270.68,7337,302,71,2381
+2025-02-11,Facebook,Holiday Sale,Set D,Ad 5,1.33,218.19,10956,124,92,4429
+2025-02-11,LinkedIn,Retargeting,Set C,Ad 1,1.43,172.26,12325,251,58,3807
+2025-02-11,TikTok,Back to School,Set D,Ad 3,1.38,204.31,8660,132,96,9521
+2025-02-11,Instagram,Holiday Sale,Set A,Ad 3,0.58,67.82,12947,501,85,4291
+2025-02-11,X,Holiday Sale,Set A,Ad 1,1.91,272.11,7924,579,92,8297
+2025-02-11,Google Organic,Retargeting,Set B,Ad 1,1.87,36.89,14115,507,42,8636
+2025-02-12,Google,Back to School,Set D,Ad 3,1.98,297.89,4730,585,59,9974
+2025-02-12,Facebook,Retargeting,Set C,Ad 2,1.45,21.57,8472,121,33,7746
+2025-02-12,LinkedIn,Holiday Sale,Set C,Ad 2,1.19,120.16,3510,387,11,8836
+2025-02-12,TikTok,Holiday Sale,Set B,Ad 3,1.81,213.61,4138,577,21,3174
+2025-02-12,Instagram,Holiday Sale,Set D,Ad 3,1.61,104.25,13979,309,59,9024
+2025-02-12,X,Holiday Sale,Set A,Ad 5,1.25,112.04,7700,551,16,7139
+2025-02-12,Google Organic,Back to School,Set C,Ad 1,0.98,134.05,13049,137,69,9680
+2025-02-13,Google,Holiday Sale,Set C,Ad 1,0.91,256.27,9344,87,54,1630
+2025-02-13,Facebook,Holiday Sale,Set C,Ad 4,1.78,129.26,6408,205,96,9435
+2025-02-13,LinkedIn,Holiday Sale,Set D,Ad 3,0.67,183.86,5418,254,18,8828
+2025-02-13,TikTok,Brand Awareness,Set A,Ad 4,1.85,248.26,4173,240,78,7457
+2025-02-13,Instagram,Brand Awareness,Set D,Ad 5,1.52,248.11,9988,548,5,10230
+2025-02-13,X,Back to School,Set D,Ad 2,0.89,108.55,11705,316,49,10918
+2025-02-13,Google Organic,Retargeting,Set D,Ad 1,0.71,85.78,7976,327,83,2388
+2025-02-14,Google,Holiday Sale,Set C,Ad 3,1.31,239.5,6124,532,37,9856
+2025-02-14,Facebook,Brand Awareness,Set C,Ad 3,1.73,132.38,6084,83,89,9934
+2025-02-14,LinkedIn,Summer Promo,Set C,Ad 3,0.69,82.12,2776,528,83,3243
+2025-02-14,TikTok,Retargeting,Set B,Ad 3,1.7,296.2,9509,118,97,7044
+2025-02-14,Instagram,Retargeting,Set B,Ad 1,1.51,76.76,2329,51,41,9154
+2025-02-14,X,Retargeting,Set B,Ad 2,1.48,156.67,13694,555,24,6876
+2025-02-14,Google Organic,Holiday Sale,Set A,Ad 1,1.14,71.1,10661,410,85,7528
+2025-02-15,Google,Retargeting,Set D,Ad 5,0.88,261.79,6756,110,76,10599
+2025-02-15,Facebook,Brand Awareness,Set C,Ad 3,1.78,229.43,8868,330,69,887
+2025-02-15,LinkedIn,Back to School,Set B,Ad 5,0.77,73.59,10125,79,86,1336
+2025-02-15,TikTok,Holiday Sale,Set B,Ad 1,1.82,203.83,9372,502,85,7530
+2025-02-15,Instagram,Holiday Sale,Set B,Ad 3,1.42,239.96,12857,525,5,6884
+2025-02-15,X,Back to School,Set B,Ad 5,1.51,207.49,8982,429,71,9332
+2025-02-15,Google Organic,Brand Awareness,Set B,Ad 2,1.49,22.44,13452,553,47,11144
+2025-02-16,Google,Holiday Sale,Set D,Ad 1,0.65,154.79,11649,414,78,2452
+2025-02-16,Facebook,Back to School,Set C,Ad 3,1.02,163.45,10300,164,77,8453
+2025-02-16,LinkedIn,Brand Awareness,Set B,Ad 1,1.59,155.48,13232,115,69,9496
+2025-02-16,TikTok,Retargeting,Set B,Ad 2,1.26,139.97,14581,353,79,10968
+2025-02-16,Instagram,Back to School,Set D,Ad 2,1.25,128.51,12746,104,77,730
+2025-02-16,X,Holiday Sale,Set C,Ad 1,0.92,100.13,12324,184,62,2005
+2025-02-16,Google Organic,Back to School,Set C,Ad 1,1.28,83.45,5363,475,31,7872
+2025-02-17,Google,Summer Promo,Set A,Ad 2,1.91,105.44,6435,578,96,8589
+2025-02-17,Facebook,Summer Promo,Set D,Ad 1,1.34,57.02,10427,517,89,1016
+2025-02-17,LinkedIn,Retargeting,Set D,Ad 4,1.59,123.65,9164,84,37,5733
+2025-02-17,TikTok,Back to School,Set B,Ad 3,1.98,129.4,4257,549,88,594
+2025-02-17,Instagram,Holiday Sale,Set C,Ad 1,1.36,29.96,12494,493,60,4077
+2025-02-17,X,Holiday Sale,Set A,Ad 3,1.79,168.01,2909,414,83,10933
+2025-02-17,Google Organic,Holiday Sale,Set B,Ad 4,1.32,83.04,2831,276,93,9753
+2025-02-18,Google,Back to School,Set A,Ad 4,1.39,213.58,11538,583,40,7521
+2025-02-18,Facebook,Summer Promo,Set A,Ad 5,1.78,203.65,3227,152,16,7102
+2025-02-18,LinkedIn,Brand Awareness,Set D,Ad 2,0.53,286.32,12370,353,76,1663
+2025-02-18,TikTok,Retargeting,Set D,Ad 2,1.84,169.03,3600,560,87,3143
+2025-02-18,Instagram,Summer Promo,Set B,Ad 5,1.82,178.79,1165,146,65,3983
+2025-02-18,X,Summer Promo,Set C,Ad 3,0.66,220.28,2951,401,23,4850
+2025-02-18,Google Organic,Summer Promo,Set C,Ad 1,0.77,164.76,13389,543,68,911
+2025-02-19,Google,Holiday Sale,Set A,Ad 2,1.21,93.4,7869,420,87,9066
+2025-02-19,Facebook,Retargeting,Set D,Ad 1,1.71,256.85,14506,284,92,11838
+2025-02-19,LinkedIn,Holiday Sale,Set A,Ad 5,1.11,74.46,12168,386,49,6702
+2025-02-19,TikTok,Retargeting,Set B,Ad 1,0.71,169.0,10278,475,10,926
+2025-02-19,Instagram,Brand Awareness,Set C,Ad 3,0.74,140.1,6413,447,41,9228
+2025-02-19,X,Back to School,Set D,Ad 4,0.79,75.26,3308,297,41,7848
+2025-02-19,Google Organic,Brand Awareness,Set A,Ad 3,0.94,91.61,12733,568,83,3922
+2025-02-20,Google,Back to School,Set A,Ad 2,1.31,70.2,4758,218,46,4366
+2025-02-20,Facebook,Brand Awareness,Set C,Ad 4,1.45,210.94,2029,341,74,5886
+2025-02-20,LinkedIn,Summer Promo,Set A,Ad 4,0.77,164.63,5868,236,13,5904
+2025-02-20,TikTok,Holiday Sale,Set D,Ad 4,1.46,40.7,2757,225,40,8371
+2025-02-20,Instagram,Retargeting,Set D,Ad 2,1.91,45.19,1623,209,5,1299
+2025-02-20,X,Retargeting,Set A,Ad 4,0.87,215.14,8821,391,18,8442
+2025-02-20,Google Organic,Brand Awareness,Set B,Ad 5,0.62,254.79,1234,388,36,7397
+2025-02-21,Google,Back to School,Set B,Ad 1,0.89,177.37,1784,169,43,7566
+2025-02-21,Facebook,Summer Promo,Set A,Ad 1,0.69,66.87,12452,354,30,2900
+2025-02-21,LinkedIn,Retargeting,Set D,Ad 3,1.85,114.3,4326,567,84,8117
+2025-02-21,TikTok,Back to School,Set C,Ad 4,1.11,132.18,1689,128,74,7619
+2025-02-21,Instagram,Brand Awareness,Set A,Ad 5,1.72,76.47,3818,183,65,7546
+2025-02-21,X,Holiday Sale,Set D,Ad 4,1.47,111.63,6104,238,19,6384
+2025-02-21,Google Organic,Retargeting,Set B,Ad 4,0.51,219.45,11772,134,80,8800
+2025-02-22,Google,Back to School,Set C,Ad 2,1.34,110.68,6727,255,38,9767
+2025-02-22,Facebook,Summer Promo,Set C,Ad 5,1.56,52.42,8494,352,11,3295
+2025-02-22,LinkedIn,Summer Promo,Set C,Ad 3,0.94,263.49,2522,64,52,824
+2025-02-22,TikTok,Back to School,Set C,Ad 3,0.88,247.63,6276,483,20,3165
+2025-02-22,Instagram,Summer Promo,Set C,Ad 1,0.67,257.49,4233,323,28,3704
+2025-02-22,X,Summer Promo,Set B,Ad 1,1.3,36.62,10787,180,46,933
+2025-02-22,Google Organic,Summer Promo,Set B,Ad 5,0.55,27.78,6329,142,64,7162
+2025-02-23,Google,Back to School,Set B,Ad 1,1.4,173.51,8155,238,77,7811
+2025-02-23,Facebook,Brand Awareness,Set C,Ad 2,1.04,33.32,1731,91,18,4241
+2025-02-23,LinkedIn,Holiday Sale,Set B,Ad 1,0.79,246.02,3034,245,12,850
+2025-02-23,TikTok,Holiday Sale,Set A,Ad 1,1.54,231.54,2793,472,86,9245
+2025-02-23,Instagram,Retargeting,Set B,Ad 5,0.77,71.68,12793,420,56,11825
+2025-02-23,X,Summer Promo,Set D,Ad 4,0.68,198.06,9657,412,23,5305
+2025-02-23,Google Organic,Summer Promo,Set D,Ad 1,0.55,194.88,9557,593,44,6856
+2025-02-24,Google,Summer Promo,Set B,Ad 1,1.85,71.4,6612,156,36,5367
+2025-02-24,Facebook,Back to School,Set C,Ad 1,0.82,24.95,2906,131,55,3575
+2025-02-24,LinkedIn,Summer Promo,Set C,Ad 4,1.02,136.08,11270,296,40,10279
+2025-02-24,TikTok,Back to School,Set B,Ad 3,0.8,268.0,5489,174,53,7229
+2025-02-24,Instagram,Summer Promo,Set C,Ad 1,1.16,276.39,1221,160,33,3953
+2025-02-24,X,Retargeting,Set B,Ad 5,1.84,125.29,7423,50,21,5615
+2025-02-24,Google Organic,Back to School,Set A,Ad 5,1.66,100.22,6271,183,84,7816
+2025-02-25,Google,Holiday Sale,Set B,Ad 2,0.86,264.08,2452,229,53,10960
+2025-02-25,Facebook,Back to School,Set A,Ad 4,0.96,74.91,4121,251,75,782
+2025-02-25,LinkedIn,Summer Promo,Set B,Ad 1,1.18,126.88,8713,347,62,9767
+2025-02-25,TikTok,Holiday Sale,Set B,Ad 4,1.11,252.18,8013,237,96,5687
+2025-02-25,Instagram,Brand Awareness,Set B,Ad 1,1.09,255.17,7520,406,59,7814
+2025-02-25,X,Retargeting,Set A,Ad 4,0.56,139.79,9882,64,84,2349
+2025-02-25,Google Organic,Summer Promo,Set D,Ad 1,0.79,213.33,13866,508,42,4655
+2025-02-26,Google,Holiday Sale,Set B,Ad 1,1.15,89.5,7366,77,67,2916
+2025-02-26,Facebook,Brand Awareness,Set D,Ad 4,1.21,240.63,6518,103,12,2617
+2025-02-26,LinkedIn,Holiday Sale,Set B,Ad 5,1.97,264.09,9104,414,23,9148
+2025-02-26,TikTok,Back to School,Set C,Ad 5,1.71,162.91,1192,147,59,11819
+2025-02-26,Instagram,Retargeting,Set C,Ad 2,1.99,139.77,4713,432,85,3628
+2025-02-26,X,Retargeting,Set C,Ad 5,1.66,281.41,11286,123,85,6799
+2025-02-26,Google Organic,Back to School,Set D,Ad 4,0.93,59.49,13049,440,15,2458
+2025-02-27,Google,Back to School,Set A,Ad 4,1.11,168.89,6260,581,21,596
+2025-02-27,Facebook,Back to School,Set D,Ad 5,1.34,116.47,9045,233,30,3303
+2025-02-27,LinkedIn,Summer Promo,Set D,Ad 3,0.85,41.11,10079,141,54,501
+2025-02-27,TikTok,Holiday Sale,Set B,Ad 5,1.76,43.24,2384,369,19,963
+2025-02-27,Instagram,Summer Promo,Set D,Ad 3,1.4,82.13,2241,267,50,9215
+2025-02-27,X,Brand Awareness,Set D,Ad 3,0.86,274.68,6087,133,36,3006
+2025-02-27,Google Organic,Brand Awareness,Set C,Ad 3,1.41,278.03,3867,466,16,1599
+2025-02-28,Google,Brand Awareness,Set B,Ad 4,0.92,255.54,4749,119,47,4486
+2025-02-28,Facebook,Back to School,Set D,Ad 1,0.94,197.65,5735,499,7,3966
+2025-02-28,LinkedIn,Back to School,Set A,Ad 2,1.57,185.94,6992,71,78,6762
+2025-02-28,TikTok,Brand Awareness,Set D,Ad 3,1.66,297.63,10091,476,37,7966
+2025-02-28,Instagram,Brand Awareness,Set C,Ad 1,1.47,208.89,6457,494,96,918
+2025-02-28,X,Summer Promo,Set D,Ad 3,1.4,181.65,8610,53,94,5709
+2025-02-28,Google Organic,Brand Awareness,Set C,Ad 2,1.72,240.39,12562,307,85,6579
+2025-03-01,Google,Holiday Sale,Set A,Ad 1,1.13,295.07,2882,331,29,6636
+2025-03-01,Facebook,Brand Awareness,Set B,Ad 2,1.68,198.36,3699,338,89,3506
+2025-03-01,LinkedIn,Brand Awareness,Set A,Ad 4,1.28,83.98,12594,336,33,10993
+2025-03-01,TikTok,Brand Awareness,Set D,Ad 4,1.2,23.54,10943,130,26,9727
+2025-03-01,Instagram,Brand Awareness,Set C,Ad 2,1.49,36.54,1378,494,23,1823
+2025-03-01,X,Holiday Sale,Set A,Ad 5,0.86,230.54,13631,338,45,1780
+2025-03-01,Google Organic,Holiday Sale,Set D,Ad 4,1.69,142.21,9000,530,65,7328
+2025-03-02,Google,Back to School,Set A,Ad 2,1.95,261.12,9946,221,93,5098
+2025-03-02,Facebook,Retargeting,Set D,Ad 2,1.78,31.19,2670,448,59,10841
+2025-03-02,LinkedIn,Retargeting,Set B,Ad 4,1.96,298.83,13105,507,57,5433
+2025-03-02,TikTok,Summer Promo,Set B,Ad 1,1.28,88.56,6295,410,81,9779
+2025-03-02,Instagram,Holiday Sale,Set C,Ad 2,1.3,34.23,8668,454,48,2549
+2025-03-02,X,Back to School,Set D,Ad 5,1.69,75.48,1305,560,89,4570
+2025-03-02,Google Organic,Summer Promo,Set B,Ad 1,1.16,50.22,6292,508,7,2090
+2025-03-03,Google,Back to School,Set A,Ad 2,1.66,160.19,2943,106,61,5416
+2025-03-03,Facebook,Back to School,Set B,Ad 1,0.8,227.29,4159,545,58,1902
+2025-03-03,LinkedIn,Summer Promo,Set B,Ad 4,0.98,124.48,10188,445,30,10874
+2025-03-03,TikTok,Brand Awareness,Set B,Ad 5,1.38,74.02,2229,93,89,5151
+2025-03-03,Instagram,Back to School,Set C,Ad 3,0.85,184.52,9456,316,68,5775
+2025-03-03,X,Retargeting,Set B,Ad 2,1.62,256.62,3994,60,14,10468
+2025-03-03,Google Organic,Brand Awareness,Set B,Ad 5,1.29,149.6,14990,540,67,6794
+2025-03-04,Google,Back to School,Set C,Ad 5,1.75,70.57,3027,226,60,1799
+2025-03-04,Facebook,Holiday Sale,Set A,Ad 4,0.56,246.37,12341,325,100,4346
+2025-03-04,LinkedIn,Summer Promo,Set D,Ad 4,0.95,234.21,7494,168,75,7148
+2025-03-04,TikTok,Summer Promo,Set B,Ad 1,0.95,26.67,14492,151,28,11037
+2025-03-04,Instagram,Retargeting,Set A,Ad 4,1.07,275.8,1257,174,21,11073
+2025-03-04,X,Retargeting,Set C,Ad 4,1.0,53.31,10500,121,25,5247
+2025-03-04,Google Organic,Back to School,Set C,Ad 1,1.25,52.28,11392,206,82,11782
+2025-03-05,Google,Brand Awareness,Set A,Ad 3,1.71,26.3,2293,494,7,508
+2025-03-05,Facebook,Brand Awareness,Set C,Ad 4,1.68,166.34,14307,113,28,2443
+2025-03-05,LinkedIn,Summer Promo,Set C,Ad 1,0.76,218.36,5076,455,35,1195
+2025-03-05,TikTok,Summer Promo,Set B,Ad 3,0.53,234.81,14377,574,70,2615
+2025-03-05,Instagram,Brand Awareness,Set A,Ad 1,1.39,97.1,11253,509,62,2917
+2025-03-05,X,Summer Promo,Set D,Ad 3,1.81,65.29,14863,590,77,3330
+2025-03-05,Google Organic,Brand Awareness,Set C,Ad 5,0.91,184.38,2628,119,49,4024
+2025-03-06,Google,Holiday Sale,Set B,Ad 5,1.8,137.3,10904,154,10,735
+2025-03-06,Facebook,Brand Awareness,Set B,Ad 4,1.04,181.76,13287,566,20,7174
+2025-03-06,LinkedIn,Back to School,Set B,Ad 2,0.51,202.1,9745,100,37,670
+2025-03-06,TikTok,Retargeting,Set A,Ad 3,0.59,243.28,13025,188,62,1126
+2025-03-06,Instagram,Holiday Sale,Set D,Ad 1,1.61,121.93,2001,454,34,10248
+2025-03-06,X,Holiday Sale,Set A,Ad 4,1.74,151.55,9448,156,14,3126
+2025-03-06,Google Organic,Retargeting,Set D,Ad 2,1.92,83.02,4611,245,98,4526
+2025-03-07,Google,Brand Awareness,Set C,Ad 3,1.56,138.98,11858,349,99,1382
+2025-03-07,Facebook,Summer Promo,Set D,Ad 5,0.6,136.83,10858,554,32,10041
+2025-03-07,LinkedIn,Brand Awareness,Set C,Ad 2,0.51,134.59,9674,427,76,1598
+2025-03-07,TikTok,Brand Awareness,Set B,Ad 3,1.61,212.85,3931,256,98,11249
+2025-03-07,Instagram,Summer Promo,Set D,Ad 5,0.64,174.68,9780,201,97,9337
+2025-03-07,X,Holiday Sale,Set A,Ad 3,1.28,238.34,2942,490,31,10612
+2025-03-07,Google Organic,Retargeting,Set B,Ad 2,1.52,267.7,4519,584,58,10094
+2025-03-08,Google,Back to School,Set A,Ad 4,1.96,279.8,6911,133,76,4267
+2025-03-08,Facebook,Brand Awareness,Set C,Ad 1,0.83,293.37,2050,150,6,5942
+2025-03-08,LinkedIn,Summer Promo,Set C,Ad 1,1.42,114.62,8841,92,44,11391
+2025-03-08,TikTok,Summer Promo,Set B,Ad 2,0.56,22.29,3901,281,54,2210
+2025-03-08,Instagram,Brand Awareness,Set B,Ad 4,1.83,264.43,11308,216,35,2300
+2025-03-08,X,Summer Promo,Set B,Ad 5,0.59,213.62,11361,115,84,10216
+2025-03-08,Google Organic,Retargeting,Set C,Ad 5,1.96,265.71,13944,185,39,3814
+2025-03-09,Google,Back to School,Set C,Ad 2,1.37,249.07,8286,297,75,4159
+2025-03-09,Facebook,Retargeting,Set D,Ad 5,0.51,119.93,14831,368,5,6731
+2025-03-09,LinkedIn,Retargeting,Set D,Ad 1,1.59,55.63,8361,236,89,4105
+2025-03-09,TikTok,Holiday Sale,Set A,Ad 1,0.93,260.83,4516,273,57,6557
+2025-03-09,Instagram,Retargeting,Set C,Ad 2,0.81,290.7,2143,411,69,4686
+2025-03-09,X,Brand Awareness,Set D,Ad 4,1.53,117.29,7369,537,11,6242
+2025-03-09,Google Organic,Holiday Sale,Set C,Ad 1,1.08,181.18,1805,326,96,7030
+2025-03-10,Google,Brand Awareness,Set C,Ad 3,1.27,289.13,4942,446,100,1012
+2025-03-10,Facebook,Retargeting,Set A,Ad 5,0.96,225.72,1475,340,13,10829
+2025-03-10,LinkedIn,Back to School,Set C,Ad 1,0.89,259.02,12609,422,60,2991
+2025-03-10,TikTok,Back to School,Set D,Ad 5,1.44,296.25,3686,380,11,3669
+2025-03-10,Instagram,Holiday Sale,Set C,Ad 5,0.71,33.52,10774,190,40,10692
+2025-03-10,X,Summer Promo,Set D,Ad 4,1.16,85.99,13191,407,23,6467
+2025-03-10,Google Organic,Holiday Sale,Set D,Ad 4,0.6,76.04,13156,483,30,11784
+2025-03-11,Google,Holiday Sale,Set C,Ad 5,0.84,165.47,2758,411,71,1940
+2025-03-11,Facebook,Retargeting,Set C,Ad 2,1.98,224.42,4605,280,96,5483
+2025-03-11,LinkedIn,Holiday Sale,Set D,Ad 3,1.75,191.13,14913,111,7,10031
+2025-03-11,TikTok,Holiday Sale,Set A,Ad 2,1.41,180.03,4700,581,34,2672
+2025-03-11,Instagram,Brand Awareness,Set B,Ad 5,1.8,272.71,7706,185,8,8255
+2025-03-11,X,Summer Promo,Set D,Ad 1,1.29,51.94,12211,333,33,9284
+2025-03-11,Google Organic,Retargeting,Set B,Ad 5,0.69,282.17,1433,496,97,2652
+2025-03-12,Google,Holiday Sale,Set C,Ad 3,1.42,110.37,7773,436,52,1950
+2025-03-12,Facebook,Retargeting,Set B,Ad 1,1.58,106.19,6058,592,61,5972
+2025-03-12,LinkedIn,Retargeting,Set D,Ad 5,1.27,31.31,8171,575,55,1830
+2025-03-12,TikTok,Summer Promo,Set B,Ad 3,1.79,76.9,1595,271,26,11604
+2025-03-12,Instagram,Back to School,Set D,Ad 4,1.21,78.26,4178,403,94,10152
+2025-03-12,X,Back to School,Set C,Ad 3,0.66,60.59,5922,522,8,4610
+2025-03-12,Google Organic,Back to School,Set A,Ad 1,1.82,96.01,12763,596,94,5624
+2025-03-13,Google,Holiday Sale,Set A,Ad 1,0.75,65.36,7417,317,75,1967
+2025-03-13,Facebook,Holiday Sale,Set D,Ad 2,0.81,272.59,11176,185,46,9481
+2025-03-13,LinkedIn,Summer Promo,Set A,Ad 2,1.63,213.2,3494,107,70,2606
+2025-03-13,TikTok,Holiday Sale,Set B,Ad 2,1.27,22.46,12884,523,22,4476
+2025-03-13,Instagram,Brand Awareness,Set B,Ad 4,1.4,252.58,3133,383,29,8162
+2025-03-13,X,Holiday Sale,Set A,Ad 5,1.64,181.76,4849,541,8,11987
+2025-03-13,Google Organic,Holiday Sale,Set D,Ad 1,1.18,104.77,3956,86,62,11397
+2025-03-14,Google,Brand Awareness,Set C,Ad 2,1.31,278.18,9398,328,25,1422
+2025-03-14,Facebook,Holiday Sale,Set B,Ad 4,2.0,135.75,1626,526,64,4946
+2025-03-14,LinkedIn,Holiday Sale,Set C,Ad 4,1.01,234.21,4391,588,38,4971
+2025-03-14,TikTok,Holiday Sale,Set C,Ad 2,1.22,96.43,10112,534,84,10552
+2025-03-14,Instagram,Back to School,Set B,Ad 3,1.82,233.97,8445,585,62,4052
+2025-03-14,X,Retargeting,Set C,Ad 2,0.7,171.66,6630,167,97,4087
+2025-03-14,Google Organic,Back to School,Set A,Ad 3,1.49,120.94,11520,564,13,3883
+2025-03-15,Google,Summer Promo,Set A,Ad 3,1.06,23.36,12615,565,42,10921
+2025-03-15,Facebook,Retargeting,Set C,Ad 2,1.33,148.83,2963,96,28,10132
+2025-03-15,LinkedIn,Back to School,Set C,Ad 1,0.68,20.67,6481,139,22,2665
+2025-03-15,TikTok,Holiday Sale,Set C,Ad 2,1.9,197.22,9667,439,46,5072
+2025-03-15,Instagram,Holiday Sale,Set D,Ad 4,1.63,254.93,11008,76,91,10181
+2025-03-15,X,Holiday Sale,Set B,Ad 5,0.9,288.61,5966,357,64,7485
+2025-03-15,Google Organic,Holiday Sale,Set A,Ad 1,0.72,277.81,7033,140,53,4523
+2025-03-16,Google,Holiday Sale,Set B,Ad 2,1.36,82.11,5616,306,69,5337
+2025-03-16,Facebook,Back to School,Set B,Ad 4,0.81,183.01,1927,160,40,2340
+2025-03-16,LinkedIn,Summer Promo,Set C,Ad 5,1.0,54.46,2293,80,42,9203
+2025-03-16,TikTok,Brand Awareness,Set D,Ad 3,0.58,32.79,7595,256,35,10654
+2025-03-16,Instagram,Summer Promo,Set D,Ad 3,1.29,50.63,1371,189,98,2995
+2025-03-16,X,Brand Awareness,Set A,Ad 1,0.89,231.54,2753,395,72,2863
+2025-03-16,Google Organic,Back to School,Set A,Ad 4,0.85,68.84,6595,174,20,619
+2025-03-17,Google,Summer Promo,Set A,Ad 1,1.98,116.5,13849,109,21,11500
+2025-03-17,Facebook,Summer Promo,Set B,Ad 2,1.34,72.74,14694,324,96,7216
+2025-03-17,LinkedIn,Summer Promo,Set A,Ad 4,1.62,143.23,4238,481,57,8010
+2025-03-17,TikTok,Retargeting,Set D,Ad 2,1.3,115.83,13767,149,42,1641
+2025-03-17,Instagram,Back to School,Set C,Ad 5,1.04,291.03,2126,422,79,6479
+2025-03-17,X,Retargeting,Set C,Ad 2,1.27,143.11,3319,575,74,4556
+2025-03-17,Google Organic,Holiday Sale,Set A,Ad 4,1.52,235.59,6159,251,10,5228
+2025-03-18,Google,Back to School,Set B,Ad 2,1.87,279.59,13120,282,15,7841
+2025-03-18,Facebook,Summer Promo,Set A,Ad 2,1.89,111.57,4311,191,14,3678
+2025-03-18,LinkedIn,Brand Awareness,Set C,Ad 1,1.16,43.3,7167,542,39,9558
+2025-03-18,TikTok,Retargeting,Set A,Ad 1,0.59,262.06,14466,333,28,5126
+2025-03-18,Instagram,Summer Promo,Set D,Ad 1,1.07,111.24,13512,102,35,2418
+2025-03-18,X,Brand Awareness,Set C,Ad 5,0.95,97.14,9547,134,86,8945
+2025-03-18,Google Organic,Summer Promo,Set C,Ad 5,1.37,31.73,12117,232,92,4286
+2025-03-19,Google,Retargeting,Set A,Ad 1,1.98,97.77,1044,121,80,11900
+2025-03-19,Facebook,Brand Awareness,Set A,Ad 4,1.4,249.71,9207,539,93,10662
+2025-03-19,LinkedIn,Back to School,Set C,Ad 5,1.18,42.15,7863,527,53,4078
+2025-03-19,TikTok,Back to School,Set B,Ad 3,1.59,29.5,6521,254,30,5567
+2025-03-19,Instagram,Holiday Sale,Set B,Ad 1,1.42,80.53,7358,392,35,10610
+2025-03-19,X,Brand Awareness,Set A,Ad 4,1.22,43.58,1327,229,39,6954
+2025-03-19,Google Organic,Retargeting,Set D,Ad 4,0.92,154.21,12277,479,73,2611
+2025-03-20,Google,Brand Awareness,Set B,Ad 5,1.38,290.37,14050,447,81,8154
+2025-03-20,Facebook,Holiday Sale,Set D,Ad 1,1.49,224.09,13358,166,6,4111
+2025-03-20,LinkedIn,Brand Awareness,Set D,Ad 5,0.81,169.4,2314,329,8,818
+2025-03-20,TikTok,Holiday Sale,Set D,Ad 3,1.25,77.15,1062,189,34,7868
+2025-03-20,Instagram,Summer Promo,Set C,Ad 1,1.08,33.75,13657,507,51,1017
+2025-03-20,X,Back to School,Set A,Ad 3,1.63,292.3,7262,237,50,2025
+2025-03-20,Google Organic,Back to School,Set D,Ad 3,1.66,165.99,11507,334,92,1831
+2025-03-21,Google,Back to School,Set C,Ad 1,1.83,47.54,8362,178,21,7257
+2025-03-21,Facebook,Retargeting,Set B,Ad 5,1.51,91.75,14817,65,11,11598
+2025-03-21,LinkedIn,Holiday Sale,Set D,Ad 2,1.77,26.83,12504,468,44,10078
+2025-03-21,TikTok,Brand Awareness,Set C,Ad 1,1.68,185.55,5931,586,60,10778
+2025-03-21,Instagram,Summer Promo,Set A,Ad 2,0.6,110.72,2904,160,63,6324
+2025-03-21,X,Retargeting,Set D,Ad 1,1.18,197.61,9367,248,53,4326
+2025-03-21,Google Organic,Brand Awareness,Set B,Ad 1,0.86,66.2,10596,219,88,9232
+2025-03-22,Google,Brand Awareness,Set C,Ad 1,1.72,169.14,6775,526,79,7257
+2025-03-22,Facebook,Brand Awareness,Set C,Ad 3,1.02,285.5,5655,451,49,9683
+2025-03-22,LinkedIn,Brand Awareness,Set B,Ad 1,1.15,285.29,6404,595,49,9299
+2025-03-22,TikTok,Summer Promo,Set D,Ad 5,1.58,54.63,1226,322,97,2988
+2025-03-22,Instagram,Summer Promo,Set B,Ad 3,1.47,29.94,3599,538,46,7254
+2025-03-22,X,Holiday Sale,Set B,Ad 2,0.61,112.91,3068,431,38,8334
+2025-03-22,Google Organic,Back to School,Set D,Ad 3,0.53,46.9,9888,499,38,6340
+2025-03-23,Google,Retargeting,Set D,Ad 4,1.94,153.06,14937,535,52,6006
+2025-03-23,Facebook,Retargeting,Set B,Ad 4,1.41,115.77,3477,326,73,8409
+2025-03-23,LinkedIn,Retargeting,Set D,Ad 3,0.83,277.24,10252,396,16,8901
+2025-03-23,TikTok,Brand Awareness,Set C,Ad 2,1.25,207.9,6641,119,91,4079
+2025-03-23,Instagram,Brand Awareness,Set B,Ad 4,0.67,82.39,6416,169,51,3208
+2025-03-23,X,Summer Promo,Set C,Ad 2,1.28,81.64,11372,437,58,4421
+2025-03-23,Google Organic,Back to School,Set D,Ad 5,0.95,211.88,5614,326,15,4025
+2025-03-24,Google,Holiday Sale,Set A,Ad 4,1.94,224.87,11206,120,89,7681
+2025-03-24,Facebook,Holiday Sale,Set A,Ad 5,1.18,92.74,3366,122,51,9358
+2025-03-24,LinkedIn,Holiday Sale,Set A,Ad 4,1.45,185.35,7482,320,82,3751
+2025-03-24,TikTok,Retargeting,Set A,Ad 2,1.1,91.68,12761,506,5,5173
+2025-03-24,Instagram,Summer Promo,Set B,Ad 2,0.64,195.63,2361,378,34,9878
+2025-03-24,X,Retargeting,Set A,Ad 5,1.95,244.0,9692,464,15,798
+2025-03-24,Google Organic,Summer Promo,Set B,Ad 3,1.07,38.45,8014,56,51,4843
+2025-03-25,Google,Brand Awareness,Set A,Ad 3,1.65,51.76,1645,585,86,2881
+2025-03-25,Facebook,Summer Promo,Set A,Ad 1,1.36,276.79,12119,511,25,3053
+2025-03-25,LinkedIn,Brand Awareness,Set B,Ad 2,1.84,83.34,6530,339,21,7569
+2025-03-25,TikTok,Summer Promo,Set A,Ad 3,0.79,138.39,2567,333,20,5974
+2025-03-25,Instagram,Holiday Sale,Set D,Ad 1,1.53,185.25,12813,329,62,11252
+2025-03-25,X,Retargeting,Set C,Ad 4,0.75,123.73,14667,526,82,1524
+2025-03-25,Google Organic,Back to School,Set D,Ad 2,1.3,190.82,3714,152,96,6538
+2025-03-26,Google,Holiday Sale,Set C,Ad 2,0.71,167.8,2046,203,24,10315
+2025-03-26,Facebook,Brand Awareness,Set D,Ad 2,1.54,256.53,14127,125,76,1084
+2025-03-26,LinkedIn,Summer Promo,Set A,Ad 4,1.41,142.02,2460,64,75,9706
+2025-03-26,TikTok,Brand Awareness,Set B,Ad 1,0.54,190.34,5024,233,15,9905
+2025-03-26,Instagram,Summer Promo,Set B,Ad 3,1.64,101.01,10430,505,52,7285
+2025-03-26,X,Brand Awareness,Set B,Ad 4,0.95,46.95,7836,530,82,2951
+2025-03-26,Google Organic,Summer Promo,Set D,Ad 5,0.76,164.41,14907,102,55,5319
+2025-03-27,Google,Holiday Sale,Set C,Ad 5,0.97,94.97,6861,211,40,627
+2025-03-27,Facebook,Brand Awareness,Set B,Ad 4,1.27,48.06,11109,183,9,4091
+2025-03-27,LinkedIn,Back to School,Set C,Ad 3,1.7,230.65,3130,118,86,1927
+2025-03-27,TikTok,Summer Promo,Set A,Ad 5,1.59,253.79,11232,600,27,3767
+2025-03-27,Instagram,Brand Awareness,Set A,Ad 2,1.9,270.22,11488,577,25,4795
+2025-03-27,X,Retargeting,Set A,Ad 3,0.88,280.66,6551,351,7,2938
+2025-03-27,Google Organic,Brand Awareness,Set B,Ad 5,0.53,293.6,6878,187,94,7833
+2025-03-28,Google,Retargeting,Set D,Ad 4,1.83,113.03,8002,532,30,1742
+2025-03-28,Facebook,Retargeting,Set B,Ad 3,1.56,50.54,14957,451,15,2475
+2025-03-28,LinkedIn,Summer Promo,Set A,Ad 2,0.62,204.43,4934,392,60,3987
+2025-03-28,TikTok,Back to School,Set A,Ad 3,1.36,33.59,5487,522,41,8311
+2025-03-28,Instagram,Brand Awareness,Set B,Ad 5,1.77,204.27,6389,287,45,5561
+2025-03-28,X,Brand Awareness,Set A,Ad 4,0.97,129.97,8238,480,87,2923
+2025-03-28,Google Organic,Brand Awareness,Set A,Ad 4,1.27,204.05,6915,527,16,5140
+2025-03-29,Google,Holiday Sale,Set D,Ad 4,1.31,226.57,14997,105,71,2943
+2025-03-29,Facebook,Retargeting,Set D,Ad 5,1.93,27.62,2856,584,34,1144
+2025-03-29,LinkedIn,Holiday Sale,Set D,Ad 4,1.8,86.47,7499,200,20,10321
+2025-03-29,TikTok,Retargeting,Set C,Ad 4,0.92,42.02,14548,399,66,3230
+2025-03-29,Instagram,Back to School,Set A,Ad 3,1.44,72.59,8787,506,26,3243
+2025-03-29,X,Holiday Sale,Set C,Ad 1,1.47,56.2,10051,282,57,10787
+2025-03-29,Google Organic,Retargeting,Set C,Ad 3,1.6,250.2,9125,437,49,3092
+2025-03-30,Google,Retargeting,Set B,Ad 2,0.84,84.86,14924,325,21,3504
+2025-03-30,Facebook,Back to School,Set C,Ad 4,1.0,208.41,13196,268,15,2797
+2025-03-30,LinkedIn,Retargeting,Set A,Ad 3,1.42,232.96,8987,336,85,8673
+2025-03-30,TikTok,Brand Awareness,Set C,Ad 5,1.69,230.68,6001,326,46,7031
+2025-03-30,Instagram,Holiday Sale,Set D,Ad 4,1.51,222.53,13437,571,42,9128
+2025-03-30,X,Back to School,Set C,Ad 1,0.51,160.12,14665,313,32,10688
+2025-03-30,Google Organic,Retargeting,Set A,Ad 2,1.9,265.57,12316,239,7,4578
+2025-03-31,Google,Retargeting,Set B,Ad 5,1.25,56.6,2617,303,78,747
+2025-03-31,Facebook,Retargeting,Set D,Ad 2,1.44,120.74,13731,222,19,9101
+2025-03-31,LinkedIn,Brand Awareness,Set A,Ad 1,0.61,289.96,12551,301,74,8727
+2025-03-31,TikTok,Holiday Sale,Set B,Ad 2,1.47,65.8,14604,66,85,10854
+2025-03-31,Instagram,Retargeting,Set B,Ad 2,1.2,250.32,8846,64,100,4194
+2025-03-31,X,Back to School,Set D,Ad 2,2.0,98.01,2073,59,51,11912
+2025-03-31,Google Organic,Brand Awareness,Set B,Ad 3,1.15,127.94,10021,258,19,2590
+2025-04-01,Google,Holiday Sale,Set A,Ad 2,0.96,288.11,7592,382,60,3857
+2025-04-01,Facebook,Brand Awareness,Set B,Ad 3,1.54,223.94,13698,566,47,1605
+2025-04-01,LinkedIn,Brand Awareness,Set D,Ad 5,1.92,271.83,14028,212,57,4963
+2025-04-01,TikTok,Brand Awareness,Set A,Ad 2,1.94,108.36,6064,589,85,3691
+2025-04-01,Instagram,Summer Promo,Set C,Ad 4,1.63,45.01,11003,76,77,6045
+2025-04-01,X,Back to School,Set B,Ad 4,0.73,215.41,12235,153,74,9069
+2025-04-01,Google Organic,Holiday Sale,Set A,Ad 1,1.14,130.98,14009,70,68,2761
+2025-04-02,Google,Retargeting,Set B,Ad 2,1.44,86.86,14673,82,76,10367
+2025-04-02,Facebook,Brand Awareness,Set B,Ad 2,1.98,186.36,13321,143,38,8424
+2025-04-02,LinkedIn,Brand Awareness,Set B,Ad 5,1.84,77.55,9118,110,73,10833
+2025-04-02,TikTok,Back to School,Set C,Ad 3,1.23,238.62,12475,207,45,1610
+2025-04-02,Instagram,Brand Awareness,Set B,Ad 2,1.83,262.78,7778,266,74,9990
+2025-04-02,X,Back to School,Set C,Ad 5,1.64,263.36,1407,312,20,8113
+2025-04-02,Google Organic,Back to School,Set C,Ad 2,1.61,114.24,5099,366,78,4218
+2025-04-03,Google,Retargeting,Set C,Ad 5,1.31,21.98,4017,529,61,8830
+2025-04-03,Facebook,Brand Awareness,Set B,Ad 3,1.09,96.78,6511,440,90,6111
+2025-04-03,LinkedIn,Holiday Sale,Set D,Ad 5,1.57,252.82,9781,490,28,652
+2025-04-03,TikTok,Retargeting,Set A,Ad 3,1.51,278.47,10059,120,34,1752
+2025-04-03,Instagram,Retargeting,Set A,Ad 2,1.09,264.35,10832,206,47,6744
+2025-04-03,X,Back to School,Set D,Ad 2,0.97,242.7,12537,272,48,11555
+2025-04-03,Google Organic,Retargeting,Set B,Ad 5,1.08,166.97,2222,467,98,2380
+2025-04-04,Google,Back to School,Set D,Ad 1,1.27,233.44,12662,241,8,5142
+2025-04-04,Facebook,Retargeting,Set B,Ad 1,0.99,212.13,11034,190,41,10354
+2025-04-04,LinkedIn,Summer Promo,Set D,Ad 2,1.67,230.97,7450,65,38,8012
+2025-04-04,TikTok,Back to School,Set A,Ad 2,0.58,69.39,7183,72,74,11283
+2025-04-04,Instagram,Holiday Sale,Set B,Ad 2,1.26,284.57,10101,242,51,7965
+2025-04-04,X,Retargeting,Set B,Ad 1,0.89,27.58,8779,67,58,6194
+2025-04-04,Google Organic,Holiday Sale,Set C,Ad 5,1.23,83.74,10580,123,50,2504
+2025-04-05,Google,Back to School,Set A,Ad 4,1.31,249.48,11926,85,56,6754
+2025-04-05,Facebook,Retargeting,Set B,Ad 3,1.1,136.87,7826,583,93,5806
+2025-04-05,LinkedIn,Brand Awareness,Set D,Ad 2,0.93,61.53,10033,147,54,7270
+2025-04-05,TikTok,Holiday Sale,Set C,Ad 1,1.86,100.01,7398,70,18,1671
+2025-04-05,Instagram,Back to School,Set D,Ad 3,1.72,67.51,13757,168,24,8659
+2025-04-05,X,Retargeting,Set C,Ad 1,1.56,135.58,14879,138,79,5920
+2025-04-05,Google Organic,Back to School,Set B,Ad 4,0.91,76.74,2520,450,62,6946
+2025-04-06,Google,Summer Promo,Set A,Ad 5,1.34,177.47,8836,452,29,10376
+2025-04-06,Facebook,Back to School,Set C,Ad 3,0.95,240.47,5827,485,73,10780
+2025-04-06,LinkedIn,Holiday Sale,Set A,Ad 5,1.92,204.94,6289,434,13,7123
+2025-04-06,TikTok,Holiday Sale,Set D,Ad 2,1.36,53.54,2276,330,42,2103
+2025-04-06,Instagram,Retargeting,Set A,Ad 1,1.42,102.97,7266,252,89,5564
+2025-04-06,X,Retargeting,Set D,Ad 2,1.57,48.36,14708,291,24,10252
+2025-04-06,Google Organic,Retargeting,Set B,Ad 4,0.66,259.56,12076,566,65,8682
+2025-04-07,Google,Retargeting,Set A,Ad 2,1.51,125.27,14009,270,35,3582
+2025-04-07,Facebook,Brand Awareness,Set D,Ad 4,1.24,272.17,7659,155,89,1160
+2025-04-07,LinkedIn,Brand Awareness,Set D,Ad 5,1.79,262.65,9089,139,35,4415
+2025-04-07,TikTok,Back to School,Set C,Ad 5,1.11,177.67,14621,100,22,10055
+2025-04-07,Instagram,Retargeting,Set A,Ad 5,1.0,267.54,4229,415,29,4776
+2025-04-07,X,Brand Awareness,Set D,Ad 2,1.19,152.27,7938,64,47,11474
+2025-04-07,Google Organic,Holiday Sale,Set D,Ad 4,1.42,157.4,5817,193,48,5051
+2025-04-08,Google,Brand Awareness,Set B,Ad 3,1.08,74.92,3617,306,20,9061
+2025-04-08,Facebook,Back to School,Set B,Ad 2,1.94,33.06,1281,241,21,7312
+2025-04-08,LinkedIn,Retargeting,Set B,Ad 3,1.76,292.56,1416,104,27,3207
+2025-04-08,TikTok,Brand Awareness,Set C,Ad 1,1.54,149.96,8610,189,81,2677
+2025-04-08,Instagram,Holiday Sale,Set B,Ad 1,1.86,206.37,11870,305,62,8294
+2025-04-08,X,Summer Promo,Set B,Ad 3,1.27,266.98,2007,274,92,4628
+2025-04-08,Google Organic,Back to School,Set B,Ad 1,1.69,107.87,3457,144,58,1878
+2025-04-09,Google,Retargeting,Set D,Ad 2,1.57,280.47,4516,317,98,2674
+2025-04-09,Facebook,Summer Promo,Set D,Ad 1,1.46,147.83,6125,62,93,1072
+2025-04-09,LinkedIn,Retargeting,Set B,Ad 5,1.3,82.71,1410,117,59,1193
+2025-04-09,TikTok,Brand Awareness,Set B,Ad 1,0.76,192.47,10340,213,30,6268
+2025-04-09,Instagram,Holiday Sale,Set C,Ad 1,0.81,125.84,1902,382,53,6747
+2025-04-09,X,Retargeting,Set C,Ad 1,1.42,142.81,6974,185,82,3867
+2025-04-09,Google Organic,Holiday Sale,Set A,Ad 5,0.9,194.14,12163,180,26,10020
+2025-04-10,Google,Summer Promo,Set C,Ad 1,1.06,172.32,10734,389,69,5750
+2025-04-10,Facebook,Retargeting,Set C,Ad 2,1.57,74.77,7059,227,99,7910
+2025-04-10,LinkedIn,Holiday Sale,Set B,Ad 1,1.16,57.4,8842,445,55,3557
+2025-04-10,TikTok,Summer Promo,Set D,Ad 1,1.44,41.76,10958,420,40,4832
+2025-04-10,Instagram,Back to School,Set A,Ad 4,1.2,282.81,13565,235,41,9981
+2025-04-10,X,Holiday Sale,Set D,Ad 3,0.82,257.82,10229,594,67,911
+2025-04-10,Google Organic,Brand Awareness,Set D,Ad 1,1.97,205.69,6032,188,73,1318
+2025-04-11,Google,Brand Awareness,Set D,Ad 1,0.91,90.19,9621,296,85,11687
+2025-04-11,Facebook,Summer Promo,Set A,Ad 1,1.31,132.79,11956,396,27,6940
+2025-04-11,LinkedIn,Summer Promo,Set A,Ad 5,1.29,214.6,1387,365,23,10801
+2025-04-11,TikTok,Retargeting,Set A,Ad 1,1.24,31.36,8751,546,76,3433
+2025-04-11,Instagram,Retargeting,Set C,Ad 4,0.51,85.47,14114,111,45,8753
+2025-04-11,X,Retargeting,Set A,Ad 2,0.83,92.52,1868,99,45,5345
+2025-04-11,Google Organic,Brand Awareness,Set C,Ad 2,1.0,188.39,6140,363,54,6142
+2025-04-12,Google,Holiday Sale,Set A,Ad 2,1.01,252.36,8116,178,32,5513
+2025-04-12,Facebook,Brand Awareness,Set B,Ad 5,1.47,214.28,8217,145,93,9141
+2025-04-12,LinkedIn,Back to School,Set A,Ad 4,0.96,146.93,7841,292,98,6172
+2025-04-12,TikTok,Back to School,Set C,Ad 4,0.56,40.13,12023,212,98,1534
+2025-04-12,Instagram,Holiday Sale,Set A,Ad 2,1.48,274.17,11013,554,93,6097
+2025-04-12,X,Retargeting,Set A,Ad 3,1.61,40.27,4639,311,62,6375
+2025-04-12,Google Organic,Summer Promo,Set D,Ad 5,1.53,93.19,12714,494,10,2672
+2025-04-13,Google,Retargeting,Set B,Ad 3,1.78,193.11,2353,562,65,7391
+2025-04-13,Facebook,Brand Awareness,Set B,Ad 2,1.2,140.25,9874,204,28,7562
+2025-04-13,LinkedIn,Holiday Sale,Set D,Ad 4,0.7,278.71,4279,50,23,1145
+2025-04-13,TikTok,Brand Awareness,Set B,Ad 4,0.7,277.13,10547,193,39,9166
+2025-04-13,Instagram,Brand Awareness,Set D,Ad 1,1.53,276.41,3227,109,11,10385
+2025-04-13,X,Brand Awareness,Set B,Ad 2,1.53,159.27,14632,143,25,8253
+2025-04-13,Google Organic,Summer Promo,Set B,Ad 3,0.79,180.53,4684,94,8,10009
+2025-04-14,Google,Summer Promo,Set C,Ad 3,1.86,71.45,1365,390,66,11481
+2025-04-14,Facebook,Holiday Sale,Set C,Ad 2,0.77,134.2,13462,294,34,11695
+2025-04-14,LinkedIn,Back to School,Set A,Ad 2,0.66,298.31,10896,557,77,4936
+2025-04-14,TikTok,Brand Awareness,Set D,Ad 2,1.23,200.9,14595,91,93,10772
+2025-04-14,Instagram,Retargeting,Set C,Ad 4,1.52,65.18,3252,455,86,11087
+2025-04-14,X,Summer Promo,Set B,Ad 2,1.87,124.83,12458,328,77,2148
+2025-04-14,Google Organic,Back to School,Set D,Ad 3,0.92,156.53,9039,300,87,2064
+2025-04-15,Google,Brand Awareness,Set A,Ad 4,1.07,127.54,1037,191,70,5091
+2025-04-15,Facebook,Back to School,Set B,Ad 3,1.2,217.47,4453,368,59,4481
+2025-04-15,LinkedIn,Brand Awareness,Set D,Ad 2,1.74,80.55,12352,231,98,2894
+2025-04-15,TikTok,Retargeting,Set D,Ad 1,1.2,198.24,11107,188,48,9894
+2025-04-15,Instagram,Summer Promo,Set D,Ad 3,1.16,175.83,13771,125,6,4632
+2025-04-15,X,Retargeting,Set D,Ad 5,0.87,151.7,9730,95,10,10526
+2025-04-15,Google Organic,Brand Awareness,Set D,Ad 2,0.9,241.7,14859,102,86,3711
+2025-04-16,Google,Back to School,Set D,Ad 3,0.57,94.43,10251,200,98,6782
+2025-04-16,Facebook,Summer Promo,Set A,Ad 2,1.71,102.19,2180,59,72,7181
+2025-04-16,LinkedIn,Holiday Sale,Set C,Ad 2,1.23,97.3,2912,221,98,11469
+2025-04-16,TikTok,Summer Promo,Set C,Ad 1,0.55,295.13,10900,169,36,6807
+2025-04-16,Instagram,Retargeting,Set C,Ad 1,1.85,57.75,3820,517,71,10708
+2025-04-16,X,Back to School,Set C,Ad 4,0.66,146.14,5405,534,51,1685
+2025-04-16,Google Organic,Holiday Sale,Set B,Ad 5,1.45,122.02,7560,499,29,10392
+2025-04-17,Google,Brand Awareness,Set B,Ad 5,1.23,262.0,6895,84,75,3995
+2025-04-17,Facebook,Back to School,Set C,Ad 1,0.73,104.01,6932,80,65,8042
+2025-04-17,LinkedIn,Holiday Sale,Set A,Ad 4,1.18,165.87,3982,117,9,11583
+2025-04-17,TikTok,Holiday Sale,Set D,Ad 4,1.15,43.33,11707,161,61,6122
+2025-04-17,Instagram,Retargeting,Set B,Ad 1,0.93,110.68,9078,348,41,2318
+2025-04-17,X,Back to School,Set D,Ad 5,0.95,57.04,13905,542,64,11850
+2025-04-17,Google Organic,Back to School,Set A,Ad 3,1.65,295.51,1992,579,66,11792
+2025-04-18,Google,Brand Awareness,Set C,Ad 1,1.69,277.5,6339,438,29,3721
+2025-04-18,Facebook,Back to School,Set C,Ad 4,1.57,193.02,7961,588,92,1722
+2025-04-18,LinkedIn,Retargeting,Set A,Ad 3,1.36,263.75,11713,407,55,5893
+2025-04-18,TikTok,Back to School,Set C,Ad 4,1.84,86.46,8809,85,74,9622
+2025-04-18,Instagram,Holiday Sale,Set C,Ad 5,0.5,26.19,3663,418,8,7161
+2025-04-18,X,Retargeting,Set B,Ad 4,0.63,39.93,14129,378,84,4794
+2025-04-18,Google Organic,Brand Awareness,Set A,Ad 4,1.44,87.57,12062,232,91,11193
+2025-04-19,Google,Retargeting,Set B,Ad 3,1.54,204.96,4425,316,71,9345
+2025-04-19,Facebook,Holiday Sale,Set C,Ad 4,0.98,174.43,13269,378,54,8818
+2025-04-19,LinkedIn,Summer Promo,Set A,Ad 5,1.91,62.8,5827,541,48,3304
+2025-04-19,TikTok,Back to School,Set A,Ad 5,1.73,292.27,4214,471,84,3306
+2025-04-19,Instagram,Holiday Sale,Set D,Ad 1,1.63,184.83,11217,546,17,5816
+2025-04-19,X,Brand Awareness,Set D,Ad 2,1.37,86.06,12246,568,27,10920
+2025-04-19,Google Organic,Retargeting,Set D,Ad 2,1.8,121.37,8507,576,5,1401
+2025-04-20,Google,Brand Awareness,Set B,Ad 3,1.67,102.88,6952,375,74,1478
+2025-04-20,Facebook,Retargeting,Set D,Ad 5,1.97,122.27,7655,479,14,11449
+2025-04-20,LinkedIn,Brand Awareness,Set B,Ad 3,0.66,146.14,7788,354,80,3542
+2025-04-20,TikTok,Holiday Sale,Set C,Ad 3,0.6,222.13,1835,439,96,8265
+2025-04-20,Instagram,Summer Promo,Set D,Ad 3,0.54,246.5,5780,118,58,11881
+2025-04-20,X,Retargeting,Set D,Ad 1,1.84,24.54,10250,351,44,3677
+2025-04-20,Google Organic,Back to School,Set B,Ad 4,0.56,82.89,5316,53,90,4699
+2025-04-21,Google,Summer Promo,Set B,Ad 3,1.54,216.73,9730,71,30,3305
+2025-04-21,Facebook,Holiday Sale,Set B,Ad 3,1.25,102.03,9869,501,65,5751
+2025-04-21,LinkedIn,Back to School,Set C,Ad 2,0.84,109.91,1096,219,34,3321
+2025-04-21,TikTok,Back to School,Set C,Ad 1,1.02,119.89,4666,573,96,1268
+2025-04-21,Instagram,Back to School,Set A,Ad 3,0.92,266.7,12701,184,56,907
+2025-04-21,X,Back to School,Set C,Ad 3,1.7,174.1,9172,419,62,8517
+2025-04-21,Google Organic,Summer Promo,Set B,Ad 1,0.74,35.64,14257,438,91,6124
+2025-04-22,Google,Summer Promo,Set A,Ad 5,0.73,64.25,2613,438,42,8415
+2025-04-22,Facebook,Brand Awareness,Set C,Ad 4,1.05,192.59,3314,67,26,3424
+2025-04-22,LinkedIn,Holiday Sale,Set D,Ad 1,1.12,237.24,13858,501,36,11110
+2025-04-22,TikTok,Brand Awareness,Set D,Ad 4,1.74,98.93,6360,153,8,3222
+2025-04-22,Instagram,Holiday Sale,Set D,Ad 2,1.82,266.09,12750,175,37,6087
+2025-04-22,X,Brand Awareness,Set C,Ad 3,0.73,287.34,13578,415,61,10018
+2025-04-22,Google Organic,Summer Promo,Set A,Ad 2,1.33,40.01,5377,486,52,10347
+2025-04-23,Google,Summer Promo,Set A,Ad 4,1.04,28.21,13042,55,28,10279
+2025-04-23,Facebook,Holiday Sale,Set D,Ad 1,1.58,263.6,3725,470,65,11734
+2025-04-23,LinkedIn,Retargeting,Set C,Ad 1,0.81,242.31,8712,57,31,7089
+2025-04-23,TikTok,Holiday Sale,Set B,Ad 3,1.82,53.14,11731,568,33,1527
+2025-04-23,Instagram,Brand Awareness,Set B,Ad 4,0.8,166.57,10594,422,70,7907
+2025-04-23,X,Holiday Sale,Set A,Ad 2,0.68,102.8,4166,476,99,1544
+2025-04-23,Google Organic,Holiday Sale,Set B,Ad 4,1.35,31.22,12946,344,67,8122
+2025-04-24,Google,Summer Promo,Set D,Ad 2,0.85,268.77,4768,190,50,3852
+2025-04-24,Facebook,Retargeting,Set D,Ad 5,1.78,172.7,1308,207,25,9657
+2025-04-24,LinkedIn,Brand Awareness,Set A,Ad 3,1.77,151.68,2385,256,86,1992
+2025-04-24,TikTok,Back to School,Set C,Ad 3,1.25,216.41,11214,166,68,6096
+2025-04-24,Instagram,Holiday Sale,Set D,Ad 2,0.98,195.19,2536,318,87,4412
+2025-04-24,X,Back to School,Set A,Ad 4,1.58,110.47,5130,52,54,6006
+2025-04-24,Google Organic,Summer Promo,Set D,Ad 4,0.8,125.69,2506,129,83,9723
+2025-04-25,Google,Retargeting,Set C,Ad 3,1.45,153.27,4988,579,28,2682
+2025-04-25,Facebook,Retargeting,Set D,Ad 4,1.7,84.8,3235,513,66,10610
+2025-04-25,LinkedIn,Summer Promo,Set C,Ad 2,1.86,146.26,9695,227,41,3755
+2025-04-25,TikTok,Summer Promo,Set A,Ad 3,0.9,274.92,5148,111,66,8669
+2025-04-25,Instagram,Back to School,Set C,Ad 1,0.76,299.57,7126,586,97,11545
+2025-04-25,X,Brand Awareness,Set D,Ad 4,0.63,278.08,1830,466,79,1880
+2025-04-25,Google Organic,Holiday Sale,Set B,Ad 1,0.86,228.01,7392,319,58,11627
+2025-04-26,Google,Summer Promo,Set D,Ad 5,0.88,53.94,6240,66,79,11062
+2025-04-26,Facebook,Back to School,Set D,Ad 3,1.03,247.09,5572,95,15,1971
+2025-04-26,LinkedIn,Holiday Sale,Set B,Ad 2,1.52,232.16,5864,226,25,9204
+2025-04-26,TikTok,Back to School,Set C,Ad 1,1.37,237.7,4667,201,80,857
+2025-04-26,Instagram,Retargeting,Set C,Ad 5,0.58,100.32,1749,69,51,10471
+2025-04-26,X,Retargeting,Set C,Ad 1,1.87,299.85,12082,252,60,10246
+2025-04-26,Google Organic,Brand Awareness,Set D,Ad 1,0.91,214.45,8207,166,17,2921
+2025-04-27,Google,Holiday Sale,Set B,Ad 5,1.92,222.65,4487,88,19,8068
+2025-04-27,Facebook,Summer Promo,Set D,Ad 3,0.72,123.64,2534,194,35,7971
+2025-04-27,LinkedIn,Back to School,Set A,Ad 3,1.64,269.77,2493,304,43,11442
+2025-04-27,TikTok,Summer Promo,Set D,Ad 3,1.88,147.06,2077,54,100,3943
+2025-04-27,Instagram,Retargeting,Set A,Ad 4,1.95,184.23,2907,292,43,10773
+2025-04-27,X,Brand Awareness,Set B,Ad 5,1.03,198.47,7132,507,80,8149
+2025-04-27,Google Organic,Back to School,Set A,Ad 3,1.21,154.07,11773,416,73,9310
+2025-04-28,Google,Back to School,Set A,Ad 4,1.28,21.37,2869,389,56,9692
+2025-04-28,Facebook,Brand Awareness,Set D,Ad 2,1.53,234.87,12818,67,33,11359
+2025-04-28,LinkedIn,Retargeting,Set B,Ad 3,1.78,282.21,2112,210,67,686
+2025-04-28,TikTok,Back to School,Set C,Ad 5,1.12,81.72,5933,413,47,11398
+2025-04-28,Instagram,Holiday Sale,Set C,Ad 1,1.78,146.41,7756,511,57,6086
+2025-04-28,X,Holiday Sale,Set D,Ad 5,0.67,239.3,9387,147,44,5517
+2025-04-28,Google Organic,Brand Awareness,Set C,Ad 4,1.22,124.1,6092,66,9,8637
+2025-04-29,Google,Holiday Sale,Set A,Ad 1,1.93,233.21,4707,528,78,2139
+2025-04-29,Facebook,Holiday Sale,Set A,Ad 5,1.28,191.21,4908,383,99,6627
+2025-04-29,LinkedIn,Retargeting,Set A,Ad 1,1.87,75.82,1083,344,92,928
+2025-04-29,TikTok,Holiday Sale,Set A,Ad 5,0.71,173.57,5469,170,27,7199
+2025-04-29,Instagram,Brand Awareness,Set B,Ad 5,0.94,166.42,4305,96,81,10775
+2025-04-29,X,Back to School,Set C,Ad 2,1.28,145.82,12510,161,34,3021
+2025-04-29,Google Organic,Back to School,Set C,Ad 1,0.82,156.97,7384,263,28,3659
+2025-04-30,Google,Retargeting,Set D,Ad 3,1.99,65.47,3973,111,32,8037
+2025-04-30,Facebook,Brand Awareness,Set A,Ad 4,1.01,290.25,12315,296,62,11929
+2025-04-30,LinkedIn,Holiday Sale,Set B,Ad 3,1.03,277.93,4659,474,87,6608
+2025-04-30,TikTok,Brand Awareness,Set B,Ad 4,0.82,69.8,3603,448,97,7876
+2025-04-30,Instagram,Brand Awareness,Set B,Ad 1,1.02,129.73,1447,273,49,1870
+2025-04-30,X,Back to School,Set A,Ad 3,0.52,30.72,6339,245,53,8773
+2025-04-30,Google Organic,Retargeting,Set A,Ad 1,0.87,142.54,4409,496,69,6487
+2025-05-01,Google,Back to School,Set C,Ad 2,0.55,33.89,2584,181,55,6036
+2025-05-01,Facebook,Back to School,Set A,Ad 5,1.57,38.17,9267,61,42,6183
+2025-05-01,LinkedIn,Brand Awareness,Set C,Ad 1,1.7,242.21,10212,359,100,10731
+2025-05-01,TikTok,Summer Promo,Set B,Ad 2,1.53,290.28,11898,150,42,8119
+2025-05-01,Instagram,Holiday Sale,Set A,Ad 4,1.98,255.89,6043,462,57,8614
+2025-05-01,X,Back to School,Set C,Ad 5,1.34,190.62,11741,162,9,5637
+2025-05-01,Google Organic,Back to School,Set D,Ad 1,0.83,247.63,1073,564,41,7998
